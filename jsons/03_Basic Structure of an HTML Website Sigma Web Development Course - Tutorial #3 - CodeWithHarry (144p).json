@@ -1,0 +1,2203 @@
+{
+    "chunks": [
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 0.0,
+            "end": 3.68,
+            "text": " What's up guys, you're back to the Sigma web development course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 3.68,
+            "end": 7.2,
+            "text": " I'm really very happy that you guys have given so much love to this course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 7.2,
+            "end": 9.32,
+            "text": " Like this course with high energy guys."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 9.32,
+            "end": 13.040000000000001,
+            "text": " Because for a Sigma free course, you need to like the Sigma chats."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 13.040000000000001,
+            "end": 17.52,
+            "text": " In today's video, I'll explain you the basic structure of a website."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 17.52,
+            "end": 20.68,
+            "text": " Along with that, I'll tell you a mobile trick"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 20.68,
+            "end": 25.72,
+            "text": " which will help you guys to know how to preview your websites on your phone."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 25.72,
+            "end": 28.560000000000002,
+            "text": " I have a request from you guys that you guys write in the comment section"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 28.56,
+            "end": 30.56,
+            "text": " whether you know HTML or not."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 30.56,
+            "end": 32.56,
+            "text": " That will help me structure this course better."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 32.56,
+            "end": 35.44,
+            "text": " In this video, I'll tell you the impact of chat GPT."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 35.44,
+            "end": 38.4,
+            "text": " Because there are a lot of talks going on about chat GPT these days."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 38.4,
+            "end": 41.0,
+            "text": " In the coming videos, I'm going to give you guys quizzes."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 41.0,
+            "end": 44.28,
+            "text": " So understand this video very carefully and learn all the concepts."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 44.28,
+            "end": 45.8,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 45.8,
+            "end": 47.239999999999995,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 55.76,
+            "end": 57.72,
+            "text": " So guys, I have come inside my computer screen."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 57.76,
+            "end": 64.56,
+            "text": " And now we'll talk about how to create a lay of a website based on opening text, closing text, and structure."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 64.56,
+            "end": 67.96,
+            "text": " So here I'll create a folder named video3."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 67.96,
+            "end": 73.72,
+            "text": " New folder, video3, and in video3, I'll open it by right-clicking and choosing open with code."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 73.72,
+            "end": 77.64,
+            "text": " And here you can see that my theme is blue."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 77.64,
+            "end": 79.8,
+            "text": " And a lot of people said that blue theme is not good."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 79.8,
+            "end": 82.2,
+            "text": " Now see, the theme is your choice."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 82.2,
+            "end": 86.68,
+            "text": " If you want to change the color theme, you can change it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 86.88000000000001,
+            "end": 89.72000000000001,
+            "text": " If you want to use GitHub dark, you can use GitHub dark."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 89.72000000000001,
+            "end": 90.48,
+            "text": " It's your choice."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 90.48,
+            "end": 93.92,
+            "text": " To create a new file, I'll put index.html here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 93.92,
+            "end": 97.88000000000001,
+            "text": " We already talked about this that if I write the title of the page here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 97.88000000000001,
+            "end": 102.28,
+            "text": " and write content here, and then using the link tag here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 102.28,
+            "end": 106.36000000000001,
+            "text": " I can use Emmet here and link style.css."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 106.36000000000001,
+            "end": 109.48,
+            "text": " I'm doing it so fast because we already talked about it in the last video."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 109.48,
+            "end": 112.80000000000001,
+            "text": " And if I write script.js here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 112.80000000000001,
+            "end": 115.32000000000001,
+            "text": " and if I write let us say alert hello here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 115.32,
+            "end": 119.44,
+            "text": " I won't tell you again and again that if I put a script tag here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 119.44,
+            "end": 125.6,
+            "text": " just before the body, and then I put script.js here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 125.6,
+            "end": 128.51999999999998,
+            "text": " and then I click here and open with browser,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 128.51999999999998,
+            "end": 132.68,
+            "text": " then this hello will come, and if I make the background of the body red, it will be red."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 132.68,
+            "end": 136.72,
+            "text": " I won't tell you all this, because I have already told you this."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 136.72,
+            "end": 140.56,
+            "text": " Now I will tell you that what does this structure mean?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 140.56,
+            "end": 141.84,
+            "text": " Why did you write it so big?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 141.84,
+            "end": 146.04,
+            "text": " This is a doubt for a beginner that we can't write this title and content directly,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 146.04,
+            "end": 148.20000000000002,
+            "text": " why do you have to write so much?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 148.20000000000002,
+            "end": 150.68,
+            "text": " So I will tell you why you have to write so much."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 150.68,
+            "end": 153.24,
+            "text": " I will reload it, see the content that was here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 153.24,
+            "end": 155.4,
+            "text": " it came and it became red here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 155.4,
+            "end": 158.0,
+            "text": " Now here you saw that I needed to reload the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 158.0,
+            "end": 160.88,
+            "text": " Many of you will ask why did I need to reload?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 160.88,
+            "end": 162.92000000000002,
+            "text": " When it already reloads live."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 162.92000000000002,
+            "end": 164.72,
+            "text": " So I changed the CSS file."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 164.72,
+            "end": 166.44,
+            "text": " When I change the CSS file,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 166.44,
+            "end": 168.24,
+            "text": " at times we need to reload."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 168.24,
+            "end": 170.60000000000002,
+            "text": " If you are making changes in the HTML file,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 170.60000000000002,
+            "end": 174.36,
+            "text": " then you don't need to reload the changes in the HTML file."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 174.36,
+            "end": 178.64000000000001,
+            "text": " Now here, what I will do is I will come back and explain to you."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 178.64000000000001,
+            "end": 181.8,
+            "text": " This is a basic structure of any HTML website."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 181.8,
+            "end": 184.12,
+            "text": " First of all, we write doc-type HTML,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 184.12,
+            "end": 185.68,
+            "text": " then we write HTML tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 185.68,
+            "end": 187.44,
+            "text": " Now see this is the opening tag of HTML tag,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 187.44,
+            "end": 188.4,
+            "text": " this is the closing tag,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 188.4,
+            "end": 189.68,
+            "text": " this is the opening tag of body,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 189.68,
+            "end": 190.72,
+            "text": " this is the closing tag,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 190.72,
+            "end": 192.28,
+            "text": " this is the opening tag of head,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 192.28,
+            "end": 193.28,
+            "text": " this is the closing tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 193.28,
+            "end": 195.96,
+            "text": " That is, whatever is inside it is the content of head."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 195.96,
+            "end": 197.96,
+            "text": " Whatever is inside HTML, what is it?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 198.08,
+            "end": 199.24,
+            "text": " It is the content of HTML."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 199.24,
+            "end": 202.56,
+            "text": " Accordingly, whatever is inside the title is the content of the title."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 202.56,
+            "end": 204.56,
+            "text": " Now you will say what is the content of meta?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 204.56,
+            "end": 207.20000000000002,
+            "text": " So meta is a self-closing tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 207.20000000000002,
+            "end": 208.56,
+            "text": " There are two types of tags in HTML."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 208.56,
+            "end": 211.08,
+            "text": " One is the self-closing tag and one is the pair tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 211.08,
+            "end": 214.72,
+            "text": " What happens in pair tag is that your opening tag is the closing tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 214.72,
+            "end": 216.92000000000002,
+            "text": " So this is the basic structure of the HTML website."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 216.92000000000002,
+            "end": 218.96,
+            "text": " Now here you saw that the background has turned red."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 218.96,
+            "end": 220.72,
+            "text": " Who is this background turning red?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 220.72,
+            "end": 222.28,
+            "text": " This is happening because of CSS."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 222.28,
+            "end": 226.04000000000002,
+            "text": " If I remove CSS from here and tell CSS to remove it quickly,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 226.04000000000002,
+            "end": 227.60000000000002,
+            "text": " what will I say to CSS?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 227.72,
+            "end": 229.16,
+            "text": " Remove it quickly."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 229.16,
+            "end": 231.44,
+            "text": " And as soon as I tell CSS to remove it quickly,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 231.44,
+            "end": 232.64,
+            "text": " it will have to be removed from here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 232.64,
+            "end": 233.64,
+            "text": " I will reload the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 233.64,
+            "end": 235.44,
+            "text": " So you can see that it has been removed here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 235.44,
+            "end": 237.72,
+            "text": " Similarly, I can also say to JavaScript that"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 237.72,
+            "end": 239.28,
+            "text": " remove it quickly."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 239.28,
+            "end": 240.48,
+            "text": " Now see, if I say from here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 240.48,
+            "end": 241.95999999999998,
+            "text": " the alert will also stop."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 241.95999999999998,
+            "end": 243.95999999999998,
+            "text": " So you see, if I reload now,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 243.95999999999998,
+            "end": 244.84,
+            "text": " the alert will also stop."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 244.84,
+            "end": 249.12,
+            "text": " So the CSS and JavaScript I added in this HTML content,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 249.12,
+            "end": 252.79999999999998,
+            "text": " this is additionally CSS and JavaScript functionalities"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 252.79999999999998,
+            "end": 255.6,
+            "text": " we used to link with this HTML page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 255.6,
+            "end": 257.6,
+            "text": " Now I have already told you about the title tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 257.6,
+            "end": 260.0,
+            "text": " This page is used to set the title."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 260.0,
+            "end": 261.6,
+            "text": " Now the only purpose of this is that"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 261.6,
+            "end": 263.15999999999997,
+            "text": " you see the title here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 263.15999999999997,
+            "end": 264.96,
+            "text": " The search engines that are there,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 264.96,
+            "end": 266.52,
+            "text": " they also use it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 266.52,
+            "end": 268.2,
+            "text": " That is, the search engines are Google."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 268.2,
+            "end": 269.32,
+            "text": " If you write here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 269.32,
+            "end": 271.8,
+            "text": " Code with Harry HTML,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 271.8,
+            "end": 273.92,
+            "text": " then the HTML introduction of Code with Harry,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 273.92,
+            "end": 274.8,
+            "text": " HTML working,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 274.8,
+            "end": 276.68,
+            "text": " I have put all these titles on the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 276.68,
+            "end": 277.76,
+            "text": " You see here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 277.76,
+            "end": 279.96,
+            "text": " HTML introduction is the title of the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 279.96,
+            "end": 283.36,
+            "text": " So these titles of the page are used by search engines"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 283.36,
+            "end": 284.76,
+            "text": " and are parsed."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 284.76,
+            "end": 286.76,
+            "text": " Now see here, if I change the page,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 286.76,
+            "end": 288.76,
+            "text": " then the HTML title is working here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 288.76,
+            "end": 290.44,
+            "text": " Now I will change the page again,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 290.44,
+            "end": 292.64,
+            "text": " you see here the HTML installation is done."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 292.64,
+            "end": 294.84,
+            "text": " So the titles keep changing."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 294.84,
+            "end": 296.84,
+            "text": " Along with that, as I keep changing it,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 296.84,
+            "end": 298.68,
+            "text": " it will keep changing,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 298.68,
+            "end": 299.88,
+            "text": " as you can see."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 299.88,
+            "end": 300.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 300.52,
+            "end": 304.4,
+            "text": " So the title of HTML pages does not only mean"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 304.4,
+            "end": 305.76,
+            "text": " that you see this up here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 305.76,
+            "end": 307.52,
+            "text": " This is also very useful in SEO."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 307.52,
+            "end": 310.52,
+            "text": " And they tell what is the content inside the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 310.52,
+            "end": 313.03999999999996,
+            "text": " So they describe the content of the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 313.04,
+            "end": 315.24,
+            "text": " Like I am getting to know what is HTML execution here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 315.24,
+            "end": 316.6,
+            "text": " HTML execution means"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 316.6,
+            "end": 317.8,
+            "text": " how HTML is being executed."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 317.8,
+            "end": 319.32,
+            "text": " I am being told about this page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 319.32,
+            "end": 321.92,
+            "text": " So changing the title of the page is a very good SEO practice."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 321.92,
+            "end": 323.92,
+            "text": " So we will make a website from any framework,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 323.92,
+            "end": 325.52000000000004,
+            "text": " we will keep changing the title of the page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 325.52000000000004,
+            "end": 326.8,
+            "text": " Now here is the head section."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 326.8,
+            "end": 329.04,
+            "text": " The metadata of the page is inside the head section."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 329.04,
+            "end": 330.40000000000003,
+            "text": " Like the title is done."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 330.40000000000003,
+            "end": 333.48,
+            "text": " And which script do you want to link?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 333.48,
+            "end": 334.40000000000003,
+            "text": " That's done."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 334.40000000000003,
+            "end": 336.64000000000004,
+            "text": " Along with that, there are other meta tags"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 336.64000000000004,
+            "end": 338.36,
+            "text": " about which I will tell you later."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 338.36,
+            "end": 340.36,
+            "text": " Meta tags basically mean"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 340.40000000000003,
+            "end": 342.2,
+            "text": " how HTML document is."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 342.2,
+            "end": 343.40000000000003,
+            "text": " It is told about it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 343.40000000000003,
+            "end": 344.36,
+            "text": " Keywords are added."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 344.36,
+            "end": 345.40000000000003,
+            "text": " Descriptions are added."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 345.40000000000003,
+            "end": 349.56,
+            "text": " Meta description is a very important keyword for SEO."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 349.56,
+            "end": 350.96000000000004,
+            "text": " That is, what is this page about?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 350.96000000000004,
+            "end": 351.96000000000004,
+            "text": " You can write it here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 351.96000000000004,
+            "end": 353.2,
+            "text": " If you go to my website,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 353.2,
+            "end": 355.6,
+            "text": " then you will get to see here in view page source"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 355.6,
+            "end": 358.2,
+            "text": " that the meta description tag is attached."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 358.2,
+            "end": 359.28000000000003,
+            "text": " This is compressed HTML,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 359.28000000000003,
+            "end": 360.40000000000003,
+            "text": " so don't be confused by this."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 360.40000000000003,
+            "end": 361.56,
+            "text": " But here you can see"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 361.56,
+            "end": 362.88,
+            "text": " that the meta description tag is attached,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 362.88,
+            "end": 364.32,
+            "text": " which describes this page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 364.32,
+            "end": 365.6,
+            "text": " If we talk about Google,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 365.6,
+            "end": 367.6,
+            "text": " then Google shows the meta description here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 367.6,
+            "end": 369.24,
+            "text": " Now I want to show you people"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 369.24,
+            "end": 372.88,
+            "text": " that what happens inside the doc type HTML head?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 372.88,
+            "end": 375.76,
+            "text": " Key page meta tags, title tags, script tags,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 375.76,
+            "end": 377.76,
+            "text": " link tags are also there."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 377.76,
+            "end": 378.96000000000004,
+            "text": " So now the script tag,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 378.96000000000004,
+            "end": 380.6,
+            "text": " you can put it just before the body"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 380.6,
+            "end": 381.6,
+            "text": " and you can put it above too."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 381.6,
+            "end": 382.84000000000003,
+            "text": " And what is the difference in this?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 382.84000000000003,
+            "end": 384.56,
+            "text": " We will talk about it in the next course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 384.56,
+            "end": 385.84000000000003,
+            "text": " But here you can see"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 385.84000000000003,
+            "end": 388.56,
+            "text": " that I used link and added CSS again."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 388.56,
+            "end": 391.12,
+            "text": " Then after this, the body is the main content of the website,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 391.12,
+            "end": 393.52,
+            "text": " which you can see on this page."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 393.52,
+            "end": 396.52,
+            "text": " So what you will see on this page will be the body."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 396.52,
+            "end": 397.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 397.2,
+            "end": 398.59999999999997,
+            "text": " Whatever you put inside the body,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 398.59999999999997,
+            "end": 399.88,
+            "text": " you will see it here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 399.88,
+            "end": 401.47999999999996,
+            "text": " And whatever script you put,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 401.47999999999996,
+            "end": 402.47999999999996,
+            "text": " it will be executed."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 402.47999999999996,
+            "end": 404.0,
+            "text": " Now by putting a script here"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 404.0,
+            "end": 405.8,
+            "text": " and by putting a script in the head,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 405.8,
+            "end": 406.52,
+            "text": " what will happen?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 406.52,
+            "end": 408.36,
+            "text": " I will tell you in the course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 408.36,
+            "end": 411.36,
+            "text": " But this is a basic structure of the HTML website."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 411.36,
+            "end": 413.36,
+            "text": " Lang is equal to en is an attribute."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 413.36,
+            "end": 415.08,
+            "text": " This is inside any tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 415.08,
+            "end": 416.59999999999997,
+            "text": " Lang is equal to en."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 416.59999999999997,
+            "end": 418.59999999999997,
+            "text": " So Lang is an attribute whose value is en."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 418.59999999999997,
+            "end": 420.2,
+            "text": " So these key value pairs are used"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 420.2,
+            "end": 421.96,
+            "text": " which tell about this tag."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 421.96,
+            "end": 423.08,
+            "text": " Like in the meta tag,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 423.08,
+            "end": 424.56,
+            "text": " name is equal to description is used."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 424.56,
+            "end": 426.48,
+            "text": " So the name is equal to description"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 426.48,
+            "end": 427.28000000000003,
+            "text": " is an attribute."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 427.28000000000003,
+            "end": 428.72,
+            "text": " And if you hover in VS Code,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 428.72,
+            "end": 430.72,
+            "text": " then it will tell you many things about it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 430.72,
+            "end": 431.84000000000003,
+            "text": " See, I hovered on the name,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 431.84000000000003,
+            "end": 433.52000000000004,
+            "text": " so it is telling about this attribute"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 433.52000000000004,
+            "end": 434.72,
+            "text": " that why this attribute is used,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 434.72,
+            "end": 436.08000000000004,
+            "text": " how it is used."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 436.08000000000004,
+            "end": 438.72,
+            "text": " Now most of the content inside the body,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 438.72,
+            "end": 440.28000000000003,
+            "text": " mostly the HTML raw,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 440.28000000000003,
+            "end": 441.28000000000003,
+            "text": " you will copy it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 441.28000000000003,
+            "end": 443.64000000000004,
+            "text": " Mostly from websites like CodeWithari.com,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 443.64000000000004,
+            "end": 446.0,
+            "text": " you will come here and copy the source code."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 446.0,
+            "end": 447.64000000000004,
+            "text": " Like if I talk about forms,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 447.64000000000004,
+            "end": 449.32,
+            "text": " then you will come to this page of HTML forms"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 449.32,
+            "end": 450.8,
+            "text": " and you will copy it from here"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 450.8,
+            "end": 452.08000000000004,
+            "text": " and start making your form"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 452.08000000000004,
+            "end": 453.28000000000003,
+            "text": " and modify it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 453.28000000000003,
+            "end": 455.72,
+            "text": " So copying and pasting is very important"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 455.72,
+            "end": 456.32,
+            "text": " according to me."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 456.32,
+            "end": 457.32,
+            "text": " As a senior developer,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 457.32,
+            "end": 458.15999999999997,
+            "text": " you should know"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 458.15999999999997,
+            "end": 459.92,
+            "text": " from where to copy and paste"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 459.92,
+            "end": 460.52,
+            "text": " and when to do it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 460.52,
+            "end": 462.12,
+            "text": " And I am not saying this sarcastically."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 462.12,
+            "end": 463.71999999999997,
+            "text": " Okay, I am not saying sarcastically."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 463.71999999999997,
+            "end": 465.12,
+            "text": " This thing will always be the same."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 465.12,
+            "end": 467.12,
+            "text": " Now you type it or copy and paste it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 467.12,
+            "end": 469.04,
+            "text": " Obviously, you will prefer to copy and paste it"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 469.04,
+            "end": 470.44,
+            "text": " because this change is not going to happen."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 470.44,
+            "end": 472.04,
+            "text": " The form will remain the same."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 472.04,
+            "end": 474.12,
+            "text": " And if you copy and paste,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 474.12,
+            "end": 475.03999999999996,
+            "text": " then your time will be saved."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 475.03999999999996,
+            "end": 476.92,
+            "text": " Then innovation, you have to put your mind"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 476.92,
+            "end": 478.52,
+            "text": " where the thing cannot be copied and pasted."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 478.52,
+            "end": 480.56,
+            "text": " So you understand it as a sigma rule"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 480.56,
+            "end": 482.52,
+            "text": " that you will copy and paste"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 482.52,
+            "end": 485.32,
+            "text": " that thing which has to be copied and pasted."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 485.32,
+            "end": 486.52,
+            "text": " And where you have to put your mind,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 486.52,
+            "end": 487.52,
+            "text": " that cannot be copied and pasted."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 487.52,
+            "end": 489.52,
+            "text": " So you will save time and put your mind there."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 491.71999999999997,
+            "end": 495.12,
+            "text": " The most important part of being a senior software developer"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 495.12,
+            "end": 496.71999999999997,
+            "text": " is to where to copy and paste from,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 496.71999999999997,
+            "end": 499.12,
+            "text": " which stack overflow question to copy and paste from,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 499.12,
+            "end": 500.92,
+            "text": " and how to paste it from where."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 500.92,
+            "end": 504.12,
+            "text": " Copyright code with AD 2024-25-26 whatever it is,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 504.12,
+            "end": 504.92,
+            "text": " you understand."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 504.92,
+            "end": 507.32,
+            "text": " I have said this copyright statement."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 507.32,
+            "end": 508.92,
+            "text": " But this statement is very strong."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 508.92,
+            "end": 511.52,
+            "text": " Now I will tell you about a technique"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 511.52,
+            "end": 513.12,
+            "text": " with which you can develop this website."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 513.12,
+            "end": 514.52,
+            "text": " Whatever we will develop here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 514.52,
+            "end": 516.52,
+            "text": " you will be able to see it in this mobile."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 516.52,
+            "end": 518.12,
+            "text": " Now listen to the steps carefully."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 518.12,
+            "end": 520.12,
+            "text": " Right click, open terminal."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 520.12,
+            "end": 521.12,
+            "text": " And write ipconfig."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 521.12,
+            "end": 522.3199999999999,
+            "text": " If you are in the old version,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 522.3199999999999,
+            "end": 524.3199999999999,
+            "text": " then you can open command prompt or powershell."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 524.3199999999999,
+            "end": 526.3199999999999,
+            "text": " As soon as you enter by writing ipconfig,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 526.3199999999999,
+            "end": 527.3199999999999,
+            "text": " you will see here that"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 527.3199999999999,
+            "end": 529.12,
+            "text": " you will see the ipv4 address."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 529.12,
+            "end": 531.72,
+            "text": " 192.168.1.199."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 531.72,
+            "end": 533.72,
+            "text": " Now the IP address we have got here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 533.72,
+            "end": 534.92,
+            "text": " I will copy it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 534.92,
+            "end": 537.3199999999999,
+            "text": " So I will copy this ipv4 address."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 537.3199999999999,
+            "end": 539.3199999999999,
+            "text": " And I will write in my settings,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 539.3199999999999,
+            "end": 540.92,
+            "text": " live preview."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 540.92,
+            "end": 543.12,
+            "text": " This local IP host address to host your files on,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 543.32,
+            "end": 544.12,
+            "text": " this is written."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 544.12,
+            "end": 546.92,
+            "text": " I will write my IP address in its place."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 546.92,
+            "end": 548.12,
+            "text": " And after doing this,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 548.12,
+            "end": 549.92,
+            "text": " I will restart my VS code."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 549.92,
+            "end": 552.32,
+            "text": " You have to ensure one more thing,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 552.32,
+            "end": 554.92,
+            "text": " that you go to your Wi-Fi settings,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 554.92,
+            "end": 557.32,
+            "text": " and make your network a private network."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 557.32,
+            "end": 558.32,
+            "text": " It should not be a public network,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 558.32,
+            "end": 559.32,
+            "text": " it should be a private network."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 559.32,
+            "end": 560.32,
+            "text": " Network and internet,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 560.32,
+            "end": 562.32,
+            "text": " Wi-Fi, whichever Wi-Fi you are connected to,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 562.32,
+            "end": 563.52,
+            "text": " make it a private network."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 563.52,
+            "end": 566.32,
+            "text": " And now you will right click and do show preview."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 566.32,
+            "end": 567.12,
+            "text": " So you see here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 567.12,
+            "end": 568.72,
+            "text": " you will get to see your IP address."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 568.72,
+            "end": 570.12,
+            "text": " slash index.html"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 570.12,
+            "end": 572.52,
+            "text": " I can also use this on my phone."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 572.52,
+            "end": 574.72,
+            "text": " So I will quickly put this IP address here."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 574.72,
+            "end": 579.12,
+            "text": " So I put 192.168.1.199.500"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 579.12,
+            "end": 580.3199999999999,
+            "text": " You can also put 3000,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 580.3199999999999,
+            "end": 581.52,
+            "text": " whatever your port is,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 581.52,
+            "end": 582.52,
+            "text": " you put that."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 582.52,
+            "end": 583.72,
+            "text": " And here you see,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 583.72,
+            "end": 586.12,
+            "text": " my website has been previewed on my mobile."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 586.12,
+            "end": 588.12,
+            "text": " This trick is very useful,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 588.12,
+            "end": 590.52,
+            "text": " when we want to preview on our mobile."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 590.52,
+            "end": 593.12,
+            "text": " Because nowadays most of the websites are seen on the phone."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 593.12,
+            "end": 595.52,
+            "text": " So we want our phone users,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 595.52,
+            "end": 598.92,
+            "text": " they can enjoy our website well."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 598.92,
+            "end": 600.72,
+            "text": " And we are developing in the computer,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 600.72,
+            "end": 601.92,
+            "text": " so that testing will be done."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 601.92,
+            "end": 604.7199999999999,
+            "text": " Now if you have not put your review in the first video,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 604.7199999999999,
+            "end": 606.3199999999999,
+            "text": " then I will request you,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 606.3199999999999,
+            "end": 608.7199999999999,
+            "text": " that you come to the first video and review your course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 608.7199999999999,
+            "end": 610.12,
+            "text": " I told you in the last video,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 610.12,
+            "end": 611.3199999999999,
+            "text": " please review this."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 611.3199999999999,
+            "end": 612.3199999999999,
+            "text": " Put an initial review."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 612.3199999999999,
+            "end": 613.92,
+            "text": " How did you feel after seeing so much code?"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 613.92,
+            "end": 615.3199999999999,
+            "text": " Now write initial review there."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 615.3199999999999,
+            "end": 616.7199999999999,
+            "text": " As soon as you write initial review,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 616.7199999999999,
+            "end": 617.7199999999999,
+            "text": " then people will know,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 617.7199999999999,
+            "end": 619.52,
+            "text": " what is the initial review of this course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 619.52,
+            "end": 620.92,
+            "text": " You give me 5 stars,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 620.92,
+            "end": 621.7199999999999,
+            "text": " along with that,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 621.7199999999999,
+            "end": 624.12,
+            "text": " do access it from the playlist description."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 624.12,
+            "end": 625.92,
+            "text": " Click here and bookmark it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 625.92,
+            "end": 626.92,
+            "text": " Or if you click on the star,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 626.92,
+            "end": 627.92,
+            "text": " it will be bookmarked."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 627.92,
+            "end": 630.3199999999999,
+            "text": " And it will start showing in your bookmarks."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 630.32,
+            "end": 631.32,
+            "text": " I have bookmarked it here,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 631.32,
+            "end": 632.9200000000001,
+            "text": " as Sigma Web Development Course."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 632.9200000000001,
+            "end": 634.5200000000001,
+            "text": " Click here and save it."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 634.5200000000001,
+            "end": 636.12,
+            "text": " Very few people have accessed the playlist."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 636.12,
+            "end": 638.12,
+            "text": " So I want everyone to access this playlist."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 638.12,
+            "end": 640.5200000000001,
+            "text": " Bookmark and save this playlist."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 640.5200000000001,
+            "end": 641.9200000000001,
+            "text": " So access the playlist,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 641.9200000000001,
+            "end": 643.12,
+            "text": " like the video,"
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 643.12,
+            "end": 645.72,
+            "text": " and give your village and uncle's land to me."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 645.72,
+            "end": 647.5200000000001,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "Basic Structure of an HTML Website Sigma Web Development Course ",
+            "title": " Tutorial #3 - CodeWithHarry (144p)",
+            "start": 647.5200000000001,
+            "end": 649.5200000000001,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " What's up guys, you're back to the Sigma web development course. I'm really very happy that you guys have given so much love to this course. Like this course with high energy guys. Because for a Sigma free course, you need to like the Sigma chats. In today's video, I'll explain you the basic structure of a website. Along with that, I'll tell you a mobile trick which will help you guys to know how to preview your websites on your phone. I have a request from you guys that you guys write in the comment section whether you know HTML or not. That will help me structure this course better. In this video, I'll tell you the impact of chat GPT. Because there are a lot of talks going on about chat GPT these days. In the coming videos, I'm going to give you guys quizzes. So understand this video very carefully and learn all the concepts. Let's go to the computer screen. Let's roll the intro. So guys, I have come inside my computer screen. And now we'll talk about how to create a lay of a website based on opening text, closing text, and structure. So here I'll create a folder named video3. New folder, video3, and in video3, I'll open it by right-clicking and choosing open with code. And here you can see that my theme is blue. And a lot of people said that blue theme is not good. Now see, the theme is your choice. If you want to change the color theme, you can change it. If you want to use GitHub dark, you can use GitHub dark. It's your choice. To create a new file, I'll put index.html here. We already talked about this that if I write the title of the page here, and write content here, and then using the link tag here, I can use Emmet here and link style.css. I'm doing it so fast because we already talked about it in the last video. And if I write script.js here, and if I write let us say alert hello here, I won't tell you again and again that if I put a script tag here, just before the body, and then I put script.js here, and then I click here and open with browser, then this hello will come, and if I make the background of the body red, it will be red. I won't tell you all this, because I have already told you this. Now I will tell you that what does this structure mean? Why did you write it so big? This is a doubt for a beginner that we can't write this title and content directly, why do you have to write so much? So I will tell you why you have to write so much. I will reload it, see the content that was here, it came and it became red here. Now here you saw that I needed to reload the page. Many of you will ask why did I need to reload? When it already reloads live. So I changed the CSS file. When I change the CSS file, at times we need to reload. If you are making changes in the HTML file, then you don't need to reload the changes in the HTML file. Now here, what I will do is I will come back and explain to you. This is a basic structure of any HTML website. First of all, we write doc-type HTML, then we write HTML tag. Now see this is the opening tag of HTML tag, this is the closing tag, this is the opening tag of body, this is the closing tag, this is the opening tag of head, this is the closing tag. That is, whatever is inside it is the content of head. Whatever is inside HTML, what is it? It is the content of HTML. Accordingly, whatever is inside the title is the content of the title. Now you will say what is the content of meta? So meta is a self-closing tag. There are two types of tags in HTML. One is the self-closing tag and one is the pair tag. What happens in pair tag is that your opening tag is the closing tag. So this is the basic structure of the HTML website. Now here you saw that the background has turned red. Who is this background turning red? This is happening because of CSS. If I remove CSS from here and tell CSS to remove it quickly, what will I say to CSS? Remove it quickly. And as soon as I tell CSS to remove it quickly, it will have to be removed from here. I will reload the page. So you can see that it has been removed here. Similarly, I can also say to JavaScript that remove it quickly. Now see, if I say from here, the alert will also stop. So you see, if I reload now, the alert will also stop. So the CSS and JavaScript I added in this HTML content, this is additionally CSS and JavaScript functionalities we used to link with this HTML page. Now I have already told you about the title tag. This page is used to set the title. Now the only purpose of this is that you see the title here. The search engines that are there, they also use it. That is, the search engines are Google. If you write here, Code with Harry HTML, then the HTML introduction of Code with Harry, HTML working, I have put all these titles on the page. You see here, HTML introduction is the title of the page. So these titles of the page are used by search engines and are parsed. Now see here, if I change the page, then the HTML title is working here. Now I will change the page again, you see here the HTML installation is done. So the titles keep changing. Along with that, as I keep changing it, it will keep changing, as you can see. Okay? So the title of HTML pages does not only mean that you see this up here. This is also very useful in SEO. And they tell what is the content inside the page. So they describe the content of the page. Like I am getting to know what is HTML execution here. HTML execution means how HTML is being executed. I am being told about this page. So changing the title of the page is a very good SEO practice. So we will make a website from any framework, we will keep changing the title of the page. Now here is the head section. The metadata of the page is inside the head section. Like the title is done. And which script do you want to link? That's done. Along with that, there are other meta tags about which I will tell you later. Meta tags basically mean how HTML document is. It is told about it. Keywords are added. Descriptions are added. Meta description is a very important keyword for SEO. That is, what is this page about? You can write it here. If you go to my website, then you will get to see here in view page source that the meta description tag is attached. This is compressed HTML, so don't be confused by this. But here you can see that the meta description tag is attached, which describes this page. If we talk about Google, then Google shows the meta description here. Now I want to show you people that what happens inside the doc type HTML head? Key page meta tags, title tags, script tags, link tags are also there. So now the script tag, you can put it just before the body and you can put it above too. And what is the difference in this? We will talk about it in the next course. But here you can see that I used link and added CSS again. Then after this, the body is the main content of the website, which you can see on this page. So what you will see on this page will be the body. Okay? Whatever you put inside the body, you will see it here. And whatever script you put, it will be executed. Now by putting a script here and by putting a script in the head, what will happen? I will tell you in the course. But this is a basic structure of the HTML website. Lang is equal to en is an attribute. This is inside any tag. Lang is equal to en. So Lang is an attribute whose value is en. So these key value pairs are used which tell about this tag. Like in the meta tag, name is equal to description is used. So the name is equal to description is an attribute. And if you hover in VS Code, then it will tell you many things about it. See, I hovered on the name, so it is telling about this attribute that why this attribute is used, how it is used. Now most of the content inside the body, mostly the HTML raw, you will copy it. Mostly from websites like CodeWithari.com, you will come here and copy the source code. Like if I talk about forms, then you will come to this page of HTML forms and you will copy it from here and start making your form and modify it. So copying and pasting is very important according to me. As a senior developer, you should know from where to copy and paste and when to do it. And I am not saying this sarcastically. Okay, I am not saying sarcastically. This thing will always be the same. Now you type it or copy and paste it. Obviously, you will prefer to copy and paste it because this change is not going to happen. The form will remain the same. And if you copy and paste, then your time will be saved. Then innovation, you have to put your mind where the thing cannot be copied and pasted. So you understand it as a sigma rule that you will copy and paste that thing which has to be copied and pasted. And where you have to put your mind, that cannot be copied and pasted. So you will save time and put your mind there. The most important part of being a senior software developer is to where to copy and paste from, which stack overflow question to copy and paste from, and how to paste it from where. Copyright code with AD 2024-25-26 whatever it is, you understand. I have said this copyright statement. But this statement is very strong. Now I will tell you about a technique with which you can develop this website. Whatever we will develop here, you will be able to see it in this mobile. Now listen to the steps carefully. Right click, open terminal. And write ipconfig. If you are in the old version, then you can open command prompt or powershell. As soon as you enter by writing ipconfig, you will see here that you will see the ipv4 address. 192.168.1.199. Now the IP address we have got here, I will copy it. So I will copy this ipv4 address. And I will write in my settings, live preview. This local IP host address to host your files on, this is written. I will write my IP address in its place. And after doing this, I will restart my VS code. You have to ensure one more thing, that you go to your Wi-Fi settings, and make your network a private network. It should not be a public network, it should be a private network. Network and internet, Wi-Fi, whichever Wi-Fi you are connected to, make it a private network. And now you will right click and do show preview. So you see here, you will get to see your IP address. slash index.html I can also use this on my phone. So I will quickly put this IP address here. So I put 192.168.1.199.500 You can also put 3000, whatever your port is, you put that. And here you see, my website has been previewed on my mobile. This trick is very useful, when we want to preview on our mobile. Because nowadays most of the websites are seen on the phone. So we want our phone users, they can enjoy our website well. And we are developing in the computer, so that testing will be done. Now if you have not put your review in the first video, then I will request you, that you come to the first video and review your course. I told you in the last video, please review this. Put an initial review. How did you feel after seeing so much code? Now write initial review there. As soon as you write initial review, then people will know, what is the initial review of this course. You give me 5 stars, along with that, do access it from the playlist description. Click here and bookmark it. Or if you click on the star, it will be bookmarked. And it will start showing in your bookmarks. I have bookmarked it here, as Sigma Web Development Course. Click here and save it. Very few people have accessed the playlist. So I want everyone to access this playlist. Bookmark and save this playlist. So access the playlist, like the video, and give your village and uncle's land to me. Thank you so much guys for watching this video. And I will see you next time."
+}

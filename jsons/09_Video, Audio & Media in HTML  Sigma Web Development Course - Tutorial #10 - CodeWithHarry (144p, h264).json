@@ -1,0 +1,4009 @@
+{
+    "chunks": [
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 0.0,
+            "end": 5.6000000000000005,
+            "text": " In today's video, we will learn how audio, video and media elements are used in HTML."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 5.6000000000000005,
+            "end": 10.6,
+            "text": " We saw in our very first video that we can embed videos in HTML."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 10.6,
+            "end": 13.4,
+            "text": " Today I will tell you how the video is auto-played,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 13.4,
+            "end": 15.4,
+            "text": " how to keep a muted video,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 15.4,
+            "end": 19.900000000000002,
+            "text": " and how you can enable and disable the video controls."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 19.900000000000002,
+            "end": 22.6,
+            "text": " Along with that, we will also see very closely about audio,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 22.6,
+            "end": 25.6,
+            "text": " how media can be shown in an overall page."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 25.6,
+            "end": 28.6,
+            "text": " So do like this video and stay in this video"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 28.6,
+            "end": 32.6,
+            "text": " because the examples I have used for video tags are very amazing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 32.6,
+            "end": 34.0,
+            "text": " Let's go to the video screen."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 34.0,
+            "end": 35.2,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 35.2,
+            "end": 44.2,
+            "text": " Intro"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 44.2,
+            "end": 47.2,
+            "text": " Friends, this time I have made a folder named video10"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 47.2,
+            "end": 51.6,
+            "text": " and I will not waste your time by opening Open With Code by right-clicking and shifting."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 51.6,
+            "end": 53.8,
+            "text": " In fact, I will make it in index.html."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 53.8,
+            "end": 56.8,
+            "text": " And the topic of today's video is video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 57.0,
+            "end": 62.4,
+            "text": " How to play a video, how to put a video in an HTML file,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 62.4,
+            "end": 66.0,
+            "text": " how to put audio, how to put media."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 66.0,
+            "end": 68.6,
+            "text": " So adding a video is very straightforward."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 68.6,
+            "end": 72.0,
+            "text": " I will copy it here, which is our video tag."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 72.0,
+            "end": 75.6,
+            "text": " It has an src attribute and it has some other attributes"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 75.6,
+            "end": 77.2,
+            "text": " which I will discuss with you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 77.2,
+            "end": 79.2,
+            "text": " But first of all, I want to tell you here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 79.2,
+            "end": 81.8,
+            "text": " that video src is equal to, you will write here like this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 81.8,
+            "end": 84.4,
+            "text": " So if you have video.mp4, it will play."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 84.4,
+            "end": 86.0,
+            "text": " I have video.mp4."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 86.0,
+            "end": 88.6,
+            "text": " So let's see here, I have put it here with control."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 88.6,
+            "end": 90.8,
+            "text": " And I will click here and preview it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 90.8,
+            "end": 93.4,
+            "text": " And you can see here that this video has come."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 93.4,
+            "end": 95.8,
+            "text": " Now this is a very big video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 95.8,
+            "end": 98.2,
+            "text": " So what can I do? I can give its width."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 98.2,
+            "end": 101.8,
+            "text": " So I can say here width is equal to 555 pixels."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 101.8,
+            "end": 104.2,
+            "text": " And as soon as I do 555 pixels,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 104.2,
+            "end": 106.8,
+            "text": " in fact, I don't need to write px, I will just do 555."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 106.8,
+            "end": 109.2,
+            "text": " Like we don't need to write px in the image."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 109.2,
+            "end": 111.6,
+            "text": " Here too we will not need to write px."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 111.6,
+            "end": 114.4,
+            "text": " So as soon as I did width is equal to 555,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 114.4,
+            "end": 117.2,
+            "text": " in fact, I do one thing, I do height is equal to 555"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 117.2,
+            "end": 118.80000000000001,
+            "text": " so that it gets smaller."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 118.80000000000001,
+            "end": 121.4,
+            "text": " In fact, I make it smaller. I do 255."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 121.4,
+            "end": 123.4,
+            "text": " And you see it came here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 123.4,
+            "end": 126.2,
+            "text": " Now I play it because I have put control, so I can play it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 126.2,
+            "end": 128.20000000000002,
+            "text": " What do you see? There is a better road than America."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 128.20000000000002,
+            "end": 130.20000000000002,
+            "text": " What did you say? Gopendra Jogi."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 130.20000000000002,
+            "end": 131.20000000000002,
+            "text": " Where have you been in the US?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 131.20000000000002,
+            "end": 132.4,
+            "text": " I have been to many places in the US."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 132.4,
+            "end": 133.8,
+            "text": " Tell me the name. Gopendra Jogi."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 133.8,
+            "end": 135.0,
+            "text": " Hahaha."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 135.0,
+            "end": 138.20000000000002,
+            "text": " So what is it that you can play the video like this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 138.20000000000002,
+            "end": 140.20000000000002,
+            "text": " Now here are some attributes of video tag."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 140.20000000000002,
+            "end": 142.0,
+            "text": " See, it is very simple to use video tag."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 142.0,
+            "end": 143.4,
+            "text": " You should have a video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 143.4,
+            "end": 145.0,
+            "text": " You have given the path of the video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 145.0,
+            "end": 146.20000000000002,
+            "text": " After that you have given the controls."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 146.20000000000002,
+            "end": 147.8,
+            "text": " So these controls will come to you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 147.8,
+            "end": 149.0,
+            "text": " You can download it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 149.0,
+            "end": 150.0,
+            "text": " You can do full screen."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 150.0,
+            "end": 151.20000000000002,
+            "text": " You can mute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 151.20000000000002,
+            "end": 152.8,
+            "text": " You can do picture in picture."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 152.8,
+            "end": 154.8,
+            "text": " All this is automatically provided by your browser."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 154.8,
+            "end": 156.4,
+            "text": " But let me tell you about some attributes."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 156.4,
+            "end": 157.8,
+            "text": " The first attribute is SRC."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 157.8,
+            "end": 160.4,
+            "text": " So you know that put the video here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 160.4,
+            "end": 162.0,
+            "text": " The name of the video file is SRC."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 162.0,
+            "end": 165.0,
+            "text": " This video file can also come from the external URL."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 165.0,
+            "end": 169.0,
+            "text": " You understand that if I have uploaded a video on Amazon S3 or somewhere else,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 169.0,
+            "end": 170.6,
+            "text": " then I can also put the URL there."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 170.6,
+            "end": 172.8,
+            "text": " I mean, it is not necessary that the file is in your computer."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 172.8,
+            "end": 174.20000000000002,
+            "text": " It can also be on your server."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 174.20000000000002,
+            "end": 175.8,
+            "text": " It can also come from third party."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 175.8,
+            "end": 177.20000000000002,
+            "text": " Now what does the controls do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 177.20000000000002,
+            "end": 179.60000000000002,
+            "text": " Adds video controls like play, pause and volume."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 179.60000000000002,
+            "end": 182.20000000000002,
+            "text": " Which we saw here in the Bhopendra Jogi video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 182.20000000000002,
+            "end": 185.20000000000002,
+            "text": " That you are getting to see the controls here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 185.20000000000002,
+            "end": 187.20000000000002,
+            "text": " Now what is this thing?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 187.20000000000002,
+            "end": 188.8,
+            "text": " The browser automatically checks"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 188.8,
+            "end": 191.8,
+            "text": " what control ads will be in your video and what will not be."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 191.8,
+            "end": 193.20000000000002,
+            "text": " Then see what will autoplay do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 193.20000000000002,
+            "end": 195.20000000000002,
+            "text": " It will automatically play as soon as the page loads."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 195.20000000000002,
+            "end": 197.20000000000002,
+            "text": " Okay, so if I put autoplay here,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 197.20000000000002,
+            "end": 198.4,
+            "text": " I mean, I put autoplay here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 198.4,
+            "end": 199.0,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 199.8,
+            "end": 201.2,
+            "text": " What did you see in the market?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 201.2,
+            "end": 202.0,
+            "text": " How is it happening?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 202.0,
+            "end": 203.0,
+            "text": " How is it happening?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 203.0,
+            "end": 203.8,
+            "text": " It's good."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 203.8,
+            "end": 205.8,
+            "text": " So you can see here that it has been autoplayed."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 205.8,
+            "end": 207.8,
+            "text": " Okay, so I will remove autoplay from here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 207.8,
+            "end": 210.8,
+            "text": " And our next attribute is loop."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 210.8,
+            "end": 215.8,
+            "text": " That is, once our video is played, it will keep looping."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 215.8,
+            "end": 217.0,
+            "text": " Like I show you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 217.0,
+            "end": 218.6,
+            "text": " What did you see in the market?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 218.6,
+            "end": 219.4,
+            "text": " Bhopendra Jogi."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 219.4,
+            "end": 220.6,
+            "text": " What did you see in the market?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 220.6,
+            "end": 221.6,
+            "text": " So it started again."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 221.6,
+            "end": 224.6,
+            "text": " Once I finished it, it started again."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 224.6,
+            "end": 227.4,
+            "text": " Okay, so this loop works like this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 227.4,
+            "end": 228.8,
+            "text": " The next attribute is muted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 228.8,
+            "end": 230.20000000000002,
+            "text": " Muted mutes the video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 230.20000000000002,
+            "end": 231.8,
+            "text": " So if I write here muted,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 231.8,
+            "end": 233.8,
+            "text": " sometimes we want the video to be muted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 233.8,
+            "end": 237.20000000000002,
+            "text": " In fact, when I add videos here on codewithhari.com"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 237.20000000000002,
+            "end": 238.6,
+            "text": " and I demonstrate something,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 238.6,
+            "end": 240.20000000000002,
+            "text": " like downloading VS Code or something,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 240.20000000000002,
+            "end": 242.20000000000002,
+            "text": " then I use the muted attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 242.20000000000002,
+            "end": 244.20000000000002,
+            "text": " Because I don't want that when I record a video,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 244.20000000000002,
+            "end": 246.20000000000002,
+            "text": " if there is any background noise, you can hear it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 246.20000000000002,
+            "end": 248.4,
+            "text": " For example, I want to show you that this is the element."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 248.4,
+            "end": 250.20000000000002,
+            "text": " So I will scroll and make a video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 250.20000000000002,
+            "end": 251.4,
+            "text": " I will highlight it like this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 251.4,
+            "end": 252.6,
+            "text": " So I don't need audio in it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 252.6,
+            "end": 254.0,
+            "text": " So I mute it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 254.2,
+            "end": 257.6,
+            "text": " So you can use the muted attribute on your website."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 257.6,
+            "end": 258.4,
+            "text": " Then the poster."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 258.4,
+            "end": 259.6,
+            "text": " The poster is very important."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 259.6,
+            "end": 261.6,
+            "text": " So I have an image here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 261.6,
+            "end": 262.8,
+            "text": " Download.jpg."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 262.8,
+            "end": 263.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 263.4,
+            "end": 266.0,
+            "text": " If I write here poster is equal to"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 266.0,
+            "end": 268.0,
+            "text": " and I write download.jpg,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " then you will see something like this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 270.0,
+            "end": 271.2,
+            "text": " Okay, this is how the poster looks."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 271.2,
+            "end": 272.4,
+            "text": " Then I will play it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 272.4,
+            "end": 273.6,
+            "text": " So the video will play."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 273.6,
+            "end": 274.6,
+            "text": " So in a way, the thumbnail."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 274.6,
+            "end": 276.4,
+            "text": " Okay, the thumbnail of the YouTube video is seen."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 276.4,
+            "end": 278.4,
+            "text": " This is exactly the same, this poster attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 278.4,
+            "end": 281.0,
+            "text": " So you can use all these attributes."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 281.0,
+            "end": 282.8,
+            "text": " Width and height, you know that"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 282.8,
+            "end": 284.40000000000003,
+            "text": " specifies the dimension of the video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 284.40000000000003,
+            "end": 286.40000000000003,
+            "text": " Like I added both width and height here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 286.40000000000003,
+            "end": 287.2,
+            "text": " You saw."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 287.2,
+            "end": 290.40000000000003,
+            "text": " So I hope you understood this thing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 290.40000000000003,
+            "end": 294.0,
+            "text": " Now the thing I want to tell you after this is audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " So this is for all the attributes of your video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 296.0,
+            "end": 297.2,
+            "text": " It is very straightforward."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 297.2,
+            "end": 298.8,
+            "text": " I want you to make a website."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 298.8,
+            "end": 302.0,
+            "text": " Which I am going to give you at the end of this video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 302.0,
+            "end": 302.8,
+            "text": " In quick quiz."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 302.8,
+            "end": 304.2,
+            "text": " So listen to the quick quiz."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 304.2,
+            "end": 305.8,
+            "text": " In fact, I will put the heading here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 305.8,
+            "end": 306.6,
+            "text": " Quick quiz."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 306.6,
+            "end": 307.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 307.40000000000003,
+            "end": 309.6,
+            "text": " So that I don't forget."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 309.6,
+            "end": 310.8,
+            "text": " I will give you this now."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 310.8,
+            "end": 312.40000000000003,
+            "text": " And this is going to be a very interesting quiz."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 312.4,
+            "end": 313.4,
+            "text": " You must solve this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 313.4,
+            "end": 315.4,
+            "text": " But before that."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 315.4,
+            "end": 317.4,
+            "text": " As soon as you write audio,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 317.4,
+            "end": 318.4,
+            "text": " SRC comes here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 318.4,
+            "end": 320.4,
+            "text": " And I have to put SRC in sachin.mp3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 320.4,
+            "end": 322.4,
+            "text": " So as soon as I put it in sachin.mp3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 322.4,
+            "end": 324.4,
+            "text": " Now see here, I will reload it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 324.4,
+            "end": 326.4,
+            "text": " And the audio did not come here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 326.4,
+            "end": 327.4,
+            "text": " Which is strange."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 327.4,
+            "end": 329.4,
+            "text": " Let's see what the problem is here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 329.4,
+            "end": 331.4,
+            "text": " I put SRC is equal to."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 331.4,
+            "end": 332.4,
+            "text": " I have to write controls here too."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 332.4,
+            "end": 334.4,
+            "text": " So if I don't write controls,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 334.4,
+            "end": 335.4,
+            "text": " I won't see the audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 335.4,
+            "end": 336.4,
+            "text": " See, now the audio has come."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 336.4,
+            "end": 337.4,
+            "text": " I can see the controls here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 337.4,
+            "end": 338.4,
+            "text": " I can also set its volume."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 338.4,
+            "end": 340.4,
+            "text": " I play this audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 340.4,
+            "end": 342.4,
+            "text": " Sachin, what is in Sachin?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 342.4,
+            "end": 343.4,
+            "text": " It's a stupid Sachin."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 343.4,
+            "end": 344.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 344.4,
+            "end": 345.4,
+            "text": " So this is our audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 345.4,
+            "end": 346.4,
+            "text": " If I mute it and run it,"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 346.4,
+            "end": 347.4,
+            "text": " then it won't work."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 347.4,
+            "end": 348.4,
+            "text": " And I can also increase it further."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 348.4,
+            "end": 349.4,
+            "text": " It's a stupid Sachin."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 349.4,
+            "end": 350.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 350.4,
+            "end": 351.4,
+            "text": " You guys have seen."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 351.4,
+            "end": 352.4,
+            "text": " So this is an audio called sachin.mp3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 352.4,
+            "end": 353.4,
+            "text": " Now what we will do is."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 353.4,
+            "end": 355.4,
+            "text": " That we will see some attributes of this audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 355.4,
+            "end": 357.4,
+            "text": " SRC you know that."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 357.4,
+            "end": 359.4,
+            "text": " Source of the video file."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 359.4,
+            "end": 360.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 360.4,
+            "end": 361.4,
+            "text": " Then after this, you know the controls."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 361.4,
+            "end": 362.4,
+            "text": " Play, pause or volume."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 362.4,
+            "end": 363.4,
+            "text": " Which we just saw."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 363.4,
+            "end": 364.4,
+            "text": " What will autoplay do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 364.4,
+            "end": 366.4,
+            "text": " It will play it automatically."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 366.4,
+            "end": 367.4,
+            "text": " If I have here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 367.4,
+            "end": 368.4,
+            "text": " Autoplay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 368.4,
+            "end": 369.4,
+            "text": " Sachin, what is in Sachin?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 369.4,
+            "end": 370.4,
+            "text": " It's a stupid Sachin."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 370.4,
+            "end": 371.4,
+            "text": " It will play automatically."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 371.4,
+            "end": 373.4,
+            "text": " So what does autoplay do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 373.4,
+            "end": 375.4,
+            "text": " It will play our audio automatically."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 375.4,
+            "end": 376.4,
+            "text": " After this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 376.4,
+            "end": 377.4,
+            "text": " The next attribute is."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 377.4,
+            "end": 378.4,
+            "text": " That is loop."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 378.4,
+            "end": 379.4,
+            "text": " What will loop do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 379.4,
+            "end": 380.4,
+            "text": " It will repeat it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 380.4,
+            "end": 382.4,
+            "text": " If I want to loop it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 382.4,
+            "end": 383.4,
+            "text": " So I have autoplayed it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 383.4,
+            "end": 384.4,
+            "text": " And I loop it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 384.4,
+            "end": 385.4,
+            "text": " Sachin, what is in Sachin?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 385.4,
+            "end": 386.4,
+            "text": " It's a stupid Sachin."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 386.4,
+            "end": 387.4,
+            "text": " Once."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 387.4,
+            "end": 388.4,
+            "text": " Sachin, what is in Sachin?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 388.4,
+            "end": 389.4,
+            "text": " Second time."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 389.4,
+            "end": 390.4,
+            "text": " It's a stupid Sachin."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 390.4,
+            "end": 391.4,
+            "text": " So you saw it was repeated."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 391.4,
+            "end": 392.4,
+            "text": " Means once it was played."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 392.4,
+            "end": 394.4,
+            "text": " Then after that it was played again."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 394.4,
+            "end": 395.4,
+            "text": " Because I had looped the audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 395.4,
+            "end": 396.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 396.4,
+            "end": 397.4,
+            "text": " So you guys have seen this thing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 397.4,
+            "end": 398.4,
+            "text": " Sachin.mp3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 398.4,
+            "end": 399.4,
+            "text": " I looped it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 399.4,
+            "end": 400.4,
+            "text": " Means once it was played."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 400.4,
+            "end": 401.4,
+            "text": " Then it was played."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 401.4,
+            "end": 402.4,
+            "text": " Then it was played."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 402.4,
+            "end": 403.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 403.4,
+            "end": 404.4,
+            "text": " Sachin, what is in Sachin?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 404.4,
+            "end": 405.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 405.4,
+            "end": 406.4,
+            "text": " It was repeated."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 406.4,
+            "end": 407.4,
+            "text": " Because this MP3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 407.4,
+            "end": 408.4,
+            "text": " It will play again and again."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 408.4,
+            "end": 409.4,
+            "text": " So there are many cases."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 409.4,
+            "end": 410.4,
+            "text": " When you want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 410.4,
+            "end": 411.4,
+            "text": " This MP3."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 411.4,
+            "end": 412.4,
+            "text": " To be repeated."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 412.4,
+            "end": 413.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 413.4,
+            "end": 414.4,
+            "text": " So if you want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 414.4,
+            "end": 415.4,
+            "text": " Your MP3 to be repeated."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 415.4,
+            "end": 416.4,
+            "text": " Then you can use it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 416.4,
+            "end": 417.4,
+            "text": " Now."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 417.4,
+            "end": 418.4,
+            "text": " After this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 418.4,
+            "end": 419.4,
+            "text": " Muted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 419.4,
+            "end": 420.4,
+            "text": " What will it do?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 420.4,
+            "end": 421.4,
+            "text": " It will mute the audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 421.4,
+            "end": 422.4,
+            "text": " And definitely."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 422.4,
+            "end": 423.4,
+            "text": " You don't want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 423.4,
+            "end": 424.4,
+            "text": " By default."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 424.4,
+            "end": 425.4,
+            "text": " Your audio is muted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 425.4,
+            "end": 426.4,
+            "text": " In most of the cases."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 426.4,
+            "end": 427.4,
+            "text": " But."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 427.4,
+            "end": 428.4,
+            "text": " Sometimes we want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 428.4,
+            "end": 429.4,
+            "text": " That."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 429.4,
+            "end": 430.4,
+            "text": " The audio is muted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 430.4,
+            "end": 431.4,
+            "text": " And we can say here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 431.4,
+            "end": 432.4,
+            "text": " To the user."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 432.4,
+            "end": 433.4,
+            "text": " That brother."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 433.4,
+            "end": 434.4,
+            "text": " Whoever wants to listen."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 434.4,
+            "end": 435.4,
+            "text": " Unmute it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 435.4,
+            "end": 436.4,
+            "text": " Sachin, what is it?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 436.4,
+            "end": 437.4,
+            "text": " When do we do this?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 437.4,
+            "end": 438.4,
+            "text": " When there are multiple audios."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 438.4,
+            "end": 439.4,
+            "text": " You want to show 5-6 audios together."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 439.4,
+            "end": 440.4,
+            "text": " You can mute them."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 440.4,
+            "end": 441.4,
+            "text": " The user can play."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 441.4,
+            "end": 442.4,
+            "text": " And see it unmuted."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 442.4,
+            "end": 443.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 443.4,
+            "end": 444.4,
+            "text": " So."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 444.4,
+            "end": 445.4,
+            "text": " You have control in your hand."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 445.4,
+            "end": 446.4,
+            "text": " If you want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 446.4,
+            "end": 447.4,
+            "text": " You can use this thing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 447.4,
+            "end": 448.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 448.4,
+            "end": 449.4,
+            "text": " All in all."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 449.4,
+            "end": 450.4,
+            "text": " This is the thing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 450.4,
+            "end": 451.4,
+            "text": " So."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 451.4,
+            "end": 452.4,
+            "text": " I hope you understood this thing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 452.4,
+            "end": 453.4,
+            "text": " You guys must have enjoyed."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 453.4,
+            "end": 454.4,
+            "text": " Now preload."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 454.4,
+            "end": 455.4,
+            "text": " The most confusing attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 455.4,
+            "end": 456.4,
+            "text": " And that's why."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 456.4,
+            "end": 457.4,
+            "text": " I have explained it on codewithaddy.com."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 457.4,
+            "end": 458.4,
+            "text": " That the preload attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 458.4,
+            "end": 459.4,
+            "text": " It can have these values."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 459.4,
+            "end": 460.4,
+            "text": " The first value can be none."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 460.4,
+            "end": 461.4,
+            "text": " This is the default value."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 461.4,
+            "end": 462.4,
+            "text": " It indicates."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 462.4,
+            "end": 463.4,
+            "text": " That the browser should not."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 463.4,
+            "end": 464.4,
+            "text": " Preload the audio at all."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 464.4,
+            "end": 465.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 465.4,
+            "end": 466.4,
+            "text": " Preload means."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 466.4,
+            "end": 467.4,
+            "text": " If you want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 467.4,
+            "end": 468.4,
+            "text": " That the browser fetches the data."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 468.4,
+            "end": 469.4,
+            "text": " Then you will use the preload attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 469.4,
+            "end": 470.4,
+            "text": " Otherwise."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 470.4,
+            "end": 471.4,
+            "text": " You will not use the preload attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 471.4,
+            "end": 472.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 472.4,
+            "end": 473.4,
+            "text": " Preload is equal to none."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 473.4,
+            "end": 474.4,
+            "text": " It is the default value."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 474.4,
+            "end": 475.4,
+            "text": " Preload is equal to metadata."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 475.4,
+            "end": 476.4,
+            "text": " It means."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 476.4,
+            "end": 477.4,
+            "text": " That the browser."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 477.4,
+            "end": 478.4,
+            "text": " Only metadata."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 478.4,
+            "end": 479.4,
+            "text": " That is."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 479.4,
+            "end": 480.4,
+            "text": " The information about that audio file."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 480.4,
+            "end": 481.4,
+            "text": " It is preloaded."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 481.4,
+            "end": 482.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 482.4,
+            "end": 483.4,
+            "text": " So."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 483.4,
+            "end": 484.4,
+            "text": " The browser."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 484.4,
+            "end": 485.4,
+            "text": " Will preload the information."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 485.4,
+            "end": 486.4,
+            "text": " About that audio file."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 486.4,
+            "end": 487.4,
+            "text": " It will preload it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 487.4,
+            "end": 488.4,
+            "text": " It will preload it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 488.4,
+            "end": 489.4,
+            "text": " And by doing auto."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 489.4,
+            "end": 490.4,
+            "text": " The browser will preload."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 490.4,
+            "end": 491.4,
+            "text": " The entire audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 491.4,
+            "end": 492.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 492.4,
+            "end": 493.4,
+            "text": " So preload is equal to auto."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 493.4,
+            "end": 494.4,
+            "text": " If I do."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 494.4,
+            "end": 495.4,
+            "text": " It will be downloaded."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 495.4,
+            "end": 496.4,
+            "text": " And automatically loaded."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 496.4,
+            "end": 497.4,
+            "text": " So that whenever the user plays it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 497.4,
+            "end": 498.4,
+            "text": " Then the audio is saved."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 498.4,
+            "end": 499.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 499.4,
+            "end": 500.4,
+            "text": " So."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 500.4,
+            "end": 501.4,
+            "text": " This is the work of the preload attribute."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 501.4,
+            "end": 502.4,
+            "text": " And in interviews."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 502.4,
+            "end": 503.4,
+            "text": " This preload attribute is asked a lot."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 503.4,
+            "end": 504.4,
+            "text": " So you should know."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 504.4,
+            "end": 505.4,
+            "text": " What is the preload attribute?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 505.4,
+            "end": 506.4,
+            "text": " Before moving forward."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 506.4,
+            "end": 507.4,
+            "text": " I want you to share this playlist."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 507.4,
+            "end": 508.4,
+            "text": " With your friends."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 508.4,
+            "end": 509.4,
+            "text": " Because I am seeing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 509.4,
+            "end": 510.4,
+            "text": " That the interest is declining a lot."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 510.4,
+            "end": 511.4,
+            "text": " Like."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 511.4,
+            "end": 512.4,
+            "text": " As we are moving forward in the videos."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 512.4,
+            "end": 513.4,
+            "text": " My request to you is."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 513.4,
+            "end": 514.4,
+            "text": " Like this video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 514.4,
+            "end": 515.4,
+            "text": " And along with that."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 515.4,
+            "end": 516.4,
+            "text": " As you are forking this repository."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 516.4,
+            "end": 517.4,
+            "text": " You should also star it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 517.4,
+            "end": 518.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 518.4,
+            "end": 519.4,
+            "text": " Your star."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 519.4,
+            "end": 520.4,
+            "text": " Your likes."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 520.4,
+            "end": 521.4,
+            "text": " All this will help me a lot."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 521.4,
+            "end": 522.4,
+            "text": " To bring such free courses."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 522.4,
+            "end": 523.4,
+            "text": " So this was about."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 523.4,
+            "end": 524.4,
+            "text": " Audio and video tags."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 524.4,
+            "end": 525.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 525.4,
+            "end": 526.4,
+            "text": " I have told you all the attributes."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 526.4,
+            "end": 527.4,
+            "text": " And you should definitely use it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 527.4,
+            "end": 528.4,
+            "text": " I will give you all these images."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 528.4,
+            "end": 529.4,
+            "text": " So that you can try it out well."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 529.4,
+            "end": 530.4,
+            "text": " Now many people were asking."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 530.4,
+            "end": 531.4,
+            "text": " That do we have to replace."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 531.4,
+            "end": 532.4,
+            "text": " The audio and video tags."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 532.4,
+            "end": 533.4,
+            "text": " So."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 533.4,
+            "end": 534.4,
+            "text": " I have told you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 534.4,
+            "end": 535.4,
+            "text": " That you can use it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 535.4,
+            "end": 536.4,
+            "text": " And you can use it."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 536.4,
+            "end": 537.4,
+            "text": " I will give you all these images."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 537.4,
+            "end": 538.4,
+            "text": " So that you can try it out well."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 538.4,
+            "end": 539.4,
+            "text": " Now many people were asking."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 541.4,
+            "end": 542.4,
+            "text": " That you can use replit."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 542.4,
+            "end": 543.4,
+            "text": " See in this course."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 543.4,
+            "end": 544.4,
+            "text": " I have not used replit."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 544.4,
+            "end": 545.4,
+            "text": " But replit.com is an amazing website."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 545.4,
+            "end": 546.4,
+            "text": " If you want."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 546.4,
+            "end": 547.4,
+            "text": " You can use it in your phone."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 547.4,
+            "end": 548.4,
+            "text": " If you want to run html."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 548.4,
+            "end": 549.4,
+            "text": " There is a replit app."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 549.4,
+            "end": 550.4,
+            "text": " There is for iOS."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 550.4,
+            "end": 551.4,
+            "text": " There is for Android."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 551.4,
+            "end": 552.4,
+            "text": " So you can try it out."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 552.4,
+            "end": 553.4,
+            "text": " Many people are asking."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 553.4,
+            "end": 554.4,
+            "text": " How to do recording in the phone."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 554.4,
+            "end": 555.4,
+            "text": " Replit."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 555.4,
+            "end": 556.4,
+            "text": " But what I want now."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 556.4,
+            "end": 557.4,
+            "text": " VS Code."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 557.4,
+            "end": 558.4,
+            "text": " Which most of the people."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 558.4,
+            "end": 559.4,
+            "text": " Want to use."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 559.4,
+            "end": 560.4,
+            "text": " Prefer."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 560.4,
+            "end": 561.4,
+            "text": " So I thought."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 561.4,
+            "end": 562.4,
+            "text": " Why not make videos in VS Code."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 562.4,
+            "end": 563.4,
+            "text": " But I personally."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 563.4,
+            "end": 564.4,
+            "text": " Use replit a lot."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 564.4,
+            "end": 565.4,
+            "text": " Infact videos also come."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 565.4,
+            "end": 566.4,
+            "text": " So I thought."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 566.4,
+            "end": 567.4,
+            "text": " Why not make videos in VS Code."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 567.4,
+            "end": 568.4,
+            "text": " But I personally."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 568.4,
+            "end": 569.4,
+            "text": " Use replit a lot."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 570.4,
+            "end": 571.4,
+            "text": " Infact videos also come."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 571.4,
+            "end": 572.4,
+            "text": " Next topic is."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 572.4,
+            "end": 573.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 573.4,
+            "end": 574.4,
+            "text": " Media related."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 574.4,
+            "end": 575.4,
+            "text": " What is SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 575.4,
+            "end": 576.4,
+            "text": " SVG is a format."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 576.4,
+            "end": 577.4,
+            "text": " With which you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 577.4,
+            "end": 578.4,
+            "text": " Can create an image."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 578.4,
+            "end": 579.4,
+            "text": " With high graphics."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 579.4,
+            "end": 580.4,
+            "text": " Vector images."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 580.4,
+            "end": 581.4,
+            "text": " So if you copy."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 581.4,
+            "end": 582.4,
+            "text": " You can make a circle."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 582.4,
+            "end": 583.4,
+            "text": " In this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 583.4,
+            "end": 584.4,
+            "text": " So SVG is used."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 584.4,
+            "end": 585.4,
+            "text": " In the same way."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 585.4,
+            "end": 586.4,
+            "text": " As."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 586.4,
+            "end": 587.4,
+            "text": " Our IMG tag is used."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 587.4,
+            "end": 588.4,
+            "text": " So see."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 588.4,
+            "end": 589.4,
+            "text": " If I put SVG here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 589.4,
+            "end": 590.4,
+            "text": " So this SVG will come here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 590.4,
+            "end": 591.4,
+            "text": " So see."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 591.4,
+            "end": 592.4,
+            "text": " This circle and SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 592.4,
+            "end": 593.4,
+            "text": " Came here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 593.4,
+            "end": 594.4,
+            "text": " Video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 594.4,
+            "end": 595.4,
+            "text": " Audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 595.4,
+            "end": 596.4,
+            "text": " Video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 596.4,
+            "end": 597.4,
+            "text": " Video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 597.4,
+            "end": 598.4,
+            "text": " Audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 598.4,
+            "end": 599.4,
+            "text": " Video."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 599.4,
+            "end": 600.4,
+            "text": " Audio."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 600.4,
+            "end": 601.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 601.4,
+            "end": 602.4,
+            "text": " These are inline elements."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 602.4,
+            "end": 603.4,
+            "text": " That's why we are getting."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 603.4,
+            "end": 604.4,
+            "text": " To see in one line."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 604.4,
+            "end": 605.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 605.4,
+            "end": 606.4,
+            "text": " You have seen here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 606.4,
+            "end": 607.4,
+            "text": " Now what is here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 607.4,
+            "end": 608.4,
+            "text": " You can save SVG file."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 608.4,
+            "end": 609.4,
+            "text": " Separately."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 609.4,
+            "end": 610.4,
+            "text": " You can save SVG file separately."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 610.4,
+            "end": 611.4,
+            "text": " Like if I write here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 611.4,
+            "end": 612.4,
+            "text": " That."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 612.4,
+            "end": 613.4,
+            "text": " IMG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 613.4,
+            "end": 614.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 614.4,
+            "end": 615.4,
+            "text": " And save the content of SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 615.4,
+            "end": 616.4,
+            "text": " So if I write here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 616.4,
+            "end": 617.4,
+            "text": " IMG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 617.4,
+            "end": 618.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 618.4,
+            "end": 619.4,
+            "text": " IMG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 619.4,
+            "end": 620.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 620.4,
+            "end": 621.4,
+            "text": " So you guys see here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 621.4,
+            "end": 622.4,
+            "text": " That I did not get to see."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 622.4,
+            "end": 623.4,
+            "text": " If I write alt here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 623.4,
+            "end": 624.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 624.4,
+            "end": 625.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 625.4,
+            "end": 626.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 626.4,
+            "end": 627.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 627.4,
+            "end": 628.4,
+            "text": " And I will write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 628.4,
+            "end": 629.4,
+            "text": " My SVG image."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 630.4,
+            "end": 631.4,
+            "text": " So you see here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 631.4,
+            "end": 632.4,
+            "text": " That my SVG image is here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 632.4,
+            "end": 633.4,
+            "text": " But I did not get to see SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 633.4,
+            "end": 634.4,
+            "text": " Why did this happen?"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 634.4,
+            "end": 635.4,
+            "text": " This happened because."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 635.4,
+            "end": 636.4,
+            "text": " Because the SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 636.4,
+            "end": 637.4,
+            "text": " SVG file in browser."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 637.4,
+            "end": 638.4,
+            "text": " I write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 638.4,
+            "end": 639.4,
+            "text": " And SVG file."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 639.4,
+            "end": 640.4,
+            "text": " Whenever you want to see."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 640.4,
+            "end": 641.4,
+            "text": " In the browser."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 641.4,
+            "end": 642.4,
+            "text": " Then."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 642.4,
+            "end": 643.4,
+            "text": " You will put a declaration above."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 643.4,
+            "end": 644.4,
+            "text": " I will show you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 644.4,
+            "end": 645.4,
+            "text": " So I wrote here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 645.4,
+            "end": 646.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 646.4,
+            "end": 647.4,
+            "text": " File not showing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 647.4,
+            "end": 648.4,
+            "text": " So here."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 648.4,
+            "end": 649.4,
+            "text": " There is a answer of stack overflow."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 649.4,
+            "end": 650.4,
+            "text": " Which will tell you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 650.4,
+            "end": 651.4,
+            "text": " So you have to write this."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 651.4,
+            "end": 652.4,
+            "text": " I will show you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 652.4,
+            "end": 653.4,
+            "text": " I will show you."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 653.4,
+            "end": 654.4,
+            "text": " So I have to write."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 654.4,
+            "end": 655.4,
+            "text": " SVG."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 655.4,
+            "end": 656.4,
+            "text": " File not showing."
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 656.4,
+            "end": 658.4,
+            "text": " I'll show you"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 658.4,
+            "end": 660.4,
+            "text": " XML"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 660.4,
+            "end": 662.4,
+            "text": " You have to add this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 662.4,
+            "end": 664.4,
+            "text": " It's called namespace declaration"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 664.4,
+            "end": 666.4,
+            "text": " You have to add this SVG"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 666.4,
+            "end": 668.4,
+            "text": " And now you can see"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 668.4,
+            "end": 670.4,
+            "text": " SVG here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 670.4,
+            "end": 672.4,
+            "text": " This is very important"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 672.4,
+            "end": 674.4,
+            "text": " When you'll make your own websites"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 674.4,
+            "end": 676.4,
+            "text": " You'll get stuck in this problem"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 676.4,
+            "end": 678.4,
+            "text": " I get stuck in this problem"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 678.4,
+            "end": 680.4,
+            "text": " I've already told you the problem"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 680.4,
+            "end": 682.4,
+            "text": " You didn't get the problem"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 682.4,
+            "end": 684.4,
+            "text": " I told you the problem and solution"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 684.4,
+            "end": 686.4,
+            "text": " Next topic is iframes"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 686.4,
+            "end": 688.4,
+            "text": " Iframes is a very simple thing"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 688.4,
+            "end": 690.4,
+            "text": " You can embed another website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 690.4,
+            "end": 692.4,
+            "text": " In your website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 692.4,
+            "end": 694.4,
+            "text": " If I want to embed this webpage"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 694.4,
+            "end": 696.4,
+            "text": " I can use iframes"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 696.4,
+            "end": 698.4,
+            "text": " Like this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 698.4,
+            "end": 700.4,
+            "text": " I'll copy this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 700.4,
+            "end": 702.4,
+            "text": " And I'll paste it here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 702.4,
+            "end": 704.4,
+            "text": " And you can see"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 704.4,
+            "end": 706.4,
+            "text": " This website is"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 706.4,
+            "end": 708.4,
+            "text": " Embedded in this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 708.4,
+            "end": 710.4,
+            "text": " You'll definitely want to embed"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 710.4,
+            "end": 712.4,
+            "text": " In a big iframe"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 712.4,
+            "end": 714.4,
+            "text": " So you can embed it like this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 714.4,
+            "end": 716.4,
+            "text": " I'll increase the height"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 716.4,
+            "end": 718.4,
+            "text": " So width is equal to"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 718.4,
+            "end": 720.4,
+            "text": " Let's say"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 720.4,
+            "end": 722.4,
+            "text": " 122"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 722.4,
+            "end": 724.4,
+            "text": " Height is equal to 444"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 724.4,
+            "end": 726.4,
+            "text": " So it's like this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 726.4,
+            "end": 728.4,
+            "text": " Now definitely it was coming in this width"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 728.4,
+            "end": 730.4,
+            "text": " So it's in this line"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 730.4,
+            "end": 732.4,
+            "text": " But if I increase the width"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 732.4,
+            "end": 734.4,
+            "text": " Let's say 322"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 734.4,
+            "end": 736.4,
+            "text": " So you can see"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 736.4,
+            "end": 738.4,
+            "text": " It's all embedded"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 738.4,
+            "end": 740.4,
+            "text": " You can embed a website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 740.4,
+            "end": 742.4,
+            "text": " Another use case of iframes"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 742.4,
+            "end": 744.4,
+            "text": " Is youtube video"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 744.4,
+            "end": 746.4,
+            "text": " If you want to share youtube video"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 746.4,
+            "end": 748.4,
+            "text": " And click on embed"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 748.4,
+            "end": 750.4,
+            "text": " It'll give you iframe code"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 750.4,
+            "end": 752.4,
+            "text": " And you can start it here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 752.4,
+            "end": 754.4,
+            "text": " If you want to start at a particular time"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 754.4,
+            "end": 756.4,
+            "text": " You can do that here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 756.4,
+            "end": 758.4,
+            "text": " The point where you'll start and share"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 758.4,
+            "end": 760.4,
+            "text": " That time comes here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 760.4,
+            "end": 762.4,
+            "text": " Let's say I want to start from here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 762.4,
+            "end": 764.4,
+            "text": " Let's say video starts from here"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 764.4,
+            "end": 766.4,
+            "text": " So what I'll do is"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 766.4,
+            "end": 768.4,
+            "text": " I'll click on share"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 768.4,
+            "end": 770.4,
+            "text": " I'll click on embed"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 770.4,
+            "end": 772.4,
+            "text": " I'll start at 1219"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 772.4,
+            "end": 774.4,
+            "text": " And I'll copy it"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 774.4,
+            "end": 776.4,
+            "text": " And I'll put it in my code"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 776.4,
+            "end": 778.4,
+            "text": " I'll comment this iframe"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 778.4,
+            "end": 780.4,
+            "text": " And I'll put it in the iframe below"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 780.4,
+            "end": 782.4,
+            "text": " I'll wrap the word"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 782.4,
+            "end": 784.4,
+            "text": " So you can see the code"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 784.4,
+            "end": 786.4,
+            "text": " Now what I'll do"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 786.4,
+            "end": 788.4,
+            "text": " After pasting it"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 788.4,
+            "end": 790.4,
+            "text": " I'll show you the document"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 790.4,
+            "end": 792.4,
+            "text": " This video is embedded"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 792.4,
+            "end": 794.4,
+            "text": " I hope you understood this"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 794.4,
+            "end": 796.4,
+            "text": " And media in html is"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 796.4,
+            "end": 798.4,
+            "text": " About this much"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 798.4,
+            "end": 800.4,
+            "text": " You'll see many things in miscellaneous"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 800.4,
+            "end": 802.4,
+            "text": " But pretty much"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 802.4,
+            "end": 804.4,
+            "text": " That's all about media"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 804.4,
+            "end": 806.4,
+            "text": " This is what you'll use"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 806.4,
+            "end": 808.4,
+            "text": " 95% of the times"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 808.4,
+            "end": 810.4,
+            "text": " Now I'll give you a quick quiz"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 810.4,
+            "end": 812.4,
+            "text": " And your quick quiz is"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 812.4,
+            "end": 814.4,
+            "text": " Create a website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 814.4,
+            "end": 816.4,
+            "text": " Which shows videos"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 816.4,
+            "end": 818.4,
+            "text": " Of different category"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 818.4,
+            "end": 820.4,
+            "text": " And audios of different categories"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 820.4,
+            "end": 822.4,
+            "text": " You can use"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 822.4,
+            "end": 824.4,
+            "text": " Youtube videos in an iframe"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 824.4,
+            "end": 826.4,
+            "text": " Using youtube embedding feature"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 826.4,
+            "end": 828.4,
+            "text": " So what you'll do"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 828.4,
+            "end": 830.4,
+            "text": " You'll make a website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 830.4,
+            "end": 832.4,
+            "text": " In which you'll get a lot of content"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 832.4,
+            "end": 834.4,
+            "text": " Now you'll use video audio tags"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 834.4,
+            "end": 836.4,
+            "text": " And youtube share feature"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 836.4,
+            "end": 838.4,
+            "text": " Like I did"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 838.4,
+            "end": 840.4,
+            "text": " Youtube video embed"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 840.4,
+            "end": 842.4,
+            "text": " You can do it the same way"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 842.4,
+            "end": 844.4,
+            "text": " And make a very good website"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 844.4,
+            "end": 846.4,
+            "text": " You can give me a comment"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 846.4,
+            "end": 848.4,
+            "text": " And you can also"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 848.4,
+            "end": 850.4,
+            "text": " Tell me the code"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 850.4,
+            "end": 852.4,
+            "text": " But do attempt this quiz"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 852.4,
+            "end": 854.4,
+            "text": " And do write sigma batch opi in the comment section"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 854.4,
+            "end": 856.4,
+            "text": " Access this playlist"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 856.4,
+            "end": 858.4,
+            "text": " Like this video"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 858.4,
+            "end": 860.4,
+            "text": " And do write sigma batch opi"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 860.4,
+            "end": 862.4,
+            "text": " Thank you so much for watching this video"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 862.4,
+            "end": 864.4,
+            "text": " And I'll see you next time"
+        },
+        {
+            "number": "Video, Audio & Media in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #10 - CodeWithHarry (144p, h264)",
+            "start": 882.4,
+            "end": 884.4,
+            "text": " Outro"
+        }
+    ],
+    "text": " In today's video, we will learn how audio, video and media elements are used in HTML. We saw in our very first video that we can embed videos in HTML. Today I will tell you how the video is auto-played, how to keep a muted video, and how you can enable and disable the video controls. Along with that, we will also see very closely about audio, how media can be shown in an overall page. So do like this video and stay in this video because the examples I have used for video tags are very amazing. Let's go to the video screen. Let's roll the intro. Intro Friends, this time I have made a folder named video10 and I will not waste your time by opening Open With Code by right-clicking and shifting. In fact, I will make it in index.html. And the topic of today's video is video. How to play a video, how to put a video in an HTML file, how to put audio, how to put media. So adding a video is very straightforward. I will copy it here, which is our video tag. It has an src attribute and it has some other attributes which I will discuss with you. But first of all, I want to tell you here that video src is equal to, you will write here like this. So if you have video.mp4, it will play. I have video.mp4. So let's see here, I have put it here with control. And I will click here and preview it. And you can see here that this video has come. Now this is a very big video. So what can I do? I can give its width. So I can say here width is equal to 555 pixels. And as soon as I do 555 pixels, in fact, I don't need to write px, I will just do 555. Like we don't need to write px in the image. Here too we will not need to write px. So as soon as I did width is equal to 555, in fact, I do one thing, I do height is equal to 555 so that it gets smaller. In fact, I make it smaller. I do 255. And you see it came here. Now I play it because I have put control, so I can play it. What do you see? There is a better road than America. What did you say? Gopendra Jogi. Where have you been in the US? I have been to many places in the US. Tell me the name. Gopendra Jogi. Hahaha. So what is it that you can play the video like this. Now here are some attributes of video tag. See, it is very simple to use video tag. You should have a video. You have given the path of the video. After that you have given the controls. So these controls will come to you. You can download it. You can do full screen. You can mute. You can do picture in picture. All this is automatically provided by your browser. But let me tell you about some attributes. The first attribute is SRC. So you know that put the video here. The name of the video file is SRC. This video file can also come from the external URL. You understand that if I have uploaded a video on Amazon S3 or somewhere else, then I can also put the URL there. I mean, it is not necessary that the file is in your computer. It can also be on your server. It can also come from third party. Now what does the controls do? Adds video controls like play, pause and volume. Which we saw here in the Bhopendra Jogi video. That you are getting to see the controls here. Now what is this thing? The browser automatically checks what control ads will be in your video and what will not be. Then see what will autoplay do? It will automatically play as soon as the page loads. Okay, so if I put autoplay here, I mean, I put autoplay here. Okay. What did you see in the market? How is it happening? How is it happening? It's good. So you can see here that it has been autoplayed. Okay, so I will remove autoplay from here. And our next attribute is loop. That is, once our video is played, it will keep looping. Like I show you. What did you see in the market? Bhopendra Jogi. What did you see in the market? So it started again. Once I finished it, it started again. Okay, so this loop works like this. The next attribute is muted. Muted mutes the video. So if I write here muted, sometimes we want the video to be muted. In fact, when I add videos here on codewithhari.com and I demonstrate something, like downloading VS Code or something, then I use the muted attribute. Because I don't want that when I record a video, if there is any background noise, you can hear it. For example, I want to show you that this is the element. So I will scroll and make a video. I will highlight it like this. So I don't need audio in it. So I mute it. So you can use the muted attribute on your website. Then the poster. The poster is very important. So I have an image here. Download.jpg. Okay. If I write here poster is equal to and I write download.jpg, then you will see something like this. Okay, this is how the poster looks. Then I will play it. So the video will play. So in a way, the thumbnail. Okay, the thumbnail of the YouTube video is seen. This is exactly the same, this poster attribute. So you can use all these attributes. Width and height, you know that specifies the dimension of the video. Like I added both width and height here. You saw. So I hope you understood this thing. Now the thing I want to tell you after this is audio. So this is for all the attributes of your video. It is very straightforward. I want you to make a website. Which I am going to give you at the end of this video. In quick quiz. So listen to the quick quiz. In fact, I will put the heading here. Quick quiz. Okay. So that I don't forget. I will give you this now. And this is going to be a very interesting quiz. You must solve this. But before that. As soon as you write audio, SRC comes here. And I have to put SRC in sachin.mp3. So as soon as I put it in sachin.mp3. Now see here, I will reload it. And the audio did not come here. Which is strange. Let's see what the problem is here. I put SRC is equal to. I have to write controls here too. So if I don't write controls, I won't see the audio. See, now the audio has come. I can see the controls here. I can also set its volume. I play this audio. Sachin, what is in Sachin? It's a stupid Sachin. Okay. So this is our audio. If I mute it and run it, then it won't work. And I can also increase it further. It's a stupid Sachin. Okay. You guys have seen. So this is an audio called sachin.mp3. Now what we will do is. That we will see some attributes of this audio. SRC you know that. Source of the video file. Okay. Then after this, you know the controls. Play, pause or volume. Which we just saw. What will autoplay do? It will play it automatically. If I have here. Autoplay. Sachin, what is in Sachin? It's a stupid Sachin. It will play automatically. So what does autoplay do? It will play our audio automatically. After this. The next attribute is. That is loop. What will loop do? It will repeat it. If I want to loop it. So I have autoplayed it. And I loop it. Sachin, what is in Sachin? It's a stupid Sachin. Once. Sachin, what is in Sachin? Second time. It's a stupid Sachin. So you saw it was repeated. Means once it was played. Then after that it was played again. Because I had looped the audio. Okay. So you guys have seen this thing. Sachin.mp3. I looped it. Means once it was played. Then it was played. Then it was played. Okay. Sachin, what is in Sachin? Okay. It was repeated. Because this MP3. It will play again and again. So there are many cases. When you want. This MP3. To be repeated. Okay. So if you want. Your MP3 to be repeated. Then you can use it. Now. After this. Muted. What will it do? It will mute the audio. And definitely. You don't want. By default. Your audio is muted. In most of the cases. But. Sometimes we want. That. The audio is muted. And we can say here. To the user. That brother. Whoever wants to listen. Unmute it. Sachin, what is it? When do we do this? When there are multiple audios. You want to show 5-6 audios together. You can mute them. The user can play. And see it unmuted. Okay. So. You have control in your hand. If you want. You can use this thing. Okay. All in all. This is the thing. So. I hope you understood this thing. You guys must have enjoyed. Now preload. The most confusing attribute. And that's why. I have explained it on codewithaddy.com. That the preload attribute. It can have these values. The first value can be none. This is the default value. It indicates. That the browser should not. Preload the audio at all. Okay. Preload means. If you want. That the browser fetches the data. Then you will use the preload attribute. Otherwise. You will not use the preload attribute. Okay. Preload is equal to none. It is the default value. Preload is equal to metadata. It means. That the browser. Only metadata. That is. The information about that audio file. It is preloaded. Okay. So. The browser. Will preload the information. About that audio file. It will preload it. It will preload it. And by doing auto. The browser will preload. The entire audio. Okay. So preload is equal to auto. If I do. It will be downloaded. And automatically loaded. So that whenever the user plays it. Then the audio is saved. Okay. So. This is the work of the preload attribute. And in interviews. This preload attribute is asked a lot. So you should know. What is the preload attribute? Before moving forward. I want you to share this playlist. With your friends. Because I am seeing. That the interest is declining a lot. Like. As we are moving forward in the videos. My request to you is. Like this video. And along with that. As you are forking this repository. You should also star it. Okay. Your star. Your likes. All this will help me a lot. To bring such free courses. So this was about. Audio and video tags. Okay. I have told you all the attributes. And you should definitely use it. I will give you all these images. So that you can try it out well. Now many people were asking. That do we have to replace. The audio and video tags. So. I have told you. That you can use it. And you can use it. I will give you all these images. So that you can try it out well. Now many people were asking. That you can use replit. See in this course. I have not used replit. But replit.com is an amazing website. If you want. You can use it in your phone. If you want to run html. There is a replit app. There is for iOS. There is for Android. So you can try it out. Many people are asking. How to do recording in the phone. Replit. But what I want now. VS Code. Which most of the people. Want to use. Prefer. So I thought. Why not make videos in VS Code. But I personally. Use replit a lot. Infact videos also come. So I thought. Why not make videos in VS Code. But I personally. Use replit a lot. Infact videos also come. Next topic is. SVG. Media related. What is SVG. SVG is a format. With which you. Can create an image. With high graphics. Vector images. So if you copy. You can make a circle. In this. So SVG is used. In the same way. As. Our IMG tag is used. So see. If I put SVG here. So this SVG will come here. So see. This circle and SVG. Came here. Video. Audio. Video. Video. Audio. Video. Audio. SVG. These are inline elements. That's why we are getting. To see in one line. Okay. You have seen here. Now what is here. You can save SVG file. Separately. You can save SVG file separately. Like if I write here. That. IMG. SVG. And save the content of SVG. So if I write here. IMG. And I will write. IMG. SVG. So you guys see here. That I did not get to see. If I write alt here. And I will write. And I will write. And I will write. And I will write. And I will write. My SVG image. So you see here. That my SVG image is here. But I did not get to see SVG. Why did this happen? This happened because. Because the SVG. SVG file in browser. I write. And SVG file. Whenever you want to see. In the browser. Then. You will put a declaration above. I will show you. So I wrote here. SVG. File not showing. So here. There is a answer of stack overflow. Which will tell you. So you have to write this. I will show you. I will show you. So I have to write. SVG. File not showing. I'll show you XML You have to add this It's called namespace declaration You have to add this SVG And now you can see SVG here This is very important When you'll make your own websites You'll get stuck in this problem I get stuck in this problem I've already told you the problem You didn't get the problem I told you the problem and solution Next topic is iframes Iframes is a very simple thing You can embed another website In your website If I want to embed this webpage I can use iframes Like this I'll copy this And I'll paste it here And you can see This website is Embedded in this You'll definitely want to embed In a big iframe So you can embed it like this I'll increase the height So width is equal to Let's say 122 Height is equal to 444 So it's like this Now definitely it was coming in this width So it's in this line But if I increase the width Let's say 322 So you can see It's all embedded You can embed a website Another use case of iframes Is youtube video If you want to share youtube video And click on embed It'll give you iframe code And you can start it here If you want to start at a particular time You can do that here The point where you'll start and share That time comes here Let's say I want to start from here Let's say video starts from here So what I'll do is I'll click on share I'll click on embed I'll start at 1219 And I'll copy it And I'll put it in my code I'll comment this iframe And I'll put it in the iframe below I'll wrap the word So you can see the code Now what I'll do After pasting it I'll show you the document This video is embedded I hope you understood this And media in html is About this much You'll see many things in miscellaneous But pretty much That's all about media This is what you'll use 95% of the times Now I'll give you a quick quiz And your quick quiz is Create a website Which shows videos Of different category And audios of different categories You can use Youtube videos in an iframe Using youtube embedding feature So what you'll do You'll make a website In which you'll get a lot of content Now you'll use video audio tags And youtube share feature Like I did Youtube video embed You can do it the same way And make a very good website You can give me a comment And you can also Tell me the code But do attempt this quiz And do write sigma batch opi in the comment section Access this playlist Like this video And do write sigma batch opi Thank you so much for watching this video And I'll see you next time Outro"
+}

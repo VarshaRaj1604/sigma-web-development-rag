@@ -1,0 +1,2224 @@
+{
+    "chunks": [
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 0.0,
+            "end": 2.6,
+            "text": " Guys, we have seen almost everything in HTML."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 2.6,
+            "end": 5.28,
+            "text": " In today's video, we will conclude HTML"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 5.28,
+            "end": 7.48,
+            "text": " and talk about some miscellaneous things"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 7.48,
+            "end": 10.040000000000001,
+            "text": " which will help you a lot in your web development journey."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 10.040000000000001,
+            "end": 12.52,
+            "text": " After that, we will start CSS from the coming videos."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 12.52,
+            "end": 14.72,
+            "text": " I am very excited to conclude HTML."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 14.72,
+            "end": 18.92,
+            "text": " You guys like this video and write Sigma patch op in the comment section below."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 18.92,
+            "end": 20.28,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 20.28,
+            "end": 21.72,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 30.72,
+            "end": 33.56,
+            "text": " So guys, as you can see, I have come to my computer screen."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 33.56,
+            "end": 36.2,
+            "text": " And without wasting time, I will create a new folder here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 36.2,
+            "end": 37.88,
+            "text": " I will name it video 13."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 37.88,
+            "end": 41.0,
+            "text": " I will come in this, right click and open the VS code."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 41.0,
+            "end": 45.120000000000005,
+            "text": " And I will make a file index.html."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 45.120000000000005,
+            "end": 45.8,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 45.8,
+            "end": 49.04,
+            "text": " Now here I have given the file index.html."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 49.04,
+            "end": 50.92,
+            "text": " Now I want to tell you one thing."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 50.92,
+            "end": 55.400000000000006,
+            "text": " There are many things in HTML that you have to explore yourself."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 55.400000000000006,
+            "end": 59.400000000000006,
+            "text": " I will tell you some things here and after this video, I will conclude HTML."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 59.4,
+            "end": 61.24,
+            "text": " If you want in HTML,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 61.24,
+            "end": 65.36,
+            "text": " I will turn on Word Wrap and toggle Screencast Mode."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 65.36,
+            "end": 67.56,
+            "text": " Suppose you want to write this in HTML,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 67.56,
+            "end": 69.12,
+            "text": " 3 is greater than 4."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 69.12,
+            "end": 70.52,
+            "text": " Suppose you want to write this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 70.52,
+            "end": 72.72,
+            "text": " If you try to write this in HTML,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 72.72,
+            "end": 74.32,
+            "text": " I will show you the preview of this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 74.32,
+            "end": 76.4,
+            "text": " So it came here by writing 3 is greater than 4."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 76.4,
+            "end": 78.32,
+            "text": " Now suppose I write here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 78.32,
+            "end": 81.28,
+            "text": " this is the code for paragraph."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 81.28,
+            "end": 81.84,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 81.84,
+            "end": 83.88,
+            "text": " And I write something like this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 83.88,
+            "end": 85.72,
+            "text": " Now I have written this here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 85.72,
+            "end": 88.0,
+            "text": " I want it to appear."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 88.2,
+            "end": 90.8,
+            "text": " But you see here, it will not appear."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 90.8,
+            "end": 91.8,
+            "text": " Why not?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 91.8,
+            "end": 94.6,
+            "text": " Because how will it know that I want to write the code for paragraph"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 94.6,
+            "end": 97.8,
+            "text": " or I want to use this P tag as a syntax."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 97.8,
+            "end": 100.72,
+            "text": " So HTML entities are to be avoided from this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 100.72,
+            "end": 103.24,
+            "text": " Now let me tell you what HTML entities are."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 103.24,
+            "end": 106.08,
+            "text": " If you write ampersand lt semicolon here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 106.08,
+            "end": 107.36,
+            "text": " lt for less than,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 107.36,
+            "end": 110.32,
+            "text": " then you can write it as lt semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 110.32,
+            "end": 113.6,
+            "text": " Now if you write ampersand lt semicolon here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 113.6,
+            "end": 116.6,
+            "text": " and replace it with ampersand lt semicolon,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 116.6,
+            "end": 120.47999999999999,
+            "text": " and you replace the greater than with ampersand gt semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 120.47999999999999,
+            "end": 122.47999999999999,
+            "text": " I will show you this thing."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 122.47999999999999,
+            "end": 125.88,
+            "text": " If you replace it with ampersand gt semicolon,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 125.88,
+            "end": 127.16,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 127.16,
+            "end": 131.44,
+            "text": " That it will appear here as it is written."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 131.44,
+            "end": 133.72,
+            "text": " As you can see, I will zoom in and show you."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 133.72,
+            "end": 134.32,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 134.32,
+            "end": 137.72,
+            "text": " So what happens is that HTML entities are used"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 137.72,
+            "end": 141.79999999999998,
+            "text": " to write those things that may collide with the syntax of HTML."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 141.79999999999998,
+            "end": 143.35999999999999,
+            "text": " What does it mean to collide?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 143.36,
+            "end": 146.28,
+            "text": " If we write the code of paragraph tag here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 146.28,
+            "end": 148.96,
+            "text": " then how will HTML know that this is the code of paragraph tag?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 148.96,
+            "end": 151.72000000000003,
+            "text": " Or if you want to write this thing as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 151.72000000000003,
+            "end": 153.20000000000002,
+            "text": " There is also a pre tag for this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 153.20000000000002,
+            "end": 155.16000000000003,
+            "text": " If you put anything in the pre tag,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 155.16000000000003,
+            "end": 156.08,
+            "text": " and you write here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 156.08,
+            "end": 158.8,
+            "text": " then P, this is a para."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 158.8,
+            "end": 160.96,
+            "text": " So if you write it like this,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 160.96,
+            "end": 162.56,
+            "text": " then it will come here as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 162.56,
+            "end": 163.44000000000003,
+            "text": " As you can see."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 163.44000000000003,
+            "end": 163.92000000000002,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 163.92000000000002,
+            "end": 165.60000000000002,
+            "text": " It will come as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 165.60000000000002,
+            "end": 167.20000000000002,
+            "text": " And along with that,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 167.20000000000002,
+            "end": 168.96,
+            "text": " if you write new lines here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 168.96,
+            "end": 172.44000000000003,
+            "text": " this is after few new lines."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 172.44000000000003,
+            "end": 172.88000000000002,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 172.88,
+            "end": 174.72,
+            "text": " And some more."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 174.72,
+            "end": 175.88,
+            "text": " If you write like this,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 175.88,
+            "end": 177.48,
+            "text": " then it will come as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 177.48,
+            "end": 179.04,
+            "text": " Keeping all the spaces intact."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 179.04,
+            "end": 180.96,
+            "text": " Keeping all the new lines intact."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 180.96,
+            "end": 182.84,
+            "text": " But it is not that tags will show up here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 182.84,
+            "end": 185.24,
+            "text": " For tags, we will have to use entities."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 185.24,
+            "end": 187.24,
+            "text": " So this happens in pre tag HTML."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 187.24,
+            "end": 188.35999999999999,
+            "text": " So we have seen entities,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 188.35999999999999,
+            "end": 189.44,
+            "text": " we have seen pre tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 189.44,
+            "end": 191.12,
+            "text": " If you want to put a copyright symbol,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 191.12,
+            "end": 194.32,
+            "text": " then you can write ampersand copy semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 194.32,
+            "end": 196.8,
+            "text": " And as you write ampersand copy semicolon here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 196.8,
+            "end": 198.84,
+            "text": " then you will get to see the copyright symbol here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 198.84,
+            "end": 199.88,
+            "text": " As you can see."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 199.88,
+            "end": 200.44,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 200.44,
+            "end": 203.2,
+            "text": " So you can do such things with the help of HTML entities."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 203.2,
+            "end": 205.04,
+            "text": " So you try out all these examples."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 205.04,
+            "end": 206.68,
+            "text": " Non-breaking spaces."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 206.68,
+            "end": 207.48,
+            "text": " Along with that,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 207.48,
+            "end": 208.76,
+            "text": " you can use special symbols."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 208.76,
+            "end": 210.16,
+            "text": " Like we saw copyright."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 210.16,
+            "end": 213.56,
+            "text": " Ampersand nbsp is used for space."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 213.56,
+            "end": 214.84,
+            "text": " And it is very important."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 214.84,
+            "end": 217.4,
+            "text": " So if I write here copyright."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 217.4,
+            "end": 217.64,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 217.64,
+            "end": 220.4,
+            "text": " I write here copyright."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 220.4,
+            "end": 221.8,
+            "text": " And suppose I want for some reason,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 221.8,
+            "end": 223.44,
+            "text": " after seeing a lot of spaces here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 223.44,
+            "end": 225.07999999999998,
+            "text": " And I write here code with Harry."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 225.07999999999998,
+            "end": 225.6,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 225.6,
+            "end": 227.32,
+            "text": " So if I write copyright code with Harry,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 227.32,
+            "end": 228.96,
+            "text": " then this space will be considered as a fake space."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 228.96,
+            "end": 231.76000000000002,
+            "text": " Because the extra spaces in HTML are ignored."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 231.76000000000002,
+            "end": 232.96,
+            "text": " So if you see here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 232.96,
+            "end": 235.60000000000002,
+            "text": " then the code with Harry came immediately after the copyright."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 235.60000000000002,
+            "end": 237.92000000000002,
+            "text": " But ideally we don't want that."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 237.92000000000002,
+            "end": 238.76000000000002,
+            "text": " What do we want?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 238.76000000000002,
+            "end": 240.92000000000002,
+            "text": " We want that the spaces that I have put,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 240.92000000000002,
+            "end": 241.52,
+            "text": " they come."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 241.52,
+            "end": 242.8,
+            "text": " So don't put spaces."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 242.8,
+            "end": 244.32,
+            "text": " You put ampersand nbsp."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 244.32,
+            "end": 246.8,
+            "text": " The more you put ampersand nbsp,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 246.8,
+            "end": 247.60000000000002,
+            "text": " the more spaces will come."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 247.60000000000002,
+            "end": 248.28,
+            "text": " You see here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 248.28,
+            "end": 249.44,
+            "text": " These spaces are coming."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 249.44,
+            "end": 252.20000000000002,
+            "text": " So whenever you want to put space in your HTML code,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 252.20000000000002,
+            "end": 255.44,
+            "text": " ampersand nbsp is something you should go after."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 255.44,
+            "end": 255.84,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 255.96,
+            "end": 256.76,
+            "text": " So here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 256.76,
+            "end": 259.28000000000003,
+            "text": " how to put these breaking spaces,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 259.28000000000003,
+            "end": 260.2,
+            "text": " and along with that,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 260.2,
+            "end": 261.68,
+            "text": " the reserved characters in HTML,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 261.68,
+            "end": 263.04,
+            "text": " like less than, greater than,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 263.04,
+            "end": 265.04,
+            "text": " you can do all this with HTML entities."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 265.04,
+            "end": 266.0,
+            "text": " After this,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 266.0,
+            "end": 267.36,
+            "text": " what is quotation tag?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 267.36,
+            "end": 270.48,
+            "text": " Quotation tag helps you write quotation in this way."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 270.48,
+            "end": 272.96,
+            "text": " I will tell you the example of quotation tag here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 272.96,
+            "end": 274.96,
+            "text": " So the quotation tag works like this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 274.96,
+            "end": 275.96,
+            "text": " And as soon as you write,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 275.96,
+            "end": 277.32,
+            "text": " this quotation text here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 277.32,
+            "end": 279.08,
+            "text": " So what will happen is that the search engines will know"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 279.08,
+            "end": 280.72,
+            "text": " that you are actually writing a quotation."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 280.72,
+            "end": 281.24,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 281.24,
+            "end": 284.24,
+            "text": " And you can also style it with CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 284.36,
+            "end": 287.2,
+            "text": " Then here if you want to cite anything,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 287.2,
+            "end": 288.88,
+            "text": " you can put its URL."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 288.88,
+            "end": 290.88,
+            "text": " Similarly, you can also use Q tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 290.88,
+            "end": 291.68,
+            "text": " Site is equal to,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 291.68,
+            "end": 292.68,
+            "text": " put the URL here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 292.68,
+            "end": 292.92,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 292.92,
+            "end": 295.92,
+            "text": " So if you want to cite any research article,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 295.92,
+            "end": 297.0,
+            "text": " or there can be other reasons."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 297.0,
+            "end": 298.6,
+            "text": " If you want to cite Wikipedia,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 298.6,
+            "end": 300.08,
+            "text": " then this tag is used."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 300.08,
+            "end": 300.52,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 300.52,
+            "end": 301.56,
+            "text": " And you can style it,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 301.56,
+            "end": 303.24,
+            "text": " obviously with the help of CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 303.24,
+            "end": 305.28000000000003,
+            "text": " So these are our quotation tags."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 305.28000000000003,
+            "end": 305.64,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 305.64,
+            "end": 306.96000000000004,
+            "text": " And HTML entities."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 306.96000000000004,
+            "end": 308.68,
+            "text": " Then there are some HTML tags"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 308.68,
+            "end": 309.68,
+            "text": " which have become obsolete."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 309.68,
+            "end": 311.2,
+            "text": " Like font tag has become obsolete"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 311.2,
+            "end": 312.56,
+            "text": " because now with the help of CSS,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 312.56,
+            "end": 314.0,
+            "text": " we handle font."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 314.04,
+            "end": 315.68,
+            "text": " We don't use font tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 315.68,
+            "end": 317.44,
+            "text": " Font had a lot of attributes."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 317.44,
+            "end": 318.88,
+            "text": " Like color, size,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 318.88,
+            "end": 319.88,
+            "text": " and in this way,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 319.88,
+            "end": 321.88,
+            "text": " you can use font tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 321.88,
+            "end": 323.36,
+            "text": " But it's not recommended"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 323.36,
+            "end": 324.88,
+            "text": " that you use font tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 324.88,
+            "end": 325.76,
+            "text": " Then center tag,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 325.76,
+            "end": 328.4,
+            "text": " it was helpful in centering things."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 328.4,
+            "end": 330.4,
+            "text": " But now I will recommend you"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 330.4,
+            "end": 331.72,
+            "text": " that we will center with CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 331.72,
+            "end": 332.64,
+            "text": " Flexbox Grid etc."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 332.64,
+            "end": 334.08,
+            "text": " The modern CSS will learn."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 334.08,
+            "end": 335.52,
+            "text": " So all these tags are those"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 335.52,
+            "end": 337.68,
+            "text": " about which you should know."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 337.68,
+            "end": 338.96,
+            "text": " But you should also know"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 338.96,
+            "end": 340.24,
+            "text": " that you don't have to use them."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 340.24,
+            "end": 340.72,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 340.72,
+            "end": 342.0,
+            "text": " I hope that helps."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 342.0,
+            "end": 342.92,
+            "text": " Then code tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 342.92,
+            "end": 344.48,
+            "text": " The most important tag for coders."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 344.48,
+            "end": 346.68,
+            "text": " Like you are seeing this website here,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 346.68,
+            "end": 347.56,
+            "text": " codevitary.com."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 347.56,
+            "end": 348.24,
+            "text": " You are seeing here"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 348.24,
+            "end": 350.6,
+            "text": " that I have used the code tag here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 350.6,
+            "end": 353.04,
+            "text": " And if you are very excited"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 353.04,
+            "end": 354.12,
+            "text": " about this thing,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 354.12,
+            "end": 354.68,
+            "text": " then let me tell you"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 354.68,
+            "end": 356.12,
+            "text": " that I am using a library"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 356.12,
+            "end": 357.28000000000003,
+            "text": " called Prism CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 357.28000000000003,
+            "end": 358.72,
+            "text": " Many people ask me."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 358.72,
+            "end": 360.40000000000003,
+            "text": " And I will tell you"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 360.40000000000003,
+            "end": 361.40000000000003,
+            "text": " how to do all these things."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 361.40000000000003,
+            "end": 362.68,
+            "text": " Prism JS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 362.68,
+            "end": 363.40000000000003,
+            "text": " Prism JS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 363.40000000000003,
+            "end": 364.44,
+            "text": " Yes, Prism.js."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 364.44,
+            "end": 365.24,
+            "text": " What happens with this"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 365.24,
+            "end": 366.40000000000003,
+            "text": " is that your code is highlighted."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 366.40000000000003,
+            "end": 366.8,
+            "text": " In this way,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 366.8,
+            "end": 368.28000000000003,
+            "text": " you can put code in your blog etc."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 368.28000000000003,
+            "end": 369.64,
+            "text": " So I am using this library."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 369.64,
+            "end": 370.88,
+            "text": " I will tell you how to do everything."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 370.88,
+            "end": 372.32,
+            "text": " I am also using React in this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 372.32,
+            "end": 374.12,
+            "text": " We are going to read all those things later."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 374.12,
+            "end": 375.32,
+            "text": " So don't worry at all."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 375.32,
+            "end": 377.52,
+            "text": " But if you want to write code in this way,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 377.52,
+            "end": 379.0,
+            "text": " then you have to use the code tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 379.0,
+            "end": 380.32,
+            "text": " If you go to its source code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 380.32,
+            "end": 381.04,
+            "text": " by right clicking,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 381.04,
+            "end": 381.76,
+            "text": " then you will see"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 381.76,
+            "end": 383.2,
+            "text": " that any code is written"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 383.2,
+            "end": 385.08,
+            "text": " is written in the pre and code tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 385.08,
+            "end": 385.96,
+            "text": " See, I have put pre"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 385.96,
+            "end": 386.88,
+            "text": " and then I have put code tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 386.88,
+            "end": 387.8,
+            "text": " If you look below,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 387.8,
+            "end": 389.48,
+            "text": " then any kind of code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 389.48,
+            "end": 390.6,
+            "text": " if you get on my site,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 390.6,
+            "end": 391.8,
+            "text": " then it will be in the code tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 391.8,
+            "end": 392.28,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 392.28,
+            "end": 394.2,
+            "text": " So here you can copy this code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 394.2,
+            "end": 395.96,
+            "text": " and then you can paste it and run it."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 395.96,
+            "end": 397.2,
+            "text": " So you can also write"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 397.2,
+            "end": 398.08,
+            "text": " your multi-line code here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 398.08,
+            "end": 398.76,
+            "text": " In pre."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 398.76,
+            "end": 399.64,
+            "text": " Why is pre put?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 399.64,
+            "end": 400.64,
+            "text": " So that the new lines"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 400.64,
+            "end": 401.4,
+            "text": " become intact."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 401.4,
+            "end": 402.2,
+            "text": " So let's say"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 402.2,
+            "end": 403.96,
+            "text": " that I want to write a code here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 403.96,
+            "end": 405.32,
+            "text": " And let's say"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 405.32,
+            "end": 406.76,
+            "text": " I want to write a Python code here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 406.76,
+            "end": 407.4,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 407.4,
+            "end": 409.12,
+            "text": " Or let's say I want to write HTML code."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 409.12,
+            "end": 410.2,
+            "text": " I will press ctrl n"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 410.2,
+            "end": 412.15999999999997,
+            "text": " and I will make it HTML here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 412.15999999999997,
+            "end": 415.35999999999996,
+            "text": " And I will enter by marking the exclamation mark."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 415.35999999999996,
+            "end": 416.96,
+            "text": " And I will copy and paste here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 416.96,
+            "end": 418.4,
+            "text": " And let's say I write in h1"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 418.4,
+            "end": 419.15999999999997,
+            "text": " that this is"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 419.15999999999997,
+            "end": 420.64,
+            "text": " I write in h1"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 420.64,
+            "end": 425.12,
+            "text": " this is HTML boilerplate code."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 425.12,
+            "end": 425.71999999999997,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 425.71999999999997,
+            "end": 428.03999999999996,
+            "text": " So if I preview this,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 428.03999999999996,
+            "end": 429.64,
+            "text": " then here"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 429.64,
+            "end": 431.03999999999996,
+            "text": " this is HTML boilerplate code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 431.08000000000004,
+            "end": 432.36,
+            "text": " which is actually rendered."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 432.36,
+            "end": 434.64000000000004,
+            "text": " If I want to write the code as it is,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 434.64000000000004,
+            "end": 435.64000000000004,
+            "text": " then what I have to do"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 435.64000000000004,
+            "end": 437.28000000000003,
+            "text": " is that I have to replace"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 437.28000000000003,
+            "end": 438.32,
+            "text": " this less than sign."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 438.32,
+            "end": 439.96000000000004,
+            "text": " I will right click and change all occurrences."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 439.96000000000004,
+            "end": 441.44,
+            "text": " And what I will do here"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 441.44,
+            "end": 443.8,
+            "text": " ampersand lt semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 443.8,
+            "end": 445.32000000000005,
+            "text": " I told you lt semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 445.32000000000005,
+            "end": 445.92,
+            "text": " And along with that,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 445.92,
+            "end": 447.0,
+            "text": " this greater than symbol"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 447.0,
+            "end": 448.68,
+            "text": " I will right click and change all occurrences."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 448.68,
+            "end": 449.88,
+            "text": " ampersand"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 449.88,
+            "end": 452.6,
+            "text": " ampersand gt semicolon."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 452.6,
+            "end": 454.6,
+            "text": " Now I will paste this code there."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 454.6,
+            "end": 456.12,
+            "text": " I can't paste as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 456.12,
+            "end": 456.6,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 456.6,
+            "end": 457.96000000000004,
+            "text": " So this thing is also very important."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 457.96000000000004,
+            "end": 459.48,
+            "text": " Now see it will come here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 459.92,
+            "end": 461.92,
+            "text": " So see here this code has come as it is."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 461.92,
+            "end": 463.44,
+            "text": " So anyone who wants to copy etc."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 463.44,
+            "end": 464.0,
+            "text": " can do it."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 464.0,
+            "end": 464.84000000000003,
+            "text": " You have to note one thing"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 464.84000000000003,
+            "end": 465.68,
+            "text": " that these spaces are also coming"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 465.68,
+            "end": 466.44,
+            "text": " because of pre tag."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 466.44,
+            "end": 467.88,
+            "text": " If you want these spaces to not come,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 467.88,
+            "end": 469.36,
+            "text": " then you select them."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 469.36,
+            "end": 471.0,
+            "text": " Press shift and tab."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 471.0,
+            "end": 472.08000000000004,
+            "text": " So what happens with shift tab?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 472.08000000000004,
+            "end": 473.08000000000004,
+            "text": " One indent is reduced."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 473.08000000000004,
+            "end": 473.76,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 473.76,
+            "end": 474.96000000000004,
+            "text": " So you can do this."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 474.96000000000004,
+            "end": 477.68,
+            "text": " And then press backspace here."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 477.68,
+            "end": 479.24,
+            "text": " And I will remove extra space from here too."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 479.24,
+            "end": 480.08000000000004,
+            "text": " And you see your code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 480.08000000000004,
+            "end": 481.28000000000003,
+            "text": " has come as you want."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 481.28000000000003,
+            "end": 482.0,
+            "text": " But okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 482.0,
+            "end": 484.20000000000005,
+            "text": " And you can style it with CSS etc."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 484.20000000000005,
+            "end": 486.04,
+            "text": " Prism will use CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 486.04,
+            "end": 487.24,
+            "text": " I will tell you how to use"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 487.24,
+            "end": 488.84000000000003,
+            "text": " this kind of libraries."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 488.84,
+            "end": 490.59999999999997,
+            "text": " A lot of things are going to happen in the coming videos."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 490.59999999999997,
+            "end": 491.79999999999995,
+            "text": " I just wanted to tell you"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 491.79999999999995,
+            "end": 493.91999999999996,
+            "text": " about some tags of HTML"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 493.91999999999996,
+            "end": 495.32,
+            "text": " about which you should know."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 495.32,
+            "end": 495.59999999999997,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 495.59999999999997,
+            "end": 497.03999999999996,
+            "text": " Then after this character sets."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 497.03999999999996,
+            "end": 498.11999999999995,
+            "text": " Character sets means"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 498.11999999999995,
+            "end": 499.32,
+            "text": " which characters are you using"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 499.32,
+            "end": 500.32,
+            "text": " in your page."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 500.32,
+            "end": 501.32,
+            "text": " Then canvas."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 501.32,
+            "end": 502.44,
+            "text": " What is canvas?"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 502.44,
+            "end": 504.28,
+            "text": " Basically, the use of canvas"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 504.28,
+            "end": 505.84,
+            "text": " is mainly done through JavaScript."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 505.84,
+            "end": 508.23999999999995,
+            "text": " But you understand canvas as"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 508.23999999999995,
+            "end": 510.08,
+            "text": " there is an element in HTML"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 510.08,
+            "end": 512.28,
+            "text": " with which we make graphical shapes etc."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 512.28,
+            "end": 512.8,
+            "text": " Okay."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 512.8,
+            "end": 514.64,
+            "text": " I hope you have understood"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 514.64,
+            "end": 517.6,
+            "text": " the full content of HTML in this video."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 517.6,
+            "end": 518.6,
+            "text": " In the coming videos,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 518.6,
+            "end": 520.36,
+            "text": " we will do CSS."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 520.36,
+            "end": 522.2,
+            "text": " HTML has been concluded."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 522.2,
+            "end": 523.6800000000001,
+            "text": " I hope you are enjoying."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 523.6800000000001,
+            "end": 524.6800000000001,
+            "text": " All the source code"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 524.6800000000001,
+            "end": 525.6800000000001,
+            "text": " is being uploaded on GitHub."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 525.6800000000001,
+            "end": 527.12,
+            "text": " So do access it."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 527.12,
+            "end": 528.48,
+            "text": " Along with that,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 528.48,
+            "end": 529.9200000000001,
+            "text": " if you are not accessing this playlist,"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 529.9200000000001,
+            "end": 531.76,
+            "text": " then click here and bookmark it."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 531.76,
+            "end": 533.0400000000001,
+            "text": " Or click and save it."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 533.0400000000001,
+            "end": 534.5600000000001,
+            "text": " That's all for this video guys."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 534.5600000000001,
+            "end": 535.48,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 535.48,
+            "end": 536.48,
+            "text": " for watching this video."
+        },
+        {
+            "number": "Entities, Code tag and more on HTML  Sigma Web Development Course ",
+            "title": " Tutorial #13 - CodeWithHarry (144p, h264)",
+            "start": 536.48,
+            "end": 539.48,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " Guys, we have seen almost everything in HTML. In today's video, we will conclude HTML and talk about some miscellaneous things which will help you a lot in your web development journey. After that, we will start CSS from the coming videos. I am very excited to conclude HTML. You guys like this video and write Sigma patch op in the comment section below. Let's go to the computer screen. Let's roll the intro. So guys, as you can see, I have come to my computer screen. And without wasting time, I will create a new folder here. I will name it video 13. I will come in this, right click and open the VS code. And I will make a file index.html. Okay. Now here I have given the file index.html. Now I want to tell you one thing. There are many things in HTML that you have to explore yourself. I will tell you some things here and after this video, I will conclude HTML. If you want in HTML, I will turn on Word Wrap and toggle Screencast Mode. Suppose you want to write this in HTML, 3 is greater than 4. Suppose you want to write this. If you try to write this in HTML, I will show you the preview of this. So it came here by writing 3 is greater than 4. Now suppose I write here, this is the code for paragraph. Okay. And I write something like this. Now I have written this here. I want it to appear. But you see here, it will not appear. Why not? Because how will it know that I want to write the code for paragraph or I want to use this P tag as a syntax. So HTML entities are to be avoided from this. Now let me tell you what HTML entities are. If you write ampersand lt semicolon here, lt for less than, then you can write it as lt semicolon. Now if you write ampersand lt semicolon here, and replace it with ampersand lt semicolon, and you replace the greater than with ampersand gt semicolon. I will show you this thing. If you replace it with ampersand gt semicolon, then what will happen? That it will appear here as it is written. As you can see, I will zoom in and show you. Okay. So what happens is that HTML entities are used to write those things that may collide with the syntax of HTML. What does it mean to collide? If we write the code of paragraph tag here, then how will HTML know that this is the code of paragraph tag? Or if you want to write this thing as it is. There is also a pre tag for this. If you put anything in the pre tag, and you write here, then P, this is a para. So if you write it like this, then it will come here as it is. As you can see. Okay. It will come as it is. And along with that, if you write new lines here, this is after few new lines. Okay. And some more. If you write like this, then it will come as it is. Keeping all the spaces intact. Keeping all the new lines intact. But it is not that tags will show up here. For tags, we will have to use entities. So this happens in pre tag HTML. So we have seen entities, we have seen pre tag. If you want to put a copyright symbol, then you can write ampersand copy semicolon. And as you write ampersand copy semicolon here, then you will get to see the copyright symbol here. As you can see. Okay. So you can do such things with the help of HTML entities. So you try out all these examples. Non-breaking spaces. Along with that, you can use special symbols. Like we saw copyright. Ampersand nbsp is used for space. And it is very important. So if I write here copyright. Okay. I write here copyright. And suppose I want for some reason, after seeing a lot of spaces here. And I write here code with Harry. Okay. So if I write copyright code with Harry, then this space will be considered as a fake space. Because the extra spaces in HTML are ignored. So if you see here, then the code with Harry came immediately after the copyright. But ideally we don't want that. What do we want? We want that the spaces that I have put, they come. So don't put spaces. You put ampersand nbsp. The more you put ampersand nbsp, the more spaces will come. You see here. These spaces are coming. So whenever you want to put space in your HTML code, ampersand nbsp is something you should go after. Okay. So here, how to put these breaking spaces, and along with that, the reserved characters in HTML, like less than, greater than, you can do all this with HTML entities. After this, what is quotation tag? Quotation tag helps you write quotation in this way. I will tell you the example of quotation tag here. So the quotation tag works like this. And as soon as you write, this quotation text here. So what will happen is that the search engines will know that you are actually writing a quotation. Okay. And you can also style it with CSS. Then here if you want to cite anything, you can put its URL. Similarly, you can also use Q tag. Site is equal to, put the URL here. Okay. So if you want to cite any research article, or there can be other reasons. If you want to cite Wikipedia, then this tag is used. Okay. And you can style it, obviously with the help of CSS. So these are our quotation tags. Okay. And HTML entities. Then there are some HTML tags which have become obsolete. Like font tag has become obsolete because now with the help of CSS, we handle font. We don't use font tag. Font had a lot of attributes. Like color, size, and in this way, you can use font tag. But it's not recommended that you use font tag. Then center tag, it was helpful in centering things. But now I will recommend you that we will center with CSS. Flexbox Grid etc. The modern CSS will learn. So all these tags are those about which you should know. But you should also know that you don't have to use them. Okay. I hope that helps. Then code tag. The most important tag for coders. Like you are seeing this website here, codevitary.com. You are seeing here that I have used the code tag here. And if you are very excited about this thing, then let me tell you that I am using a library called Prism CSS. Many people ask me. And I will tell you how to do all these things. Prism JS. Prism JS. Yes, Prism.js. What happens with this is that your code is highlighted. In this way, you can put code in your blog etc. So I am using this library. I will tell you how to do everything. I am also using React in this. We are going to read all those things later. So don't worry at all. But if you want to write code in this way, then you have to use the code tag. If you go to its source code by right clicking, then you will see that any code is written is written in the pre and code tag. See, I have put pre and then I have put code tag. If you look below, then any kind of code if you get on my site, then it will be in the code tag. Okay. So here you can copy this code and then you can paste it and run it. So you can also write your multi-line code here. In pre. Why is pre put? So that the new lines become intact. So let's say that I want to write a code here. And let's say I want to write a Python code here. Okay. Or let's say I want to write HTML code. I will press ctrl n and I will make it HTML here. And I will enter by marking the exclamation mark. And I will copy and paste here. And let's say I write in h1 that this is I write in h1 this is HTML boilerplate code. Okay. So if I preview this, then here this is HTML boilerplate code which is actually rendered. If I want to write the code as it is, then what I have to do is that I have to replace this less than sign. I will right click and change all occurrences. And what I will do here ampersand lt semicolon. I told you lt semicolon. And along with that, this greater than symbol I will right click and change all occurrences. ampersand ampersand gt semicolon. Now I will paste this code there. I can't paste as it is. Okay. So this thing is also very important. Now see it will come here. So see here this code has come as it is. So anyone who wants to copy etc. can do it. You have to note one thing that these spaces are also coming because of pre tag. If you want these spaces to not come, then you select them. Press shift and tab. So what happens with shift tab? One indent is reduced. Okay. So you can do this. And then press backspace here. And I will remove extra space from here too. And you see your code has come as you want. But okay. And you can style it with CSS etc. Prism will use CSS. I will tell you how to use this kind of libraries. A lot of things are going to happen in the coming videos. I just wanted to tell you about some tags of HTML about which you should know. Okay. Then after this character sets. Character sets means which characters are you using in your page. Then canvas. What is canvas? Basically, the use of canvas is mainly done through JavaScript. But you understand canvas as there is an element in HTML with which we make graphical shapes etc. Okay. I hope you have understood the full content of HTML in this video. In the coming videos, we will do CSS. HTML has been concluded. I hope you are enjoying. All the source code is being uploaded on GitHub. So do access it. Along with that, if you are not accessing this playlist, then click here and bookmark it. Or click and save it. That's all for this video guys. Thank you so much guys for watching this video. And I will see you next time."
+}

@@ -1,0 +1,1993 @@
+{
+    "chunks": [
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 0.0,
+            "end": 3.68,
+            "text": " What's up guys, you are in the 11th video of the Sigma Web Development course."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 3.68,
+            "end": 5.68,
+            "text": " We have completed 10 videos."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 5.68,
+            "end": 8.32,
+            "text": " So one like is enough for the consistency of all of us."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 8.32,
+            "end": 10.96,
+            "text": " In today's video, we will see about Semantic Tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 10.96,
+            "end": 12.88,
+            "text": " Because they are very important for SEO."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 12.88,
+            "end": 15.44,
+            "text": " And to understand the structure of the overall website,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 15.44,
+            "end": 18.400000000000002,
+            "text": " search engines are very happy to see this structure."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 18.400000000000002,
+            "end": 22.72,
+            "text": " That means overall SEO of your website is going to be very good if you use these tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 22.72,
+            "end": 24.8,
+            "text": " What are these tags? Why are these tags?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 24.8,
+            "end": 26.16,
+            "text": " How to use them?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 26.16,
+            "end": 28.16,
+            "text": " What are the benefits? We will see in this video."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 28.16,
+            "end": 29.68,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 29.759999999999998,
+            "end": 31.759999999999998,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 31.759999999999998,
+            "end": 40.24,
+            "text": " Intro"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 40.24,
+            "end": 43.44,
+            "text": " So guys, I would like to tell you what are Semantic Tags?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 43.44,
+            "end": 46.96,
+            "text": " Here you can see that I have made a folder named Video 11."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 46.96,
+            "end": 51.519999999999996,
+            "text": " And here I have set the title by putting a boilerplate template of index.html."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 51.519999999999996,
+            "end": 55.68,
+            "text": " By putting an H1, I am going to set this image and preview it here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 55.76,
+            "end": 56.56,
+            "text": " So this is the image."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 56.56,
+            "end": 59.76,
+            "text": " To explain a little, I will tell you what are Semantic Tags?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 59.76,
+            "end": 63.12,
+            "text": " Semantic Tags are for browsers and web crawlers"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 63.12,
+            "end": 65.76,
+            "text": " who want to understand your website properly."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 65.76,
+            "end": 69.2,
+            "text": " They tell them what is the content of your website?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 69.2,
+            "end": 72.0,
+            "text": " And what is the purpose of which place and which tag?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 72.0,
+            "end": 76.0,
+            "text": " If you don't use Semantic Tags in HTML,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 76.0,
+            "end": 77.92,
+            "text": " then your work will be done."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 77.92,
+            "end": 81.76,
+            "text": " It's not like if you don't use Semantic Tags,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 81.76,
+            "end": 84.24000000000001,
+            "text": " then your website won't look good."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 84.32,
+            "end": 86.32,
+            "text": " You can do a good design."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 86.32,
+            "end": 90.8,
+            "text": " But we want to explain to Google and Bing search engines"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 90.8,
+            "end": 92.8,
+            "text": " about our website."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 92.8,
+            "end": 95.75999999999999,
+            "text": " And if we explain them about our website,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 95.75999999999999,
+            "end": 97.75999999999999,
+            "text": " then they will be able to understand our website."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 97.75999999999999,
+            "end": 101.36,
+            "text": " And they will rank our website on Google, Bing,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 101.36,
+            "end": 102.96,
+            "text": " and respective search engines."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 102.96,
+            "end": 105.84,
+            "text": " And we want that the crawlers should be able to understand our website."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 105.84,
+            "end": 108.88,
+            "text": " And we want that whoever wants to understand our website,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 108.88,
+            "end": 110.08,
+            "text": " they should be able to understand it well."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 110.08,
+            "end": 111.44,
+            "text": " That's why there are some special tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 111.44,
+            "end": 115.2,
+            "text": " Like header, nav, main, article, figure."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 115.2,
+            "end": 118.08,
+            "text": " All these are special tags in HTML"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 118.08,
+            "end": 121.44,
+            "text": " which help in structuring your website."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 121.44,
+            "end": 122.96,
+            "text": " Now if there is something in the header,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 122.96,
+            "end": 124.48,
+            "text": " then I know that it is a header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 124.48,
+            "end": 125.6,
+            "text": " That is, it is at the top."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 125.6,
+            "end": 126.72,
+            "text": " If there is something in the footer,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 126.72,
+            "end": 129.28,
+            "text": " then I will understand that the website has started ending from here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 129.28,
+            "end": 130.8,
+            "text": " This footer started here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 130.8,
+            "end": 132.4,
+            "text": " This footer could also be div."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 132.4,
+            "end": 135.2,
+            "text": " But no, if I am using Semantic HTML,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 135.2,
+            "end": 137.36,
+            "text": " then I will use the footer tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 137.36,
+            "end": 140.72,
+            "text": " Along with that, where I am in the span tag,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 140.72,
+            "end": 142.72,
+            "text": " I was making my navigation bar."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 142.72,
+            "end": 145.52,
+            "text": " This time I will not make my navigation bar in the span tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 145.52,
+            "end": 148.16,
+            "text": " I will make my navigation bar in the nav tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 148.16,
+            "end": 150.07999999999998,
+            "text": " So these kinds of differences"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 150.07999999999998,
+            "end": 153.04,
+            "text": " explain our search engines very well"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 153.04,
+            "end": 154.8,
+            "text": " about what our website is about."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 154.8,
+            "end": 155.36,
+            "text": " Okay."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 155.36,
+            "end": 159.76,
+            "text": " So I will show you some examples of semantic tags here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 159.76,
+            "end": 162.64,
+            "text": " And I hope you understood what semantic tags are."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 162.64,
+            "end": 165.04,
+            "text": " Now look, there are download folders like our computer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 165.04,
+            "end": 167.6,
+            "text": " Many of you must have a download folder"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 167.6,
+            "end": 170.32,
+            "text": " that I don't know, I have come to the file of the whole world."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 170.4,
+            "end": 172.32,
+            "text": " 90% of the files of your computer"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 172.32,
+            "end": 174.64,
+            "text": " are in the download folder of many people."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 174.64,
+            "end": 176.07999999999998,
+            "text": " But we should not do this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 176.07999999999998,
+            "end": 178.07999999999998,
+            "text": " Some people go to such an extent"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 178.07999999999998,
+            "end": 180.07999999999998,
+            "text": " that they start spreading files in their local disk C"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 180.07999999999998,
+            "end": 183.12,
+            "text": " in the windows folder."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 183.12,
+            "end": 187.28,
+            "text": " And some people keep files in system 32 too."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 187.28,
+            "end": 190.4,
+            "text": " So if you spread your files"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 190.4,
+            "end": 191.84,
+            "text": " in your entire computer,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 191.84,
+            "end": 194.16,
+            "text": " then definitely it is not arranged in one way."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 194.16,
+            "end": 196.16,
+            "text": " But if you arrange it in folders,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 196.16,
+            "end": 199.6,
+            "text": " that you have this file in one folder."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 199.6,
+            "end": 202.56,
+            "text": " If you want to keep a secret file in a folder,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 202.56,
+            "end": 204.0,
+            "text": " you put secret files."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 204.0,
+            "end": 206.96,
+            "text": " You can make a folder called do not open this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 206.96,
+            "end": 209.2,
+            "text": " If you can put some of your files in it,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 209.2,
+            "end": 211.2,
+            "text": " then it will be arranged in one way."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 211.2,
+            "end": 212.95999999999998,
+            "text": " You have arranged images in one way,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 212.95999999999998,
+            "end": 215.12,
+            "text": " you have arranged videos in one way,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 215.12,
+            "end": 217.76,
+            "text": " and let's say you have arranged e-books in one way."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 217.76,
+            "end": 219.76,
+            "text": " So whenever you go to find it, you will get it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 219.76,
+            "end": 222.95999999999998,
+            "text": " So it will be much better for you to understand"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 222.95999999999998,
+            "end": 224.64,
+            "text": " that folder structure instead of"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 224.64,
+            "end": 227.68,
+            "text": " if you are spreading your files throughout the computer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 227.68,
+            "end": 229.68,
+            "text": " You definitely don't want to spread your files"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 229.68,
+            "end": 231.68,
+            "text": " throughout the computer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 231.68,
+            "end": 233.68,
+            "text": " So I hope you understood"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 233.68,
+            "end": 235.68,
+            "text": " why we use semantic tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 235.68,
+            "end": 237.68,
+            "text": " It is very good for our SEO."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 237.68,
+            "end": 239.68,
+            "text": " I have not used the word SEO yet."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 239.68,
+            "end": 241.68,
+            "text": " But SEO is a very important part of"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 241.68,
+            "end": 243.68,
+            "text": " search engine optimization."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 243.68,
+            "end": 245.68,
+            "text": " Using semantic tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 245.68,
+            "end": 247.68,
+            "text": " So what happens is basically"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 247.68,
+            "end": 249.68,
+            "text": " I make your website the way you make it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 249.68,
+            "end": 251.68,
+            "text": " You just use some special tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 251.68,
+            "end": 253.68,
+            "text": " For example, let's say I am making this website."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 253.68,
+            "end": 255.68,
+            "text": " What will I do now?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 255.68,
+            "end": 257.68,
+            "text": " I will comment out."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 257.68,
+            "end": 259.68,
+            "text": " I will not comment out."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 259.68,
+            "end": 261.68,
+            "text": " I will basically make a navbar here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 261.68,
+            "end": 263.68,
+            "text": " So what will I do?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 263.68,
+            "end": 265.68,
+            "text": " First of all, I will say that this is my website header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 265.68,
+            "end": 267.68,
+            "text": " I have used a header tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 267.68,
+            "end": 269.68,
+            "text": " I will make a nav in it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 269.68,
+            "end": 271.68,
+            "text": " I will make an unordered list in it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 271.68,
+            "end": 273.68,
+            "text": " I will make an li in it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 273.68,
+            "end": 275.68,
+            "text": " I will write home here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 275.68,
+            "end": 277.68,
+            "text": " And let's say I am writing a lot of things like this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 277.68,
+            "end": 279.68,
+            "text": " And this is my header like this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 279.68,
+            "end": 281.68,
+            "text": " So whoever comes to my website,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 281.68,
+            "end": 283.68,
+            "text": " he will understand that this is my header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 283.68,
+            "end": 285.68,
+            "text": " I can write here whatever I want to write."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 285.68,
+            "end": 287.68,
+            "text": " So this is my header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 287.68,
+            "end": 289.68,
+            "text": " This is my navbar."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 289.68,
+            "end": 291.68,
+            "text": " This is clearly visible because I have used"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 291.68,
+            "end": 293.68,
+            "text": " header and nav tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 293.68,
+            "end": 295.68,
+            "text": " So I write about here and here I write contact."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 295.68,
+            "end": 297.68,
+            "text": " So here I wrote home."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 297.68,
+            "end": 299.68,
+            "text": " Here I wrote about and here I wrote contact."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 299.68,
+            "end": 301.68,
+            "text": " So I hope you understood this thing."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 301.68,
+            "end": 303.68,
+            "text": " Now if I want a footer,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 303.68,
+            "end": 305.68,
+            "text": " let's say I want to make a footer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 305.68,
+            "end": 307.68,
+            "text": " Here my main content will come after the header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 307.68,
+            "end": 309.68,
+            "text": " So I will use the main tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 309.68,
+            "end": 311.68,
+            "text": " And after that, my footer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 311.68,
+            "end": 313.68,
+            "text": " Let's say I write in footer"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 313.68,
+            "end": 315.68,
+            "text": " copyright cwh"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 315.68,
+            "end": 317.68,
+            "text": " and here I write"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 317.68,
+            "end": 319.68,
+            "text": " all rights reserved."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 319.68,
+            "end": 321.68,
+            "text": " Okay, I can write like this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 321.68,
+            "end": 323.68,
+            "text": " So here see copyright"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 323.68,
+            "end": 325.68,
+            "text": " all rights reserved. I wrote all this here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 325.68,
+            "end": 327.68,
+            "text": " Did I"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 327.68,
+            "end": 329.68,
+            "text": " cut this? Yes. So what I will do is"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 329.68,
+            "end": 331.68,
+            "text": " I will cut this. I will put it in the main."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 331.68,
+            "end": 333.68,
+            "text": " This is my main content. So first my header will come."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 333.68,
+            "end": 335.68,
+            "text": " Then the main content will come. Then the footer will come."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 335.68,
+            "end": 337.68,
+            "text": " As you can see here. And here also you see"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 337.68,
+            "end": 339.68,
+            "text": " this is the header. This is my main content."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 339.68,
+            "end": 341.68,
+            "text": " So what I did in one way is"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 341.68,
+            "end": 343.68,
+            "text": " I arranged it. In the same way"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 343.68,
+            "end": 345.68,
+            "text": " you arrange your files in different folders."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 345.68,
+            "end": 347.68,
+            "text": " I arranged my"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 347.68,
+            "end": 349.68,
+            "text": " HTML tags here. So about the header tag"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 349.68,
+            "end": 351.68,
+            "text": " we understood that it is used to represent"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 351.68,
+            "end": 353.68,
+            "text": " the top section of a webpage which is the header."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 353.68,
+            "end": 355.68,
+            "text": " Then after this we put nav"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 355.68,
+            "end": 357.68,
+            "text": " which is in the navigation menu of our page."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 357.68,
+            "end": 359.68,
+            "text": " We will put it in the nav tag. Ideally"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 359.68,
+            "end": 361.68,
+            "text": " article indicates a self-containing"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 361.68,
+            "end": 363.68,
+            "text": " piece of content such as blog post"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 363.68,
+            "end": 365.68,
+            "text": " or news article. If you put a particular"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 365.68,
+            "end": 367.68,
+            "text": " self-contained piece of content"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 367.68,
+            "end": 369.68,
+            "text": " then put it in the article tag. Section"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 369.68,
+            "end": 371.68,
+            "text": " represents a thematic grouping."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 371.68,
+            "end": 373.68,
+            "text": " Suppose one section is talking about"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 373.68,
+            "end": 375.68,
+            "text": " one thing of your page. Then the second section"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 375.68,
+            "end": 377.68,
+            "text": " will talk about something else."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 377.68,
+            "end": 379.68,
+            "text": " Aside means if anything is lying on the side"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 379.68,
+            "end": 381.68,
+            "text": " then we use the aside tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 381.68,
+            "end": 383.68,
+            "text": " Here see typically used for sidebars"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 383.68,
+            "end": 385.68,
+            "text": " or content that is tangentially"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 385.68,
+            "end": 387.68,
+            "text": " related to the main content. Like"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 387.68,
+            "end": 389.68,
+            "text": " what you can do on the aside tag is"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 389.68,
+            "end": 391.68,
+            "text": " you have to put a side note, about the author"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 391.68,
+            "end": 393.68,
+            "text": " you have seen many blogs in which"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 393.68,
+            "end": 395.68,
+            "text": " it is written on the side about the author."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 395.68,
+            "end": 397.68,
+            "text": " So you can put things in the aside tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 397.68,
+            "end": 399.68,
+            "text": " Then after this we have the footer tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 399.68,
+            "end": 401.68,
+            "text": " I have told you about it. If you want to"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 401.68,
+            "end": 403.68,
+            "text": " put copyright information or"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 403.68,
+            "end": 405.68,
+            "text": " if you want to put some important links"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 405.68,
+            "end": 407.68,
+            "text": " of the website then you can put them"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 407.68,
+            "end": 409.68,
+            "text": " in the footer. Then after this figure and"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 409.68,
+            "end": 411.68,
+            "text": " fig caption. What is figure and fig caption?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 411.68,
+            "end": 413.68,
+            "text": " Whenever you want to use images, diagrams,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 413.68,
+            "end": 415.68,
+            "text": " charts, all these things, then you can"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 415.68,
+            "end": 417.68,
+            "text": " use figure and fig caption."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 417.68,
+            "end": 419.68,
+            "text": " In the main, the main content area"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 419.68,
+            "end": 421.68,
+            "text": " like the main content area of our page was"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 421.68,
+            "end": 423.68,
+            "text": " that we put it in the main tag."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 423.68,
+            "end": 425.68,
+            "text": " There is also a time tag used to represent"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 425.68,
+            "end": 427.68,
+            "text": " time related information. So you can"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 427.68,
+            "end": 429.68,
+            "text": " use the time tag. You can put"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 429.68,
+            "end": 431.68,
+            "text": " date, time or anything in it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 431.68,
+            "end": 433.68,
+            "text": " So I hope you understood this thing."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 433.68,
+            "end": 435.68,
+            "text": " So these are used to enhance"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 435.68,
+            "end": 437.68,
+            "text": " SEO."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 437.68,
+            "end": 439.68,
+            "text": " Accessibility is used to improve."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 439.68,
+            "end": 441.68,
+            "text": " And if the browser wants to"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 441.68,
+            "end": 443.68,
+            "text": " take a decision about any of our page."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 443.68,
+            "end": 445.68,
+            "text": " Let's say there is a browser. He has"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 445.68,
+            "end": 447.68,
+            "text": " come up with a new feature that he will"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 447.68,
+            "end": 449.68,
+            "text": " read our content aloud. Like there is"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 449.68,
+            "end": 451.68,
+            "text": " a feature in the edge. So the browser"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 451.68,
+            "end": 453.68,
+            "text": " can create that I am reading the main content."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 453.68,
+            "end": 455.68,
+            "text": " Now think about it. If someone wants to read this page,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 455.68,
+            "end": 457.68,
+            "text": " then how will he read it? Code with"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 457.68,
+            "end": 459.68,
+            "text": " Home, Courses, Tutorial. You will not want"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 459.68,
+            "end": 461.68,
+            "text": " to read aloud like this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 461.68,
+            "end": 463.68,
+            "text": " You will want to read the main content."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 463.68,
+            "end": 465.68,
+            "text": " HTML, Semantic Tags,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 465.68,
+            "end": 467.68,
+            "text": " HTML5 Introduce, Arrange, Semantic Tags"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 467.68,
+            "end": 469.68,
+            "text": " and so on. The first versions"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 469.68,
+            "end": 471.68,
+            "text": " of our HTML did not have"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 471.68,
+            "end": 473.68,
+            "text": " Semantic Tags. Semantic Tags"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 473.68,
+            "end": 475.68,
+            "text": " were introduced from HTML5."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 475.68,
+            "end": 477.68,
+            "text": " And the most important reason to"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 477.68,
+            "end": 479.68,
+            "text": " introduce Semantic Tags in HTML5"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 479.68,
+            "end": 481.68,
+            "text": " is to arrange things."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 481.68,
+            "end": 483.68,
+            "text": " So that the browser"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 483.68,
+            "end": 485.68,
+            "text": " or whoever is parsing the content,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 485.68,
+            "end": 487.68,
+            "text": " whoever is looking at the code of our content,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 487.68,
+            "end": 489.68,
+            "text": " whether it is a browser, crawler, google,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 489.68,
+            "end": 491.68,
+            "text": " bing, search engines"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 491.68,
+            "end": 493.68,
+            "text": " or anyone wants to generate a preview."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 493.68,
+            "end": 495.68,
+            "text": " Like you put a URL on Twitter, so it wants to"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 495.68,
+            "end": 497.68,
+            "text": " generate a preview. If there are such things,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 497.68,
+            "end": 499.68,
+            "text": " then you will want"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 499.68,
+            "end": 501.68,
+            "text": " your content to be understood"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 501.68,
+            "end": 503.68,
+            "text": " well. So if you want"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 503.68,
+            "end": 505.68,
+            "text": " your content to be understood well,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 505.68,
+            "end": 507.68,
+            "text": " then you will use Semantic Tags."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 507.68,
+            "end": 509.68,
+            "text": " Here this image is explaining very well"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 509.68,
+            "end": 511.68,
+            "text": " that if you write HTML without Semantic Tags,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 511.68,
+            "end": 513.6800000000001,
+            "text": " then you will write like this"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 513.6800000000001,
+            "end": 515.6800000000001,
+            "text": " for Semantic Tags. This image"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 515.6800000000001,
+            "end": 517.6800000000001,
+            "text": " you are seeing, this is a header, this is a nav,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 517.6800000000001,
+            "end": 519.6800000000001,
+            "text": " this is a side. How to throw"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 519.6800000000001,
+            "end": 521.6800000000001,
+            "text": " one thing aside, we will do all this with CSS."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 521.6800000000001,
+            "end": 523.6800000000001,
+            "text": " Don't be confused."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 523.6800000000001,
+            "end": 525.6800000000001,
+            "text": " This is not used for styling. Because"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 525.6800000000001,
+            "end": 527.6800000000001,
+            "text": " many people are confused that it is not like this"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 527.6800000000001,
+            "end": 529.6800000000001,
+            "text": " that aside tag is used to aside things."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 529.6800000000001,
+            "end": 531.6800000000001,
+            "text": " No, it is not at all."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 531.6800000000001,
+            "end": 533.6800000000001,
+            "text": " You will have to style things"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 533.6800000000001,
+            "end": 535.6800000000001,
+            "text": " with CSS, but here"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 535.68,
+            "end": 537.68,
+            "text": " your content can be understood well."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 537.68,
+            "end": 539.68,
+            "text": " Can be described."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 539.68,
+            "end": 541.68,
+            "text": " Which is the main content, which is the header or footer."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 541.68,
+            "end": 543.68,
+            "text": " That's why Semantic Tags are made."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 543.68,
+            "end": 545.68,
+            "text": " So Semantic Tags do not do any magic."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 545.68,
+            "end": 547.68,
+            "text": " Semantic Tags are made only for accessibility"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 547.68,
+            "end": 549.68,
+            "text": " and to understand your page."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 549.68,
+            "end": 551.68,
+            "text": " Now there are some examples here that you can see."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 551.68,
+            "end": 553.68,
+            "text": " I have given an example of header and footer tag here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 553.68,
+            "end": 555.68,
+            "text": " What will happen inside the header?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 555.68,
+            "end": 557.68,
+            "text": " Here you see that you will ideally put"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 557.68,
+            "end": 559.68,
+            "text": " your navigation bar inside the header"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 559.68,
+            "end": 561.68,
+            "text": " and then style it with CSS."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 561.68,
+            "end": 563.68,
+            "text": " I will show you a very quick"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 563.68,
+            "end": 565.68,
+            "text": " example of styling."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 565.68,
+            "end": 567.68,
+            "text": " Obviously, we will talk about styling later."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 567.68,
+            "end": 569.68,
+            "text": " But many people must be confused"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 569.68,
+            "end": 571.68,
+            "text": " that how will this navigation bar be horizontal."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 571.68,
+            "end": 573.68,
+            "text": " So if you want to make the navigation bar horizontal,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 573.68,
+            "end": 575.68,
+            "text": " then I will write some CSS here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 575.68,
+            "end": 577.68,
+            "text": " And I will tell you all this, why does CSS work here."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 577.68,
+            "end": 579.68,
+            "text": " So you see, I have flexed the display."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 579.68,
+            "end": 581.68,
+            "text": " So it happened like this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 581.68,
+            "end": 583.68,
+            "text": " So a lot is going to happen in the coming videos."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 583.68,
+            "end": 585.68,
+            "text": " So don't worry at all about this."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 585.68,
+            "end": 587.68,
+            "text": " We didn't do this, we didn't do that."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 587.68,
+            "end": 589.68,
+            "text": " I will tell you everything."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 589.68,
+            "end": 591.68,
+            "text": " And what does this CSS mean?"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 591.68,
+            "end": 593.68,
+            "text": " I will tell you about this too."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 593.68,
+            "end": 595.68,
+            "text": " I will reload it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 595.68,
+            "end": 597.68,
+            "text": " We will see all this in the CSS section."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 597.68,
+            "end": 599.68,
+            "text": " If you have not accessed this playlist yet,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 599.68,
+            "end": 601.68,
+            "text": " then do it. Bookmark the accesses."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 601.68,
+            "end": 603.68,
+            "text": " Click here and save it."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 603.68,
+            "end": 605.68,
+            "text": " And I am uploading all the code."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 605.68,
+            "end": 607.68,
+            "text": " So as you move forward in the videos,"
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 607.68,
+            "end": 609.68,
+            "text": " you will get all the code here video wise."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 609.68,
+            "end": 611.68,
+            "text": " Do start this repository if you have not done it yet."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 611.68,
+            "end": 613.68,
+            "text": " And also like the video."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 613.68,
+            "end": 615.68,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 615.68,
+            "end": 617.68,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "Semantic Tags  in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #11 - CodeWithHarry (144p, h264)",
+            "start": 621.68,
+            "end": 641.68,
+            "text": " Outro Music."
+        }
+    ],
+    "text": " What's up guys, you are in the 11th video of the Sigma Web Development course. We have completed 10 videos. So one like is enough for the consistency of all of us. In today's video, we will see about Semantic Tags. Because they are very important for SEO. And to understand the structure of the overall website, search engines are very happy to see this structure. That means overall SEO of your website is going to be very good if you use these tags. What are these tags? Why are these tags? How to use them? What are the benefits? We will see in this video. Let's go to the computer screen. Let's roll the intro. Intro So guys, I would like to tell you what are Semantic Tags? Here you can see that I have made a folder named Video 11. And here I have set the title by putting a boilerplate template of index.html. By putting an H1, I am going to set this image and preview it here. So this is the image. To explain a little, I will tell you what are Semantic Tags? Semantic Tags are for browsers and web crawlers who want to understand your website properly. They tell them what is the content of your website? And what is the purpose of which place and which tag? If you don't use Semantic Tags in HTML, then your work will be done. It's not like if you don't use Semantic Tags, then your website won't look good. You can do a good design. But we want to explain to Google and Bing search engines about our website. And if we explain them about our website, then they will be able to understand our website. And they will rank our website on Google, Bing, and respective search engines. And we want that the crawlers should be able to understand our website. And we want that whoever wants to understand our website, they should be able to understand it well. That's why there are some special tags. Like header, nav, main, article, figure. All these are special tags in HTML which help in structuring your website. Now if there is something in the header, then I know that it is a header. That is, it is at the top. If there is something in the footer, then I will understand that the website has started ending from here. This footer started here. This footer could also be div. But no, if I am using Semantic HTML, then I will use the footer tag. Along with that, where I am in the span tag, I was making my navigation bar. This time I will not make my navigation bar in the span tag. I will make my navigation bar in the nav tag. So these kinds of differences explain our search engines very well about what our website is about. Okay. So I will show you some examples of semantic tags here. And I hope you understood what semantic tags are. Now look, there are download folders like our computer. Many of you must have a download folder that I don't know, I have come to the file of the whole world. 90% of the files of your computer are in the download folder of many people. But we should not do this. Some people go to such an extent that they start spreading files in their local disk C in the windows folder. And some people keep files in system 32 too. So if you spread your files in your entire computer, then definitely it is not arranged in one way. But if you arrange it in folders, that you have this file in one folder. If you want to keep a secret file in a folder, you put secret files. You can make a folder called do not open this. If you can put some of your files in it, then it will be arranged in one way. You have arranged images in one way, you have arranged videos in one way, and let's say you have arranged e-books in one way. So whenever you go to find it, you will get it. So it will be much better for you to understand that folder structure instead of if you are spreading your files throughout the computer. You definitely don't want to spread your files throughout the computer. So I hope you understood why we use semantic tags. It is very good for our SEO. I have not used the word SEO yet. But SEO is a very important part of search engine optimization. Using semantic tags. So what happens is basically I make your website the way you make it. You just use some special tags. For example, let's say I am making this website. What will I do now? I will comment out. I will not comment out. I will basically make a navbar here. So what will I do? First of all, I will say that this is my website header. I have used a header tag. I will make a nav in it. I will make an unordered list in it. I will make an li in it. I will write home here. And let's say I am writing a lot of things like this. And this is my header like this. So whoever comes to my website, he will understand that this is my header. I can write here whatever I want to write. So this is my header. This is my navbar. This is clearly visible because I have used header and nav tags. So I write about here and here I write contact. So here I wrote home. Here I wrote about and here I wrote contact. So I hope you understood this thing. Now if I want a footer, let's say I want to make a footer. Here my main content will come after the header. So I will use the main tag. And after that, my footer. Let's say I write in footer copyright cwh and here I write all rights reserved. Okay, I can write like this. So here see copyright all rights reserved. I wrote all this here. Did I cut this? Yes. So what I will do is I will cut this. I will put it in the main. This is my main content. So first my header will come. Then the main content will come. Then the footer will come. As you can see here. And here also you see this is the header. This is my main content. So what I did in one way is I arranged it. In the same way you arrange your files in different folders. I arranged my HTML tags here. So about the header tag we understood that it is used to represent the top section of a webpage which is the header. Then after this we put nav which is in the navigation menu of our page. We will put it in the nav tag. Ideally article indicates a self-containing piece of content such as blog post or news article. If you put a particular self-contained piece of content then put it in the article tag. Section represents a thematic grouping. Suppose one section is talking about one thing of your page. Then the second section will talk about something else. Aside means if anything is lying on the side then we use the aside tag. Here see typically used for sidebars or content that is tangentially related to the main content. Like what you can do on the aside tag is you have to put a side note, about the author you have seen many blogs in which it is written on the side about the author. So you can put things in the aside tag. Then after this we have the footer tag. I have told you about it. If you want to put copyright information or if you want to put some important links of the website then you can put them in the footer. Then after this figure and fig caption. What is figure and fig caption? Whenever you want to use images, diagrams, charts, all these things, then you can use figure and fig caption. In the main, the main content area like the main content area of our page was that we put it in the main tag. There is also a time tag used to represent time related information. So you can use the time tag. You can put date, time or anything in it. So I hope you understood this thing. So these are used to enhance SEO. Accessibility is used to improve. And if the browser wants to take a decision about any of our page. Let's say there is a browser. He has come up with a new feature that he will read our content aloud. Like there is a feature in the edge. So the browser can create that I am reading the main content. Now think about it. If someone wants to read this page, then how will he read it? Code with Home, Courses, Tutorial. You will not want to read aloud like this. You will want to read the main content. HTML, Semantic Tags, HTML5 Introduce, Arrange, Semantic Tags and so on. The first versions of our HTML did not have Semantic Tags. Semantic Tags were introduced from HTML5. And the most important reason to introduce Semantic Tags in HTML5 is to arrange things. So that the browser or whoever is parsing the content, whoever is looking at the code of our content, whether it is a browser, crawler, google, bing, search engines or anyone wants to generate a preview. Like you put a URL on Twitter, so it wants to generate a preview. If there are such things, then you will want your content to be understood well. So if you want your content to be understood well, then you will use Semantic Tags. Here this image is explaining very well that if you write HTML without Semantic Tags, then you will write like this for Semantic Tags. This image you are seeing, this is a header, this is a nav, this is a side. How to throw one thing aside, we will do all this with CSS. Don't be confused. This is not used for styling. Because many people are confused that it is not like this that aside tag is used to aside things. No, it is not at all. You will have to style things with CSS, but here your content can be understood well. Can be described. Which is the main content, which is the header or footer. That's why Semantic Tags are made. So Semantic Tags do not do any magic. Semantic Tags are made only for accessibility and to understand your page. Now there are some examples here that you can see. I have given an example of header and footer tag here. What will happen inside the header? Here you see that you will ideally put your navigation bar inside the header and then style it with CSS. I will show you a very quick example of styling. Obviously, we will talk about styling later. But many people must be confused that how will this navigation bar be horizontal. So if you want to make the navigation bar horizontal, then I will write some CSS here. And I will tell you all this, why does CSS work here. So you see, I have flexed the display. So it happened like this. So a lot is going to happen in the coming videos. So don't worry at all about this. We didn't do this, we didn't do that. I will tell you everything. And what does this CSS mean? I will tell you about this too. I will reload it. We will see all this in the CSS section. If you have not accessed this playlist yet, then do it. Bookmark the accesses. Click here and save it. And I am uploading all the code. So as you move forward in the videos, you will get all the code here video wise. Do start this repository if you have not done it yet. And also like the video. Thank you so much guys for watching this video. And I will see you next time. Outro Music."
+}

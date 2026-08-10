@@ -1,0 +1,2504 @@
+{
+    "chunks": [
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 0.0,
+            "end": 3.08,
+            "text": " In this video, I will tell you what are ID and Classes?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 3.08,
+            "end": 7.4,
+            "text": " The concept of ID and Classes is one of the most confused concepts."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 7.4,
+            "end": 12.32,
+            "text": " In fact, when I was learning HTML, I was very confused in my early days."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 12.32,
+            "end": 14.120000000000001,
+            "text": " ID means Unique Identifier."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 14.120000000000001,
+            "end": 18.8,
+            "text": " That is, if you give an ID to an element, you will not give that ID to the other element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 18.8,
+            "end": 24.0,
+            "text": " But class means that if you want to give a property to multiple elements,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 24.0,
+            "end": 25.560000000000002,
+            "text": " then you will give it multiple classes."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 25.560000000000002,
+            "end": 29.8,
+            "text": " For example, you can give a class named Red to a div and a form."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 29.8,
+            "end": 35.28,
+            "text": " Similarly, you can give a class named BGRed to an article tag and a header tag."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 35.28,
+            "end": 39.08,
+            "text": " Do like this video because we will now go to the computer screen"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 39.08,
+            "end": 41.760000000000005,
+            "text": " and we will see these things very closely."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 41.760000000000005,
+            "end": 43.120000000000005,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 52.68,
+            "end": 54.44,
+            "text": " Alright guys, so I am back."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 54.44,
+            "end": 57.760000000000005,
+            "text": " And if you have not accessed the Sigma Web Development course,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 57.76,
+            "end": 61.239999999999995,
+            "text": " then access the playlist or click on the bookmark or click on save."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 61.239999999999995,
+            "end": 63.879999999999995,
+            "text": " And the source code is also being uploaded on GitHub."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 63.879999999999995,
+            "end": 68.4,
+            "text": " Now I will come here quickly in the folder and make a folder of video number 9."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 68.4,
+            "end": 70.52,
+            "text": " So I will make a folder of video 9 here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 70.52,
+            "end": 72.75999999999999,
+            "text": " I will write here video 9."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 72.75999999999999,
+            "end": 77.2,
+            "text": " And after making a folder of video 9, I will right click and open with code."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 77.2,
+            "end": 79.84,
+            "text": " And here you can see that it has opened in BS code."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 79.84,
+            "end": 84.16,
+            "text": " Now I will write index.html here, I will enter with an exclamation mark."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 84.16,
+            "end": 89.08,
+            "text": " And along with that, I will tell you what are ID and classes."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 89.08,
+            "end": 91.11999999999999,
+            "text": " You must have an Aadhar card, right?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 91.11999999999999,
+            "end": 93.0,
+            "text": " If not, then you must have some ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 93.0,
+            "end": 95.03999999999999,
+            "text": " Now don't write in the comment that I don't have an ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 95.03999999999999,
+            "end": 98.2,
+            "text": " Whenever you go somewhere, you have to show your ID"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 98.2,
+            "end": 101.67999999999999,
+            "text": " in some of the cases to prove your identity."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 101.67999999999999,
+            "end": 103.0,
+            "text": " That I am this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 103.0,
+            "end": 106.67999999999999,
+            "text": " Now if you want to understand about ID and classes in HTML,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 106.67999999999999,
+            "end": 109.56,
+            "text": " then ID is what your identity is."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 109.56,
+            "end": 110.24,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 110.24,
+            "end": 111.84,
+            "text": " What is it? It is your identity."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 111.84,
+            "end": 113.28,
+            "text": " So listen to a story here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 113.88,
+            "end": 114.88,
+            "text": " This is John."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 114.88,
+            "end": 115.4,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 115.4,
+            "end": 116.4,
+            "text": " And this is Harry."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 116.4,
+            "end": 117.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 117.04,
+            "end": 118.6,
+            "text": " These two are very good friends."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 118.6,
+            "end": 119.68,
+            "text": " They are very good friends."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 119.68,
+            "end": 122.6,
+            "text": " They just don't share their lunch."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 122.6,
+            "end": 124.32000000000001,
+            "text": " And the rest are very good friends."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 124.32000000000001,
+            "end": 125.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 125.04,
+            "end": 126.56,
+            "text": " In the matter of food, he is not the only one."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 126.56,
+            "end": 128.92000000000002,
+            "text": " And he is a friend in all other matters."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 128.92000000000002,
+            "end": 129.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 129.48,
+            "end": 132.16,
+            "text": " And here you can see that this is John and Harry."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 132.16,
+            "end": 134.4,
+            "text": " Both of them have their own Aadhar ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 134.4,
+            "end": 136.68,
+            "text": " So this is my Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 136.68,
+            "end": 140.32,
+            "text": " And John's Aadhar number looks something like this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 140.32,
+            "end": 141.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 141.04,
+            "end": 142.84,
+            "text": " So this is John's Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 142.84,
+            "end": 144.12,
+            "text": " And this is my Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 144.12,
+            "end": 144.64,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 144.64,
+            "end": 147.12,
+            "text": " Our Aadhar numbers can never be the same."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 147.12,
+            "end": 150.96,
+            "text": " Or if we assume that our friend is made."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 150.96,
+            "end": 152.76,
+            "text": " Assume my friend is made."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 152.76,
+            "end": 154.68,
+            "text": " Tanya and John's friend is made."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 154.68,
+            "end": 155.64,
+            "text": " Assume Shruti."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 155.64,
+            "end": 156.36,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 156.36,
+            "end": 158.36,
+            "text": " So their Aadhar numbers will also be different."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 158.36,
+            "end": 158.68,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 158.68,
+            "end": 159.2,
+            "text": " This is done."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 159.2,
+            "end": 160.84,
+            "text": " And this is Tanya's Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 160.84,
+            "end": 161.4,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 161.4,
+            "end": 163.12,
+            "text": " This is Tanya's Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 163.12,
+            "end": 164.04,
+            "text": " Now,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 164.04,
+            "end": 166.4,
+            "text": " this Aadhar number will be different for every person."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 166.4,
+            "end": 167.8,
+            "text": " So John and Harry were friends."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 167.8,
+            "end": 169.52,
+            "text": " John's friend became Shruti."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 169.52,
+            "end": 171.36,
+            "text": " This is Tanya's Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 171.36,
+            "end": 173.48000000000002,
+            "text": " None of these four numbers are the same."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 173.48000000000002,
+            "end": 174.96,
+            "text": " These four Aadhar numbers."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 174.96,
+            "end": 176.84,
+            "text": " If I told you any of these Aadhar numbers."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 176.84,
+            "end": 178.60000000000002,
+            "text": " I said 35, 44, 5."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 178.60000000000002,
+            "end": 180.84,
+            "text": " You will understand that we are talking about Harry."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 180.84,
+            "end": 182.4,
+            "text": " And if I said,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 182.4,
+            "end": 184.32000000000002,
+            "text": " 54, 56, 56, 7."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 184.32000000000002,
+            "end": 186.48000000000002,
+            "text": " You will understand that we are talking about Shruti."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 186.48000000000002,
+            "end": 188.56,
+            "text": " And if I said,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 188.56,
+            "end": 191.96,
+            "text": " 34, 56, 85, 68, 63."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 191.96,
+            "end": 193.96,
+            "text": " So you will understand that we are talking about Tanya."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 193.96,
+            "end": 196.92000000000002,
+            "text": " So this Aadhar number uniquely identifies"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 196.92000000000002,
+            "end": 199.4,
+            "text": " Tanya, Harry, Shruti,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 199.4,
+            "end": 200.36,
+            "text": " and John."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 200.36,
+            "end": 201.48000000000002,
+            "text": " So what is this?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 201.48000000000002,
+            "end": 203.48000000000002,
+            "text": " This is their Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 203.48000000000002,
+            "end": 204.76000000000002,
+            "text": " This is their ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 204.76000000000002,
+            "end": 206.76000000000002,
+            "text": " No one else will get this Aadhar number."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 206.76000000000002,
+            "end": 207.24,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 207.24,
+            "end": 208.36,
+            "text": " Along with that,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 208.36,
+            "end": 210.92000000000002,
+            "text": " let's say John and Harry spent their childhood together."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 210.92000000000002,
+            "end": 211.92000000000002,
+            "text": " They both have big panties."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 211.92000000000002,
+            "end": 213.28,
+            "text": " And they studied in the same class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 213.28,
+            "end": 215.12,
+            "text": " And the name of that class was"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 215.12,
+            "end": 216.92000000000002,
+            "text": " Class 10th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 216.92000000000002,
+            "end": 217.4,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 217.4,
+            "end": 218.72,
+            "text": " Let's say they are in the 10th class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 218.72,
+            "end": 219.4,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 219.4,
+            "end": 220.28,
+            "text": " Let's assume."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 220.28,
+            "end": 221.72,
+            "text": " What is said in assuming?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 221.72,
+            "end": 224.52,
+            "text": " And let's assume Shruti is in class 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 224.52,
+            "end": 226.76,
+            "text": " And Tanya is also in class 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 226.76,
+            "end": 227.28,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 227.28,
+            "end": 229.12,
+            "text": " So both are in class 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 229.12,
+            "end": 229.64000000000001,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 229.64000000000001,
+            "end": 231.24,
+            "text": " Tanya is also in class 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 231.24,
+            "end": 232.56,
+            "text": " And Shruti is also in class 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 232.56,
+            "end": 234.16,
+            "text": " So what is Shruti's class?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 234.16,
+            "end": 234.88,
+            "text": " It is 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 234.88,
+            "end": 236.36,
+            "text": " Tanya's class can also be 9th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 236.36,
+            "end": 238.24,
+            "text": " Shruti will not study alone in class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 238.24,
+            "end": 240.4,
+            "text": " Or Harry will not study alone in class 10th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 240.4,
+            "end": 241.72,
+            "text": " There are other kids in the class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 241.72,
+            "end": 243.72,
+            "text": " So class means"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 243.72,
+            "end": 247.04000000000002,
+            "text": " that there is Harry and John in one class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 247.04000000000002,
+            "end": 249.52,
+            "text": " So can a class be multiple of one person?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 249.52,
+            "end": 251.52,
+            "text": " A class can be multiple of one person."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 251.52,
+            "end": 253.92000000000002,
+            "text": " Let's assume that Harry is in class 10th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 253.92000000000002,
+            "end": 255.68,
+            "text": " And he goes to a tuition"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 255.68,
+            "end": 257.8,
+            "text": " where this class is in 10A."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 257.8,
+            "end": 259.8,
+            "text": " Let's assume that there are classes in that tuition."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 259.8,
+            "end": 261.44,
+            "text": " So there can be more than one class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 261.44,
+            "end": 262.44,
+            "text": " One is class 10th."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 262.44,
+            "end": 264.28000000000003,
+            "text": " And one is class 10A."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 264.28000000000003,
+            "end": 265.8,
+            "text": " And along with that,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 265.8,
+            "end": 267.8,
+            "text": " let's assume that Harry wears a red t-shirt."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 267.8,
+            "end": 268.92,
+            "text": " So his class is also red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 268.92,
+            "end": 269.44,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 269.44,
+            "end": 270.56,
+            "text": " So class means"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 270.56,
+            "end": 271.56,
+            "text": " that there is no class to study."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 271.56,
+            "end": 274.12,
+            "text": " Class means that he has been classified in this class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 274.12,
+            "end": 274.96000000000004,
+            "text": " Assume that."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 274.96000000000004,
+            "end": 275.8,
+            "text": " Now come here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 275.8,
+            "end": 277.8,
+            "text": " Leave John, Harry, Shruti."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 277.8,
+            "end": 278.24,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 278.24,
+            "end": 279.64,
+            "text": " Delete this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 279.64,
+            "end": 281.08000000000004,
+            "text": " I will zoom out and delete it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 281.08000000000004,
+            "end": 281.36,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 281.36,
+            "end": 283.2,
+            "text": " There is no meaning of this here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 283.2,
+            "end": 285.40000000000003,
+            "text": " Now come to index.html and understand this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 285.40000000000003,
+            "end": 286.68,
+            "text": " Let's assume that I made a div here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 286.68,
+            "end": 287.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 287.8,
+            "end": 289.28000000000003,
+            "text": " And I gave its class as red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 289.28000000000003,
+            "end": 289.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 289.8,
+            "end": 291.40000000000003,
+            "text": " And I made a span."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 291.40000000000003,
+            "end": 293.2,
+            "text": " And I gave its class as red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 293.2,
+            "end": 293.64,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 293.64,
+            "end": 294.76,
+            "text": " The classes that I have given,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 294.76,
+            "end": 296.84000000000003,
+            "text": " can I give them to different elements or the same class?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 296.84000000000003,
+            "end": 297.52000000000004,
+            "text": " Yes, I can."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 297.52000000000004,
+            "end": 299.24,
+            "text": " But if I want to put an ID"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 299.24,
+            "end": 300.24,
+            "text": " in any element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 300.24,
+            "end": 302.24,
+            "text": " Let's assume that I have put its ID as first div."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 302.24,
+            "end": 303.8,
+            "text": " I can put anything in the ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 303.8,
+            "end": 305.8,
+            "text": " So I can't give this ID to any other element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 305.8,
+            "end": 307.64,
+            "text": " Because this is its Aadhaar card."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 307.64,
+            "end": 308.88,
+            "text": " Even if it is the second div,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 308.88,
+            "end": 309.88,
+            "text": " I can't put it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 309.88,
+            "end": 312.88,
+            "text": " Even then I will have to put something else in the ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 312.88,
+            "end": 313.40000000000003,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 313.40000000000003,
+            "end": 314.88,
+            "text": " I have put the ID as second div."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 314.88,
+            "end": 315.12,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 315.12,
+            "end": 317.0,
+            "text": " And here I write second."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 317.0,
+            "end": 318.0,
+            "text": " And here I will write first."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 318.0,
+            "end": 319.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 319.0,
+            "end": 321.4,
+            "text": " So this concept of ID and classes,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 321.4,
+            "end": 323.4,
+            "text": " I personally understood it very late."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 323.4,
+            "end": 325.4,
+            "text": " When I was learning WebDolopment in my early days."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 325.4,
+            "end": 327.0,
+            "text": " No one told me that"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 327.0,
+            "end": 329.6,
+            "text": " ID uniquely identifies an element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 329.6,
+            "end": 330.8,
+            "text": " And the class"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 330.8,
+            "end": 334.2,
+            "text": " can put multiple classes in one element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 334.2,
+            "end": 337.0,
+            "text": " And can put the same class in multiple elements."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 337.0,
+            "end": 337.6,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 337.6,
+            "end": 339.4,
+            "text": " Like if I gave it a red class,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 339.4,
+            "end": 341.8,
+            "text": " I can also give it a BG yellow class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 341.8,
+            "end": 342.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 342.2,
+            "end": 343.2,
+            "text": " BG yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 343.2,
+            "end": 344.6,
+            "text": " I can give only one class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 344.6,
+            "end": 346.8,
+            "text": " And if we give a class to any element multiple,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 346.8,
+            "end": 348.2,
+            "text": " we give it a space."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 348.2,
+            "end": 349.40000000000003,
+            "text": " Like if I want"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 349.40000000000003,
+            "end": 352.6,
+            "text": " multiple classes to be put in this element,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 352.6,
+            "end": 353.8,
+            "text": " then what I will do?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 353.8,
+            "end": 355.40000000000003,
+            "text": " First I will write red here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 355.40000000000003,
+            "end": 357.40000000000003,
+            "text": " Then I will put a space and write BG yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 357.40000000000003,
+            "end": 359.40000000000003,
+            "text": " So in this way I can give multiple classes"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 359.40000000000003,
+            "end": 360.40000000000003,
+            "text": " to the same element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 360.40000000000003,
+            "end": 362.8,
+            "text": " Can I give multiple IDs to the same element?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 362.8,
+            "end": 364.6,
+            "text": " Have you ever heard of someone having two Aadhaar cards?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 364.6,
+            "end": 366.0,
+            "text": " Brother, someone has made it from here and there."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 366.0,
+            "end": 366.8,
+            "text": " I don't know brother."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 366.8,
+            "end": 369.0,
+            "text": " But there are no Aadhaar cards of Adality."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 369.0,
+            "end": 372.0,
+            "text": " Aadhaar number is one for one person."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 372.0,
+            "end": 373.40000000000003,
+            "text": " And Aadhaar numbers"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 373.40000000000003,
+            "end": 376.2,
+            "text": " cannot be the same for different people."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 376.2,
+            "end": 376.6,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 376.6,
+            "end": 378.6,
+            "text": " One person cannot have multiple."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 378.6,
+            "end": 380.8,
+            "text": " Different people cannot have the same."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 380.8,
+            "end": 382.0,
+            "text": " But the class,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 382.0,
+            "end": 382.8,
+            "text": " that is, if I say"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 382.8,
+            "end": 384.40000000000003,
+            "text": " what color T-shirt do you wear?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 384.40000000000003,
+            "end": 385.6,
+            "text": " Or you can wear a red T-shirt,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 385.6,
+            "end": 386.40000000000003,
+            "text": " five people can wear it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 386.40000000000003,
+            "end": 387.20000000000005,
+            "text": " No problem."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 387.20000000000005,
+            "end": 388.8,
+            "text": " You will get it if you go on the road."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 388.8,
+            "end": 391.20000000000005,
+            "text": " And let's say you get"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 391.20000000000005,
+            "end": 392.6,
+            "text": " those who like mango,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 392.6,
+            "end": 394.0,
+            "text": " those who like banana,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 394.0,
+            "end": 395.40000000000003,
+            "text": " or those who like grapes,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 395.40000000000003,
+            "end": 396.40000000000003,
+            "text": " multiple people will get it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 396.40000000000003,
+            "end": 397.6,
+            "text": " So assume that they are in the banana class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 397.6,
+            "end": 399.40000000000003,
+            "text": " Or they are in the grapes class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 399.40000000000003,
+            "end": 399.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 399.8,
+            "end": 400.8,
+            "text": " In the mango class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 400.8,
+            "end": 403.0,
+            "text": " So we can classify in one class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 403.0,
+            "end": 405.40000000000003,
+            "text": " And we can give different elements to the same class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 405.4,
+            "end": 406.79999999999995,
+            "text": " So I hope you understood this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 406.79999999999995,
+            "end": 408.2,
+            "text": " Now I will write some CSS here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 408.2,
+            "end": 409.2,
+            "text": " And don't say that"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 409.2,
+            "end": 410.79999999999995,
+            "text": " you are not reading CSS."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 410.79999999999995,
+            "end": 412.0,
+            "text": " What I am writing in CSS now,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " you can think that"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 414.0,
+            "end": 415.4,
+            "text": " I am writing some alien language."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 415.4,
+            "end": 415.79999999999995,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 416.59999999999997,
+            "end": 418.0,
+            "text": " In style.css."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " But I am trying to make a point."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 420.0,
+            "end": 421.4,
+            "text": " I will click here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 421.4,
+            "end": 423.79999999999995,
+            "text": " And here the preview is looking like this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 423.79999999999995,
+            "end": 424.79999999999995,
+            "text": " First and second."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 424.79999999999995,
+            "end": 426.0,
+            "text": " I will show you one thing."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 426.0,
+            "end": 427.0,
+            "text": " First,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 427.0,
+            "end": 429.0,
+            "text": " how do we target the class in CSS?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 429.59999999999997,
+            "end": 430.59999999999997,
+            "text": " We do it by dot."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 430.59999999999997,
+            "end": 431.79999999999995,
+            "text": " Dot red means red class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 431.79999999999995,
+            "end": 433.59999999999997,
+            "text": " And hash first div means,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 433.59999999999997,
+            "end": 434.59999999999997,
+            "text": " hash means ID,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 434.6,
+            "end": 435.6,
+            "text": " dot means class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 436.20000000000005,
+            "end": 437.20000000000005,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 437.20000000000005,
+            "end": 438.20000000000005,
+            "text": " If I say that"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 438.20000000000005,
+            "end": 439.20000000000005,
+            "text": " the first div,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 439.20000000000005,
+            "end": 441.6,
+            "text": " make its background color red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 441.6,
+            "end": 442.20000000000005,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 442.20000000000005,
+            "end": 443.8,
+            "text": " So by making the background color red of the first div,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 443.8,
+            "end": 445.0,
+            "text": " its background color will be red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 445.0,
+            "end": 445.6,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 445.6,
+            "end": 447.0,
+            "text": " These are the selectors in CSS."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 447.0,
+            "end": 450.0,
+            "text": " And now I don't want to confuse you at all."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 450.0,
+            "end": 452.0,
+            "text": " And I can comment like this in CSS."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 453.0,
+            "end": 454.40000000000003,
+            "text": " But we will read all these things later."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 454.40000000000003,
+            "end": 456.20000000000005,
+            "text": " Now what I will do by dotting red,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 456.20000000000005,
+            "end": 457.8,
+            "text": " I will write background color red here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 457.8,
+            "end": 459.20000000000005,
+            "text": " And along with that,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 459.20000000000005,
+            "end": 461.0,
+            "text": " what will I do in dot bg yellow?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 461.0,
+            "end": 463.0,
+            "text": " Dot bg yellow will be mine."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 463.0,
+            "end": 464.0,
+            "text": " I have to put a dot."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 464.4,
+            "end": 465.4,
+            "text": " Dot means class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 465.4,
+            "end": 466.4,
+            "text": " It means class bg yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 467.4,
+            "end": 469.4,
+            "text": " Now I will make the background color yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 469.4,
+            "end": 470.4,
+            "text": " Sorry, I will make it color red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 470.4,
+            "end": 471.4,
+            "text": " I will not make the background color red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 472.4,
+            "end": 473.4,
+            "text": " Dot red means its color should be red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 474.4,
+            "end": 475.4,
+            "text": " See, its color is red."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 475.4,
+            "end": 476.4,
+            "text": " And the background color is yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 476.4,
+            "end": 480.4,
+            "text": " So this way you can use IDN classes in CSS."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 480.4,
+            "end": 482.4,
+            "text": " I hope you understood this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 482.4,
+            "end": 484.4,
+            "text": " Now one thing to note here is very important."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 484.4,
+            "end": 487.4,
+            "text": " That the IDN classes are attributes of the element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 488.4,
+            "end": 489.4,
+            "text": " This is ID attribute."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 489.4,
+            "end": 490.4,
+            "text": " And this is class attribute."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 490.4,
+            "end": 491.4,
+            "text": " So if I say what are ID classes?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 491.4,
+            "end": 492.4,
+            "text": " Are they elements or not?"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 492.79999999999995,
+            "end": 493.79999999999995,
+            "text": " They are attributes of elements."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 494.79999999999995,
+            "end": 496.79999999999995,
+            "text": " Now there is another use of ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 496.79999999999995,
+            "end": 498.79999999999995,
+            "text": " I will tell you what is another use of ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 498.79999999999995,
+            "end": 501.79999999999995,
+            "text": " If I take you to Wikipedia and I write coding."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 501.79999999999995,
+            "end": 503.79999999999995,
+            "text": " So this page of Wikipedia has come."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 503.79999999999995,
+            "end": 504.79999999999995,
+            "text": " Let's say I go to some other page,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 504.79999999999995,
+            "end": 505.79999999999995,
+            "text": " to some big page."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 505.79999999999995,
+            "end": 508.79999999999995,
+            "text": " So you see that when you go to any page on Wikipedia,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 508.79999999999995,
+            "end": 510.79999999999995,
+            "text": " then what you can do is"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 510.79999999999995,
+            "end": 512.8,
+            "text": " you can take the link of that particular place."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 512.8,
+            "end": 514.8,
+            "text": " I will show you how this happens."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 514.8,
+            "end": 515.8,
+            "text": " I go to some other page."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 515.8,
+            "end": 517.8,
+            "text": " I scroll down."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 517.8,
+            "end": 519.8,
+            "text": " And here I will inspect"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 519.8,
+            "end": 520.8,
+            "text": " and see its ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 520.8,
+            "end": 521.8,
+            "text": " Its ID is this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 522.1999999999999,
+            "end": 524.1999999999999,
+            "text": " So I will copy its ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 524.1999999999999,
+            "end": 526.1999999999999,
+            "text": " And if I put here"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 526.1999999999999,
+            "end": 528.1999999999999,
+            "text": " hashtag and this ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 528.1999999999999,
+            "end": 530.1999999999999,
+            "text": " Now if I hit enter,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 530.1999999999999,
+            "end": 531.1999999999999,
+            "text": " it will bring me here directly."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 531.1999999999999,
+            "end": 532.1999999999999,
+            "text": " In ICDA 8."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 532.1999999999999,
+            "end": 534.1999999999999,
+            "text": " So you see if I put it in incognito too."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 534.1999999999999,
+            "end": 537.1999999999999,
+            "text": " It will scroll me and show that particular ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 537.1999999999999,
+            "end": 539.1999999999999,
+            "text": " You see it has scrolled and instead of"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 539.1999999999999,
+            "end": 540.1999999999999,
+            "text": " showing me this,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 540.1999999999999,
+            "end": 542.1999999999999,
+            "text": " it has scrolled and shown me."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 542.1999999999999,
+            "end": 544.1999999999999,
+            "text": " Because it wants to bring me to this ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 544.1999999999999,
+            "end": 546.1999999999999,
+            "text": " So ID also works in linking."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 546.1999999999999,
+            "end": 547.1999999999999,
+            "text": " Remember this too."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 547.1999999999999,
+            "end": 548.1999999999999,
+            "text": " Very few people will tell you"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 548.1999999999999,
+            "end": 550.1999999999999,
+            "text": " that you can generate links too."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 550.6,
+            "end": 552.6,
+            "text": " If you put hashtag and write ID in front of any link,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 552.6,
+            "end": 554.6,
+            "text": " then when you open that link,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 554.6,
+            "end": 555.6,
+            "text": " it will focus that ID."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 555.6,
+            "end": 557.6,
+            "text": " Like it is giving me in this case."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 557.6,
+            "end": 560.6,
+            "text": " You can see that as I am hitting enter,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 560.6,
+            "end": 562.6,
+            "text": " so maybe I have done the wrong ID here."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 562.6,
+            "end": 563.6,
+            "text": " But you got the point."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 563.6,
+            "end": 564.6,
+            "text": " You got the point."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 564.6,
+            "end": 565.6,
+            "text": " Here 29.29."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 565.6,
+            "end": 567.6,
+            "text": " And if I hit enter,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 567.6,
+            "end": 568.6,
+            "text": " then you see I have come down."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 568.6,
+            "end": 570.6,
+            "text": " If I open incognito tab or reload it,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 570.6,
+            "end": 572.6,
+            "text": " then you see I have come down."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 572.6,
+            "end": 574.6,
+            "text": " If I scroll it up,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 574.6,
+            "end": 576.6,
+            "text": " and after that I open a new tab,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 576.6,
+            "end": 578.6,
+            "text": " and if I do this,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 579.0,
+            "end": 581.0,
+            "text": " then it is bringing me to the page"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 581.0,
+            "end": 582.0,
+            "text": " where this ID is."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 582.0,
+            "end": 584.0,
+            "text": " So I hope you understood ID and classes"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 584.0,
+            "end": 585.0,
+            "text": " through this video."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 585.0,
+            "end": 586.0,
+            "text": " ID means like Aadhar card,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " class means a person's property."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " Like he likes red,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 589.0,
+            "end": 591.0,
+            "text": " or in which class he is."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 591.0,
+            "end": 593.0,
+            "text": " One element can be given multiple classes."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 593.0,
+            "end": 595.0,
+            "text": " One element can be of red color,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 595.0,
+            "end": 596.0,
+            "text": " and its background can be yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " And the other element can be of red color"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 598.0,
+            "end": 599.0,
+            "text": " and its background can be yellow."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 599.0,
+            "end": 601.0,
+            "text": " So red class can also be applied to multiple elements."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 601.0,
+            "end": 603.0,
+            "text": " If you want, you can apply red class to a fake element."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 603.0,
+            "end": 605.0,
+            "text": " And in one element, you can also apply red class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 605.0,
+            "end": 607.0,
+            "text": " You can also apply yellow class."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 607.4,
+            "end": 609.4,
+            "text": " So I hope you understood."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 609.4,
+            "end": 611.4,
+            "text": " So that's all for this video."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 611.4,
+            "end": 613.4,
+            "text": " I was reading captions and I laughed."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 613.4,
+            "end": 615.4,
+            "text": " So I told him to download it from the village."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 615.4,
+            "end": 617.4,
+            "text": " And I laughed 5-10 times after hearing this."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 617.4,
+            "end": 619.4,
+            "text": " Very fast."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 619.4,
+            "end": 621.4,
+            "text": " I told him to access it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 621.4,
+            "end": 623.4,
+            "text": " So on this note,"
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 623.4,
+            "end": 625.4,
+            "text": " access the playlist."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 625.4,
+            "end": 627.4,
+            "text": " Also access GitHub."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 627.4,
+            "end": 629.4,
+            "text": " Like the video."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 629.4,
+            "end": 631.4,
+            "text": " And write hashtag SigmaBatchOP in the comment section."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 631.4,
+            "end": 633.4,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 633.4,
+            "end": 635.4,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 637.4,
+            "end": 639.4,
+            "text": " Thank you for watching it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 639.4,
+            "end": 641.4,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 641.4,
+            "end": 643.4,
+            "text": " Thank you for watching it."
+        },
+        {
+            "number": "Id & Classes in HTML  Sigma Web Development Course ",
+            "title": " Tutorial #9 - CodeWithHarry (144p, h264)",
+            "start": 643.4,
+            "end": 645.4,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " In this video, I will tell you what are ID and Classes? The concept of ID and Classes is one of the most confused concepts. In fact, when I was learning HTML, I was very confused in my early days. ID means Unique Identifier. That is, if you give an ID to an element, you will not give that ID to the other element. But class means that if you want to give a property to multiple elements, then you will give it multiple classes. For example, you can give a class named Red to a div and a form. Similarly, you can give a class named BGRed to an article tag and a header tag. Do like this video because we will now go to the computer screen and we will see these things very closely. Let's roll the intro. Alright guys, so I am back. And if you have not accessed the Sigma Web Development course, then access the playlist or click on the bookmark or click on save. And the source code is also being uploaded on GitHub. Now I will come here quickly in the folder and make a folder of video number 9. So I will make a folder of video 9 here. I will write here video 9. And after making a folder of video 9, I will right click and open with code. And here you can see that it has opened in BS code. Now I will write index.html here, I will enter with an exclamation mark. And along with that, I will tell you what are ID and classes. You must have an Aadhar card, right? If not, then you must have some ID. Now don't write in the comment that I don't have an ID. Whenever you go somewhere, you have to show your ID in some of the cases to prove your identity. That I am this. Now if you want to understand about ID and classes in HTML, then ID is what your identity is. Okay? What is it? It is your identity. So listen to a story here. This is John. Okay? And this is Harry. Okay? These two are very good friends. They are very good friends. They just don't share their lunch. And the rest are very good friends. Okay? In the matter of food, he is not the only one. And he is a friend in all other matters. Okay? And here you can see that this is John and Harry. Both of them have their own Aadhar ID. So this is my Aadhar number. And John's Aadhar number looks something like this. Okay? So this is John's Aadhar number. And this is my Aadhar number. Okay? Our Aadhar numbers can never be the same. Or if we assume that our friend is made. Assume my friend is made. Tanya and John's friend is made. Assume Shruti. Okay? So their Aadhar numbers will also be different. Okay? This is done. And this is Tanya's Aadhar number. Okay? This is Tanya's Aadhar number. Now, this Aadhar number will be different for every person. So John and Harry were friends. John's friend became Shruti. This is Tanya's Aadhar number. None of these four numbers are the same. These four Aadhar numbers. If I told you any of these Aadhar numbers. I said 35, 44, 5. You will understand that we are talking about Harry. And if I said, 54, 56, 56, 7. You will understand that we are talking about Shruti. And if I said, 34, 56, 85, 68, 63. So you will understand that we are talking about Tanya. So this Aadhar number uniquely identifies Tanya, Harry, Shruti, and John. So what is this? This is their Aadhar number. This is their ID. No one else will get this Aadhar number. Okay? Along with that, let's say John and Harry spent their childhood together. They both have big panties. And they studied in the same class. And the name of that class was Class 10th. Okay? Let's say they are in the 10th class. Okay? Let's assume. What is said in assuming? And let's assume Shruti is in class 9th. And Tanya is also in class 9th. Okay? So both are in class 9th. Okay? Tanya is also in class 9th. And Shruti is also in class 9th. So what is Shruti's class? It is 9th. Tanya's class can also be 9th. Shruti will not study alone in class. Or Harry will not study alone in class 10th. There are other kids in the class. So class means that there is Harry and John in one class. So can a class be multiple of one person? A class can be multiple of one person. Let's assume that Harry is in class 10th. And he goes to a tuition where this class is in 10A. Let's assume that there are classes in that tuition. So there can be more than one class. One is class 10th. And one is class 10A. And along with that, let's assume that Harry wears a red t-shirt. So his class is also red. Okay? So class means that there is no class to study. Class means that he has been classified in this class. Assume that. Now come here. Leave John, Harry, Shruti. Okay? Delete this. I will zoom out and delete it. Okay? There is no meaning of this here. Now come to index.html and understand this. Let's assume that I made a div here. Okay? And I gave its class as red. Okay? And I made a span. And I gave its class as red. Okay? The classes that I have given, can I give them to different elements or the same class? Yes, I can. But if I want to put an ID in any element. Let's assume that I have put its ID as first div. I can put anything in the ID. So I can't give this ID to any other element. Because this is its Aadhaar card. Even if it is the second div, I can't put it. Even then I will have to put something else in the ID. Okay? I have put the ID as second div. Okay? And here I write second. And here I will write first. Okay? So this concept of ID and classes, I personally understood it very late. When I was learning WebDolopment in my early days. No one told me that ID uniquely identifies an element. And the class can put multiple classes in one element. And can put the same class in multiple elements. Do you understand? Like if I gave it a red class, I can also give it a BG yellow class. Okay? BG yellow. I can give only one class. And if we give a class to any element multiple, we give it a space. Like if I want multiple classes to be put in this element, then what I will do? First I will write red here. Then I will put a space and write BG yellow. So in this way I can give multiple classes to the same element. Can I give multiple IDs to the same element? Have you ever heard of someone having two Aadhaar cards? Brother, someone has made it from here and there. I don't know brother. But there are no Aadhaar cards of Adality. Aadhaar number is one for one person. And Aadhaar numbers cannot be the same for different people. Okay? One person cannot have multiple. Different people cannot have the same. But the class, that is, if I say what color T-shirt do you wear? Or you can wear a red T-shirt, five people can wear it. No problem. You will get it if you go on the road. And let's say you get those who like mango, those who like banana, or those who like grapes, multiple people will get it. So assume that they are in the banana class. Or they are in the grapes class. Okay? In the mango class. So we can classify in one class. And we can give different elements to the same class. So I hope you understood this. Now I will write some CSS here. And don't say that you are not reading CSS. What I am writing in CSS now, you can think that I am writing some alien language. Okay? In style.css. But I am trying to make a point. I will click here. And here the preview is looking like this. First and second. I will show you one thing. First, how do we target the class in CSS? We do it by dot. Dot red means red class. And hash first div means, hash means ID, dot means class. Okay? If I say that the first div, make its background color red. Okay? So by making the background color red of the first div, its background color will be red. Okay? These are the selectors in CSS. And now I don't want to confuse you at all. And I can comment like this in CSS. Okay? But we will read all these things later. Now what I will do by dotting red, I will write background color red here. And along with that, what will I do in dot bg yellow? Dot bg yellow will be mine. I have to put a dot. Dot means class. It means class bg yellow. Now I will make the background color yellow. Sorry, I will make it color red. I will not make the background color red. Dot red means its color should be red. See, its color is red. And the background color is yellow. So this way you can use IDN classes in CSS. I hope you understood this. Now one thing to note here is very important. That the IDN classes are attributes of the element. This is ID attribute. And this is class attribute. So if I say what are ID classes? Are they elements or not? They are attributes of elements. Now there is another use of ID. I will tell you what is another use of ID. If I take you to Wikipedia and I write coding. So this page of Wikipedia has come. Let's say I go to some other page, to some big page. So you see that when you go to any page on Wikipedia, then what you can do is you can take the link of that particular place. I will show you how this happens. I go to some other page. I scroll down. And here I will inspect and see its ID. Its ID is this. So I will copy its ID. And if I put here hashtag and this ID. Now if I hit enter, it will bring me here directly. In ICDA 8. So you see if I put it in incognito too. It will scroll me and show that particular ID. You see it has scrolled and instead of showing me this, it has scrolled and shown me. Because it wants to bring me to this ID. So ID also works in linking. Remember this too. Very few people will tell you that you can generate links too. If you put hashtag and write ID in front of any link, then when you open that link, it will focus that ID. Like it is giving me in this case. You can see that as I am hitting enter, so maybe I have done the wrong ID here. But you got the point. You got the point. Here 29.29. And if I hit enter, then you see I have come down. If I open incognito tab or reload it, then you see I have come down. If I scroll it up, and after that I open a new tab, and if I do this, then it is bringing me to the page where this ID is. So I hope you understood ID and classes through this video. ID means like Aadhar card, class means a person's property. Like he likes red, or in which class he is. One element can be given multiple classes. One element can be of red color, and its background can be yellow. And the other element can be of red color and its background can be yellow. So red class can also be applied to multiple elements. If you want, you can apply red class to a fake element. And in one element, you can also apply red class. You can also apply yellow class. So I hope you understood. So that's all for this video. I was reading captions and I laughed. So I told him to download it from the village. And I laughed 5-10 times after hearing this. Very fast. I told him to access it. So on this note, access the playlist. Also access GitHub. Like the video. And write hashtag SigmaBatchOP in the comment section. Thank you so much for watching this video. And I will see you next time. Thank you for watching it. And I will see you next time. Thank you for watching it. And I will see you next time."
+}

@@ -1,0 +1,4009 @@
+{
+    "chunks": [
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 0.0,
+            "end": 3.2,
+            "text": " In today's video, I will tell you about heading and paragraphs."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 3.2,
+            "end": 6.36,
+            "text": " Along with that, I will also tell you about anchor text."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 6.36,
+            "end": 8.32,
+            "text": " If you have found this course awesome till now,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 8.32,
+            "end": 9.84,
+            "text": " then do like this video."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 9.84,
+            "end": 12.280000000000001,
+            "text": " Your likes will help me in getting such free courses."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 12.280000000000001,
+            "end": 15.6,
+            "text": " In this video, we will make a small project which will be a bookmark website."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 15.6,
+            "end": 20.240000000000002,
+            "text": " This bookmark website will help you in getting all your favorite websites in one place."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 20.240000000000002,
+            "end": 22.080000000000002,
+            "text": " And you will be able to use it in actual."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 22.080000000000002,
+            "end": 23.44,
+            "text": " So let's start quickly."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 23.44,
+            "end": 26.400000000000002,
+            "text": " Write down in the comment quickly, Sigma Batch OP."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 26.400000000000002,
+            "end": 27.84,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 30.0,
+            "end": 40.4,
+            "text": " So guys, as you can see, I have come inside my computer screen."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 40.4,
+            "end": 43.84,
+            "text": " And if you have not accessed the playlist yet, then you can access it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 43.84,
+            "end": 47.760000000000005,
+            "text": " One more thing I want to tell you is that if you go to GitHub.com"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 47.760000000000005,
+            "end": 52.8,
+            "text": " slash code with Ari, you will get the GitHub repo of the Sigma Web Dev course."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 52.8,
+            "end": 55.84,
+            "text": " Now I have made folders for all the videos in it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 55.84,
+            "end": 57.68,
+            "text": " And the commit is also made according to different folders."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 57.68,
+            "end": 58.64,
+            "text": " So you will get it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 58.64,
+            "end": 62.0,
+            "text": " You must access it so that you get the source code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 62.0,
+            "end": 64.4,
+            "text": " I will also put the source code of the video in the description."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 64.4,
+            "end": 65.92,
+            "text": " So there is nothing to worry about."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 65.92,
+            "end": 69.36,
+            "text": " Now we will make a very basic website today."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 69.36,
+            "end": 73.36,
+            "text": " But it will be very important for us because it will be our first useful website."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 73.36,
+            "end": 78.88,
+            "text": " So without taking much time, I will make a new folder in this folder of Sigma Web Dev."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 78.88,
+            "end": 82.0,
+            "text": " And I will name it video 4 because it is our fourth video."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " So I will make it with the name video 4."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 84.0,
+            "end": 88.56,
+            "text": " By right-clicking, I will click on Open with Code so that this folder opens in our VS Code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 88.56,
+            "end": 91.52,
+            "text": " After doing this, I will do what we have always done."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 91.52,
+            "end": 98.0,
+            "text": " index.html, main.css, style.css and script.js"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 98.0,
+            "end": 99.76,
+            "text": " We usually make these three files."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 99.76,
+            "end": 101.36,
+            "text": " If I write CSS, I will put it here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 101.36,
+            "end": 102.8,
+            "text": " If I write script, I will put it here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 102.8,
+            "end": 107.76,
+            "text": " But for now, I will write exclamation mark here and write it in the document."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 107.76,
+            "end": 109.52000000000001,
+            "text": " My bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 109.52000000000001,
+            "end": 111.6,
+            "text": " Okay, so we are going to make a bookmark website."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 111.6,
+            "end": 113.52000000000001,
+            "text": " And I will write code with Ari here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 113.52000000000001,
+            "end": 115.76,
+            "text": " So you must have seen such titles."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 115.76,
+            "end": 117.52000000000001,
+            "text": " Now I will write h1 here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 117.52,
+            "end": 118.8,
+            "text": " Now what happens with h1?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 118.8,
+            "end": 122.08,
+            "text": " You can put a heading in your web page with h1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 122.08,
+            "end": 123.52,
+            "text": " We talked about the basic structure."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 123.52,
+            "end": 125.52,
+            "text": " We said that it tells that this is an HTML page."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 125.52,
+            "end": 127.28,
+            "text": " HTML lang is equal to en."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 127.28,
+            "end": 129.28,
+            "text": " Lang is an attribute and its value is en."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 129.28,
+            "end": 131.12,
+            "text": " That means the content of this page is in English."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 131.12,
+            "end": 132.8,
+            "text": " It tells the search engines."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 132.8,
+            "end": 135.76,
+            "text": " Or if anyone is sitting with the link of this web page,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 135.76,
+            "end": 137.51999999999998,
+            "text": " then he will know that this web page is in English."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 137.51999999999998,
+            "end": 140.0,
+            "text": " Accordingly, he can parse this web page."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 140.0,
+            "end": 143.92,
+            "text": " The browser will also know that your web page is in English."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 144.0,
+            "end": 146.48,
+            "text": " Now here is the head in which the metadata,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 146.48,
+            "end": 149.6,
+            "text": " which title of the page, which CSS is linked."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 149.6,
+            "end": 150.95999999999998,
+            "text": " All these things are information."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 150.95999999999998,
+            "end": 152.64,
+            "text": " The main content is inside the body."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 152.64,
+            "end": 155.11999999999998,
+            "text": " Now there is a tag inside the body to put a heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 155.11999999999998,
+            "end": 156.07999999999998,
+            "text": " Its name is h1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 156.07999999999998,
+            "end": 157.83999999999997,
+            "text": " And I am going to write my bookmarks on it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 157.83999999999997,
+            "end": 159.76,
+            "text": " So if I write my bookmarks here,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 159.76,
+            "end": 161.67999999999998,
+            "text": " then we will write it with h1 tag."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 161.67999999999998,
+            "end": 164.07999999999998,
+            "text": " And if I want to do it live here,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 164.07999999999998,
+            "end": 168.23999999999998,
+            "text": " I will click here and then I will open it in the browser."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 168.23999999999998,
+            "end": 170.39999999999998,
+            "text": " So see how my bookmarks are visible."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 170.39999999999998,
+            "end": 172.88,
+            "text": " Now why should we always use h1?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 172.88,
+            "end": 174.56,
+            "text": " Why didn't I write my bookmark directly?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 174.56,
+            "end": 177.35999999999999,
+            "text": " Because I am telling the browser that this is my heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 177.35999999999999,
+            "end": 178.96,
+            "text": " And this is my first level heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 178.96,
+            "end": 182.88,
+            "text": " Now let's say I want to put two types of bookmarks in my bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 182.88,
+            "end": 184.88,
+            "text": " One main bookmark and one secondary bookmark."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 184.88,
+            "end": 187.44,
+            "text": " So I will use h2, that is, the second level heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 187.44,
+            "end": 188.4,
+            "text": " So I will write here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 188.4,
+            "end": 189.76,
+            "text": " If you have used Microsoft Word,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 189.76,
+            "end": 191.6,
+            "text": " then you will know what h1 and h2 are."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 191.6,
+            "end": 193.12,
+            "text": " But if you don't know, then I will tell you."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 193.12,
+            "end": 194.64,
+            "text": " h1 is your main level heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 194.64,
+            "end": 198.07999999999998,
+            "text": " And after that, the second level heading is from h2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 198.07999999999998,
+            "end": 201.68,
+            "text": " Let's say I say main bookmarks and secondary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 201.68,
+            "end": 202.96,
+            "text": " Let's say I do something like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 202.96,
+            "end": 208.72,
+            "text": " And here I will press the Alt, Shift and Down arrow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 208.72,
+            "end": 210.0,
+            "text": " Let me do one thing."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 210.0,
+            "end": 211.52,
+            "text": " Why don't I turn on screencast mode?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 211.52,
+            "end": 214.72,
+            "text": " So what I did here is press the Alt, Shift and Down arrow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 214.72,
+            "end": 215.6,
+            "text": " So this is replicated."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 215.6,
+            "end": 216.8,
+            "text": " This is a shortcut for VS Code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 216.8,
+            "end": 218.8,
+            "text": " I would like to tell you another shortcut for VS Code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 218.8,
+            "end": 220.8,
+            "text": " If you press Alt on your keyboard,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 220.8,
+            "end": 223.20000000000002,
+            "text": " and then wherever you click, there will be a cursor."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 223.20000000000002,
+            "end": 224.8,
+            "text": " Let's say I click here,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 224.8,
+            "end": 226.0,
+            "text": " then only one cursor will come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 226.0,
+            "end": 229.20000000000002,
+            "text": " But by pressing Alt, if I click somewhere else,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 229.20000000000002,
+            "end": 230.4,
+            "text": " then the cursor will keep coming there."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 230.4,
+            "end": 233.36,
+            "text": " Let's say I want to do bookmarks code with Harry."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 233.36,
+            "end": 235.36,
+            "text": " So my bookmarks dash code with Harry."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 236.64000000000001,
+            "end": 237.68,
+            "text": " I can write something like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 237.68,
+            "end": 238.48000000000002,
+            "text": " How did I do this?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 238.48000000000002,
+            "end": 240.32,
+            "text": " I clicked here, then I pressed Alt."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 240.32,
+            "end": 242.48000000000002,
+            "text": " And wherever I click by pressing Alt,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 242.48000000000002,
+            "end": 244.48000000000002,
+            "text": " I will get multiple cursors there."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 244.48000000000002,
+            "end": 247.6,
+            "text": " Then whatever I type will come in multiple cursors."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 247.6,
+            "end": 248.8,
+            "text": " Wherever there are cursors,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 248.8,
+            "end": 250.88,
+            "text": " whatever I type there, it will be visible."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 250.88,
+            "end": 251.84,
+            "text": " Isn't it fun?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 251.84,
+            "end": 253.04000000000002,
+            "text": " Like it on this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 253.04000000000002,
+            "end": 255.52,
+            "text": " So I will remove it here in this way."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 255.52,
+            "end": 256.88,
+            "text": " And you guys see, it will be updated."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 256.88,
+            "end": 258.24,
+            "text": " So this is my main heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 258.24,
+            "end": 259.28000000000003,
+            "text": " This is my h2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 259.28,
+            "end": 262.4,
+            "text": " Similarly, we have heading from h1 to h2 to h6."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 262.4,
+            "end": 264.23999999999995,
+            "text": " Like suppose you gave a main heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 264.23999999999995,
+            "end": 266.55999999999995,
+            "text": " After the main heading, you gave a secondary heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 266.55999999999995,
+            "end": 269.11999999999995,
+            "text": " Then after that, you had to give some heading inside it too."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 269.11999999999995,
+            "end": 269.76,
+            "text": " And so on."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 269.76,
+            "end": 271.44,
+            "text": " You had to give a lot of subheadings."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 271.44,
+            "end": 273.59999999999997,
+            "text": " Then you can give heading up to h6."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 273.59999999999997,
+            "end": 275.03999999999996,
+            "text": " h6 is more than enough."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 275.03999999999996,
+            "end": 277.52,
+            "text": " In HTML, headings have been put up to h6."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 277.52,
+            "end": 279.76,
+            "text": " You will never need h7."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 279.76,
+            "end": 281.52,
+            "text": " If we talk about practical life."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 281.52,
+            "end": 283.91999999999996,
+            "text": " And if you have to, you can use h6 repeatedly."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 283.91999999999996,
+            "end": 286.0,
+            "text": " Because it gets so small after h1,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 286.0,
+            "end": 288.23999999999995,
+            "text": " that h6 will become very small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 288.24,
+            "end": 290.24,
+            "text": " So you don't want it to be so small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 290.24,
+            "end": 291.28000000000003,
+            "text": " Now what I will do here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 291.28000000000003,
+            "end": 294.64,
+            "text": " I will replicate it with Alt Shift Down Arrow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 294.64,
+            "end": 295.76,
+            "text": " And I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 295.76,
+            "end": 296.56,
+            "text": " I will press Alt."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 296.56,
+            "end": 298.56,
+            "text": " I am telling you all these shortcuts."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 298.56,
+            "end": 300.40000000000003,
+            "text": " So that your productivity increases."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 300.40000000000003,
+            "end": 302.96000000000004,
+            "text": " Now I have put two cursors here and here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 302.96000000000004,
+            "end": 304.72,
+            "text": " I will press backspace and make it h3."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 304.72,
+            "end": 305.76,
+            "text": " Then I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 305.76,
+            "end": 306.40000000000003,
+            "text": " I will press Alt."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 306.40000000000003,
+            "end": 307.04,
+            "text": " I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 307.04,
+            "end": 308.08,
+            "text": " I will make it h4."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 308.08,
+            "end": 308.96000000000004,
+            "text": " Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 308.96000000000004,
+            "end": 310.32,
+            "text": " And I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 310.32,
+            "end": 311.12,
+            "text": " I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 311.12,
+            "end": 312.48,
+            "text": " I will make it h5."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 312.48,
+            "end": 313.04,
+            "text": " Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 313.04,
+            "end": 314.40000000000003,
+            "text": " After that, I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 314.40000000000003,
+            "end": 315.52,
+            "text": " I will click here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 315.52,
+            "end": 316.88,
+            "text": " I will make it h6 here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 316.88,
+            "end": 318.08,
+            "text": " So it is up to h6."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 318.08,
+            "end": 318.96,
+            "text": " Now what I will do."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 318.96,
+            "end": 320.24,
+            "text": " I will write here using h1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 320.24,
+            "end": 321.28,
+            "text": " So that you can understand."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 321.28,
+            "end": 323.28,
+            "text": " And I will write using here at least."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 323.28,
+            "end": 324.32,
+            "text": " I will press space."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 324.32,
+            "end": 325.44,
+            "text": " I will write using."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 325.44,
+            "end": 326.47999999999996,
+            "text": " I will write h."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 326.47999999999996,
+            "end": 327.84,
+            "text": " And now my work is left."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 327.84,
+            "end": 331.59999999999997,
+            "text": " I will click here and write 2, 3, 4, 5 and 6."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 331.59999999999997,
+            "end": 332.96,
+            "text": " And you can see that it is looking like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 332.96,
+            "end": 334.79999999999995,
+            "text": " So you know that h1 is like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 334.79999999999995,
+            "end": 335.52,
+            "text": " h2 is like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 335.52,
+            "end": 336.4,
+            "text": " h3 is so small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 336.4,
+            "end": 337.2,
+            "text": " h4 is so small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 337.2,
+            "end": 338.08,
+            "text": " h5 is so small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 338.08,
+            "end": 339.44,
+            "text": " h6 is so small."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 339.44,
+            "end": 341.03999999999996,
+            "text": " And what will happen if h6 is smaller than h1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 341.03999999999996,
+            "end": 342.88,
+            "text": " It will end at some point."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 342.88,
+            "end": 344.71999999999997,
+            "text": " So h6 is more than enough."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 344.71999999999997,
+            "end": 347.84,
+            "text": " So I will show you a practical demonstration of this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 347.84,
+            "end": 349.44,
+            "text": " For example, this is my html tutorial."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 349.44,
+            "end": 350.64,
+            "text": " So here I have given the main heading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 350.64,
+            "end": 351.52,
+            "text": " html introduction."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 351.52,
+            "end": 353.28,
+            "text": " After this I have given here what is html."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 353.28,
+            "end": 354.64,
+            "text": " Then I have given features of html."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 354.64,
+            "end": 356.32,
+            "text": " I gave this from h1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 356.32,
+            "end": 357.59999999999997,
+            "text": " I gave this from h2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 357.59999999999997,
+            "end": 361.03999999999996,
+            "text": " I gave this from h3."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 361.03999999999996,
+            "end": 362.08,
+            "text": " I gave something from h2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 362.08,
+            "end": 365.12,
+            "text": " Like here the term was hypertext and markup language."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 365.12,
+            "end": 366.15999999999997,
+            "text": " This is heading 2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 366.15999999999997,
+            "end": 367.44,
+            "text": " What is the main heading page?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 367.44,
+            "end": 368.64,
+            "text": " html introduction."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 368.64,
+            "end": 370.4,
+            "text": " After this, this is subheading."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 370.4,
+            "end": 372.4,
+            "text": " I had to give a quick exercise in this too."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 372.4,
+            "end": 374.4,
+            "text": " So I used h3 in it too."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 374.4,
+            "end": 376.64,
+            "text": " Then it came back to h2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 376.64,
+            "end": 377.67999999999995,
+            "text": " Because it was inside this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 377.76,
+            "end": 382.32,
+            "text": " So in building the hierarchy, h1, h2, h3, h4, h5, h6 are used."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 382.32,
+            "end": 382.88,
+            "text": " Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 382.88,
+            "end": 384.56,
+            "text": " I hope you guys understood."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 384.56,
+            "end": 386.96,
+            "text": " Many people are commenting that you are starting too slow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 386.96,
+            "end": 387.92,
+            "text": " That's what we know."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 387.92,
+            "end": 390.72,
+            "text": " So I am making this course as a beginner course."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 390.72,
+            "end": 394.96000000000004,
+            "text": " When I tell you html, then you will say that it is very easy."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 394.96000000000004,
+            "end": 396.24,
+            "text": " Then I will tell you a little csl."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 396.24,
+            "end": 397.52,
+            "text": " You will say that yes, this also comes."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 397.52,
+            "end": 398.72,
+            "text": " Then I will say javascript."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 398.72,
+            "end": 400.72,
+            "text": " You will say yes, it comes a little."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 400.72,
+            "end": 401.68,
+            "text": " Then I will say bootstrap."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 401.68,
+            "end": 403.28000000000003,
+            "text": " Then you will say yes, this too."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 403.28000000000003,
+            "end": 404.8,
+            "text": " It will happen, there is a little problem."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 404.8,
+            "end": 405.68,
+            "text": " Then I will say react."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 405.68,
+            "end": 406.88,
+            "text": " You will say what is happening."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 406.88,
+            "end": 408.24,
+            "text": " Then assume note js."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 408.24,
+            "end": 408.88,
+            "text": " Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 408.88,
+            "end": 412.48,
+            "text": " Then after that, I take things to mongodb mysql."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 412.48,
+            "end": 416.48,
+            "text": " Then after that, the level will go so high."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 416.48,
+            "end": 418.48,
+            "text": " I said that we will raise the bar like anything."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 418.48,
+            "end": 419.44,
+            "text": " This is what I meant."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 419.44,
+            "end": 422.64,
+            "text": " So when we will do react, when I will make projects there,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 422.64,
+            "end": 423.84,
+            "text": " when we will do dangerous things,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 423.84,
+            "end": 426.08,
+            "text": " then I will ask for their comment below."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 426.08,
+            "end": 427.12,
+            "text": " You tell me what is the level."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 427.12,
+            "end": 427.68,
+            "text": " Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 427.68,
+            "end": 429.04,
+            "text": " So don't talk about the level."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 429.04,
+            "end": 430.8,
+            "text": " The level is going to rise very well."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 430.8,
+            "end": 432.08,
+            "text": " So these are our headings."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 432.08,
+            "end": 434.08,
+            "text": " 6 headings that I would like to keep like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 434.08,
+            "end": 436.08,
+            "text": " Now if we want to write a paragraph,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 436.08,
+            "end": 438.08,
+            "text": " then you can use p tag."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 438.08,
+            "end": 440.08,
+            "text": " If you hit p, this paragraph will come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 440.08,
+            "end": 442.08,
+            "text": " Now I will tell you a shortcut trick."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 442.08,
+            "end": 444.08,
+            "text": " If you want to bring a dummy paragraph in VS Code through Emmet,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 444.08,
+            "end": 446.08,
+            "text": " then what will you do?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 446.08,
+            "end": 448.08,
+            "text": " You will write lorem here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 448.08,
+            "end": 450.08,
+            "text": " Assume I wrote lorem 23."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 450.08,
+            "end": 452.08,
+            "text": " And see here, the emmet abbreviation has come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 452.08,
+            "end": 452.88,
+            "text": " It is of lorem 23."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 452.88,
+            "end": 454.08,
+            "text": " It will give me 23 words."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 454.08,
+            "end": 454.88,
+            "text": " Something like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 454.88,
+            "end": 456.88,
+            "text": " You can click on view and wrap the word."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 456.88,
+            "end": 458.88,
+            "text": " Then you will not get a horizontal scroll bar."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 458.88,
+            "end": 460.08,
+            "text": " So wrap this view word."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 460.08,
+            "end": 462.08,
+            "text": " Now see here, lorem, ipsum, dollar, set."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 462.08,
+            "end": 464.08,
+            "text": " Here, a dummy text has come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 464.08,
+            "end": 466.08,
+            "text": " Why do we want dummy text sometimes?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 466.08,
+            "end": 468.08,
+            "text": " Because we are making a template."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 468.08,
+            "end": 470.08,
+            "text": " And we have to fill that template with something."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 470.08,
+            "end": 472.08,
+            "text": " Assume you are making a website"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 472.08,
+            "end": 474.08,
+            "text": " which looks like OYO rooms."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 474.08,
+            "end": 476.08,
+            "text": " Now here, OYO, become a member,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 476.08,
+            "end": 478.08,
+            "text": " OYO for business,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 478.08,
+            "end": 480.08,
+            "text": " Assume I don't have to write all this here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 480.08,
+            "end": 482.08,
+            "text": " I have written lorem here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 482.08,
+            "end": 484.08,
+            "text": " Now I have to write something here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 484.08,
+            "end": 486.08,
+            "text": " Assume I have to write lorem here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 486.08,
+            "end": 488.08,
+            "text": " I will write lorem 7 and hit enter."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 488.08,
+            "end": 490.08,
+            "text": " Then I will give it to OYO people."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 490.08,
+            "end": 492.08,
+            "text": " They will do whatever they want to write."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 492.08,
+            "end": 494.08,
+            "text": " You use it to fill this folder."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 494.08,
+            "end": 496.08,
+            "text": " My plan is that we will make popular"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 496.08,
+            "end": 498.08,
+            "text": " website clones so that you"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 498.08,
+            "end": 500.08,
+            "text": " will know how things work."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 500.08,
+            "end": 502.08,
+            "text": " This is also a very popular website."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 502.08,
+            "end": 504.08,
+            "text": " If you have used their services,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 504.08,
+            "end": 506.08,
+            "text": " then do tell us in the comment section below."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 506.08,
+            "end": 508.08,
+            "text": " Now we will see more things like"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 508.08,
+            "end": 510.08,
+            "text": " here is paragraph,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 510.08,
+            "end": 512.0799999999999,
+            "text": " how to style it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 512.0799999999999,
+            "end": 514.0799999999999,
+            "text": " All these things are done through CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 514.0799999999999,
+            "end": 516.0799999999999,
+            "text": " Now see here in paragraph,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 516.0799999999999,
+            "end": 518.0799999999999,
+            "text": " when I wrote lorem 23, so much text came."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 518.0799999999999,
+            "end": 520.0799999999999,
+            "text": " Now I will hit p enter here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 520.08,
+            "end": 522.08,
+            "text": " If I write lorem 10 here,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 522.08,
+            "end": 524.08,
+            "text": " only 10 words will come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 524.08,
+            "end": 526.08,
+            "text": " If I want to write lorem 100,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 526.08,
+            "end": 528.08,
+            "text": " my page will be filled a lot."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 528.08,
+            "end": 530.08,
+            "text": " So this lorem trick is very good."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 530.08,
+            "end": 532.08,
+            "text": " You will enjoy it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 532.08,
+            "end": 534.08,
+            "text": " Whenever we make a popular website clone,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 534.08,
+            "end": 536.08,
+            "text": " Assume I make a clone of Amazon.in."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 536.08,
+            "end": 538.08,
+            "text": " Assume I make a clone of Amazon.in."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 538.08,
+            "end": 540.08,
+            "text": " Assume I have to write something here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 540.08,
+            "end": 542.08,
+            "text": " Now I can't see so much text here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 542.08,
+            "end": 544.08,
+            "text": " Assume I have to write 3 words here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 544.08,
+            "end": 546.08,
+            "text": " I will write lorem 3."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 546.08,
+            "end": 548.08,
+            "text": " I will not think about makeup products."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 548.08,
+            "end": 550.08,
+            "text": " I will write lorem 2."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 550.08,
+            "end": 552.08,
+            "text": " I will make a template and get ready."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 552.08,
+            "end": 554.08,
+            "text": " Then whatever is there,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 554.08,
+            "end": 556.08,
+            "text": " it will come in my database."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 556.08,
+            "end": 558.08,
+            "text": " I can bring my text in a different way."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 558.08,
+            "end": 560.08,
+            "text": " Many people asked if this course"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 560.08,
+            "end": 562.08,
+            "text": " will be job ready."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 562.08,
+            "end": 564.08,
+            "text": " The answer is yes,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 564.08,
+            "end": 566.08,
+            "text": " this course is going to be job ready."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 566.08,
+            "end": 568.08,
+            "text": " Absolutely, I will make you so that"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 568.08,
+            "end": 570.08,
+            "text": " you can do industry level jobs"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 570.08,
+            "end": 572.08,
+            "text": " through the learning of this course."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 572.08,
+            "end": 574.08,
+            "text": " Now let's talk about the attributes"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 574.08,
+            "end": 576.08,
+            "text": " in HTML."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 576.08,
+            "end": 578.08,
+            "text": " We have not used any attribute in the body."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 578.08,
+            "end": 580.08,
+            "text": " We have not used any attribute in H1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 580.08,
+            "end": 582.08,
+            "text": " We have not used any attribute in P."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 582.08,
+            "end": 584.08,
+            "text": " But I can use a style attribute in P."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 584.08,
+            "end": 586.08,
+            "text": " Which is also called inline CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 586.08,
+            "end": 588.08,
+            "text": " If I make the background color red here,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 588.08,
+            "end": 590.08,
+            "text": " like this,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 590.08,
+            "end": 592.08,
+            "text": " then its background color will be red."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 592.08,
+            "end": 594.08,
+            "text": " This is also called inline CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 594.08,
+            "end": 596.08,
+            "text": " Through style attribute,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 596.08,
+            "end": 598.08,
+            "text": " if you put style is equal to CSS,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 598.08,
+            "end": 600.08,
+            "text": " first we learned to put CSS here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 600.08,
+            "end": 602.08,
+            "text": " But if you put style is equal to,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 602.08,
+            "end": 604.08,
+            "text": " then you will get this background red here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 604.08,
+            "end": 606.08,
+            "text": " Let me show you, you got this background red."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 606.08,
+            "end": 608.08,
+            "text": " Okay, I will make this teal."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 608.08,
+            "end": 610.08,
+            "text": " Or I will do this, this color is looking good."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 610.08,
+            "end": 612.08,
+            "text": " So I can also put style inline."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 612.08,
+            "end": 614.08,
+            "text": " But when you make industry level websites,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 614.08,
+            "end": 616.08,
+            "text": " we use inline styles very little."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 616.08,
+            "end": 618.08,
+            "text": " Because the maintainability decreases,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 618.08,
+            "end": 620.08,
+            "text": " the reusability decreases."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 620.08,
+            "end": 622.08,
+            "text": " So we want to ship a small bundle on the browser."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 622.08,
+            "end": 624.08,
+            "text": " And our website is more and more optimized."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 624.08,
+            "end": 626.08,
+            "text": " So we avoid all these things."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 626.08,
+            "end": 628.08,
+            "text": " But inline CSS has a style tag."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 628.08,
+            "end": 630.08,
+            "text": " But here style is an attribute."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 630.08,
+            "end": 632.08,
+            "text": " P is a tag."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 632.08,
+            "end": 634.08,
+            "text": " P tag has an attribute style"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 634.08,
+            "end": 636.08,
+            "text": " through which we can style this element."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 636.08,
+            "end": 638.08,
+            "text": " We will also learn about many other attributes."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 638.08,
+            "end": 640.08,
+            "text": " Attributes basically give an element"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 640.08,
+            "end": 642.08,
+            "text": " enhanced functionality."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 642.08,
+            "end": 644.08,
+            "text": " Like we gave a style to this paragraph."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 644.08,
+            "end": 646.08,
+            "text": " Which was background color thistle."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 646.08,
+            "end": 648.08,
+            "text": " To give this background color,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 648.08,
+            "end": 650.08,
+            "text": " we used style attribute."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 650.08,
+            "end": 652.08,
+            "text": " In the same way,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 652.08,
+            "end": 654.08,
+            "text": " to give properties to any tag,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 654.08,
+            "end": 656.08,
+            "text": " to any element,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 656.08,
+            "end": 658.08,
+            "text": " we use this kind of attributes."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 658.08,
+            "end": 660.08,
+            "text": " Like if we talk,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 660.08,
+            "end": 662.08,
+            "text": " we talked about link,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 662.08,
+            "end": 664.08,
+            "text": " link colon CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 664.08,
+            "end": 666.08,
+            "text": " Link has a relic attribute,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 666.08,
+            "end": 668.08,
+            "text": " href attribute."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 668.08,
+            "end": 670.08,
+            "text": " So what we can do with this attribute,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 670.08,
+            "end": 672.08,
+            "text": " we can put this CSS style sheet."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 672.08,
+            "end": 674.08,
+            "text": " Like let's say background,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 674.08,
+            "end": 676.08,
+            "text": " background color,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 676.08,
+            "end": 678.08,
+            "text": " I say body first."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 678.08,
+            "end": 680.08,
+            "text": " What do we need in the body?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 680.08,
+            "end": 682.08,
+            "text": " And you don't have to worry about it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 682.08,
+            "end": 684.08,
+            "text": " Don't worry about how this is happening."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 684.08,
+            "end": 686.08,
+            "text": " Because all this will be told in CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 686.08,
+            "end": 688.08,
+            "text": " But I am just telling you that I do hot pink."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 688.08,
+            "end": 690.08,
+            "text": " Listen to another functionality of VS Code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 690.08,
+            "end": 692.08,
+            "text": " This ninja technique will be very useful."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 692.08,
+            "end": 694.08,
+            "text": " Here hover the mouse."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 694.08,
+            "end": 696.08,
+            "text": " And here you can choose"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 696.08,
+            "end": 698.08,
+            "text": " any color you want."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 698.08,
+            "end": 700.08,
+            "text": " Like I leave it and do this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 700.08,
+            "end": 702.08,
+            "text": " So you see here the background color of my body"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 702.08,
+            "end": 704.08,
+            "text": " has become this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 704.08,
+            "end": 706.08,
+            "text": " How did you like the ninja technique?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 706.08,
+            "end": 708.08,
+            "text": " Write in the comment."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 708.08,
+            "end": 710.08,
+            "text": " Now here we have come back to index.html."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 710.08,
+            "end": 712.08,
+            "text": " I can remove it if I want."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 712.08,
+            "end": 714.08,
+            "text": " If I comment it out,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 714.08,
+            "end": 716.08,
+            "text": " then this style sheet will not be there."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 716.08,
+            "end": 718.08,
+            "text": " This background color was coming from this style sheet."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 718.08,
+            "end": 720.08,
+            "text": " It was coming from inline CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 720.08,
+            "end": 722.08,
+            "text": " So it didn't move."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 722.08,
+            "end": 724.08,
+            "text": " Which is very natural."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 724.08,
+            "end": 726.08,
+            "text": " Here I did this style is equal to background color."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 726.08,
+            "end": 728.08,
+            "text": " Because of which its background color"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 728.08,
+            "end": 730.08,
+            "text": " was visible."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 730.08,
+            "end": 732.08,
+            "text": " Now we are going to make a bookmark."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 732.08,
+            "end": 734.08,
+            "text": " We are going to make a bookmark manager."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 734.08,
+            "end": 736.08,
+            "text": " bookmarkmanager.html"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 736.08,
+            "end": 738.08,
+            "text": " And I am making it a separate file because"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 738.08,
+            "end": 740.08,
+            "text": " I have told you different types of headings here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 740.08,
+            "end": 742.08,
+            "text": " I am going to make a useful bookmark manager."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 742.08,
+            "end": 744.08,
+            "text": " So I will write here"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 744.08,
+            "end": 746.08,
+            "text": " bookmark manager"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 746.08,
+            "end": 748.08,
+            "text": " Now you will say that in Chrome"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 748.08,
+            "end": 750.08,
+            "text": " there is bookmark manager. Why are you making it?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 750.08,
+            "end": 752.08,
+            "text": " This is made by us."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 752.08,
+            "end": 754.08,
+            "text": " This will be our child. We have made it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 754.08,
+            "end": 756.08,
+            "text": " So you will have a different love for it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 756.08,
+            "end": 758.08,
+            "text": " Because you have made it yourself."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 758.08,
+            "end": 760.08,
+            "text": " Someone made a software."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 760.08,
+            "end": 762.08,
+            "text": " You bought it from somewhere. You made a software yourself."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 762.08,
+            "end": 764.08,
+            "text": " So the software you made yourself is different."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 764.08,
+            "end": 766.08,
+            "text": " Now here you can see"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 766.08,
+            "end": 768.08,
+            "text": " bookmark manager code is written here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 768.08,
+            "end": 770.08,
+            "text": " I will write h1 and write my bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 770.08,
+            "end": 772.08,
+            "text": " I wrote my bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 772.08,
+            "end": 774.08,
+            "text": " Now I will write h2"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 774.08,
+            "end": 776.08,
+            "text": " I will write primary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 776.08,
+            "end": 778.08,
+            "text": " And after this I will write"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 778.08,
+            "end": 780.08,
+            "text": " secondary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 780.08,
+            "end": 782.08,
+            "text": " In fact, if I do Alt Shift"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 782.08,
+            "end": 784.08,
+            "text": " and write"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 784.08,
+            "end": 786.08,
+            "text": " secondary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 786.08,
+            "end": 788.08,
+            "text": " So what will happen? I can put secondary bookmarks here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 788.08,
+            "end": 790.08,
+            "text": " Now what I will do is"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 790.08,
+            "end": 792.08,
+            "text": " I will write google in a paragraph."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 792.08,
+            "end": 794.08,
+            "text": " I will write it like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 794.08,
+            "end": 796.08,
+            "text": " We will write it from the list."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 796.08,
+            "end": 798.08,
+            "text": " But in the coming videos, I will tell you"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 798.08,
+            "end": 800.08,
+            "text": " how to use the list."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 800.08,
+            "end": 802.08,
+            "text": " Let's say I write"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 802.08,
+            "end": 804.08,
+            "text": " google here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 804.08,
+            "end": 806.08,
+            "text": " And I will use anchor tag."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 806.08,
+            "end": 808.08,
+            "text": " So as soon as I enter in A,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 808.08,
+            "end": 810.08,
+            "text": " A has a mandatory attribute"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 810.08,
+            "end": 812.08,
+            "text": " href. href means by clicking"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 812.08,
+            "end": 814.08,
+            "text": " which link it should go to."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 814.08,
+            "end": 816.08,
+            "text": " So I will write href is equal to"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 816.08,
+            "end": 818.08,
+            "text": " https://www.google.com"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 818.08,
+            "end": 820.08,
+            "text": " It will be entered at this address whenever"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 820.08,
+            "end": 822.08,
+            "text": " someone clicks on open google."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 822.08,
+            "end": 824.08,
+            "text": " And I will cut open google and put it here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 824.08,
+            "end": 826.08,
+            "text": " That is, the content of the stack will be like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 826.08,
+            "end": 828.08,
+            "text": " And here you can see"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 828.08,
+            "end": 830.08,
+            "text": " href is equal to this. Open google has come."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 830.08,
+            "end": 832.08,
+            "text": " This is called anchor tag which helps us"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 832.08,
+            "end": 834.08,
+            "text": " to make links. You must have seen"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 834.08,
+            "end": 836.08,
+            "text": " many such links. Now you see here"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 836.08,
+            "end": 838.08,
+            "text": " that as soon as I"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 838.08,
+            "end": 840.08,
+            "text": " go to bookmark manager"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 840.08,
+            "end": 842.08,
+            "text": " .html, you can see"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 842.08,
+            "end": 844.08,
+            "text": " here that you are getting all the bookmarks"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 844.08,
+            "end": 846.08,
+            "text": " like this. Open google."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 846.08,
+            "end": 848.08,
+            "text": " Now if I click on it, google will open. You can see."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 848.08,
+            "end": 850.08,
+            "text": " Now you noticed one thing. When I did not click on it,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 850.08,
+            "end": 852.08,
+            "text": " then its color was blue. Now I visited it"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 852.08,
+            "end": 854.08,
+            "text": " so its color has changed. So its color changes"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 854.08,
+            "end": 856.08,
+            "text": " when you visit it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 856.08,
+            "end": 858.08,
+            "text": " It has been converted into a visited link."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 858.08,
+            "end": 860.08,
+            "text": " So I know that I have visited it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 860.08,
+            "end": 862.08,
+            "text": " Now I tell you one more thing."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 862.08,
+            "end": 864.08,
+            "text": " Here if we want it to open"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 864.08,
+            "end": 866.08,
+            "text": " in the new tab, like I am clicking on it,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 866.08,
+            "end": 868.08,
+            "text": " then it is opening in the same tab. If you want to"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 868.08,
+            "end": 870.08,
+            "text": " open it in the new tab, then you have two ways."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 870.08,
+            "end": 872.08,
+            "text": " Either you can click on the wheel of your mouse"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 872.08,
+            "end": 874.08,
+            "text": " , this mouse wheel,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 874.08,
+            "end": 876.08,
+            "text": " you can click on it like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 876.08,
+            "end": 878.08,
+            "text": " Now I tell you another way that if you"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 878.08,
+            "end": 880.08,
+            "text": " want someone to click and open in the new tab,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 880.08,
+            "end": 882.08,
+            "text": " then you can use an attribute."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 882.08,
+            "end": 884.08,
+            "text": " You can write here that"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 884.08,
+            "end": 886.08,
+            "text": " target is equal to underscore"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 886.08,
+            "end": 888.08,
+            "text": " blank. And VS code gives you suggestions."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 888.08,
+            "end": 890.08,
+            "text": " So I wrote it by hitting two enters."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 890.08,
+            "end": 892.08,
+            "text": " If you write in notepad or in any other"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 892.08,
+            "end": 894.08,
+            "text": " cheap editor, then what happens to you?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 894.08,
+            "end": 896.08,
+            "text": " Means according to quality, cheap."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 896.08,
+            "end": 898.08,
+            "text": " Free is also VS code, but according to quality,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 898.08,
+            "end": 900.08,
+            "text": " if you use a cheap editor,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 900.08,
+            "end": 902.08,
+            "text": " then target is equal to underscore"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 902.08,
+            "end": 904.08,
+            "text": " blank. You will have to type it all. It is a little painful."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 904.08,
+            "end": 906.08,
+            "text": " But if you write it in any way"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 906.08,
+            "end": 908.08,
+            "text": " and what will happen now? Now I will click on it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 908.08,
+            "end": 910.08,
+            "text": " I am clicking. I am not clicking the mouse wheel. I am clicking."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 910.08,
+            "end": 912.08,
+            "text": " I will click. It came to the new tab. Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 912.08,
+            "end": 914.08,
+            "text": " Now I have written a very simple"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 914.08,
+            "end": 916.08,
+            "text": " open google. If you want,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 916.08,
+            "end": 918.08,
+            "text": " then your favorite website,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 918.08,
+            "end": 920.08,
+            "text": " whichever website is your favorite,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 920.08,
+            "end": 922.08,
+            "text": " you can put it here. Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 922.08,
+            "end": 924.08,
+            "text": " Good website. Friends, okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 924.08,
+            "end": 926.08,
+            "text": " Now I will write here open facebook"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 926.08,
+            "end": 928.08,
+            "text": " and here you see www.facebook.com"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 928.08,
+            "end": 930.08,
+            "text": " and let's say I write here"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 930.08,
+            "end": 932.08,
+            "text": " quora.com and code with harry.com"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 932.08,
+            "end": 934.08,
+            "text": " and after that we put it here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 934.08,
+            "end": 936.08,
+            "text": " Let's say which website should I put?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 936.08,
+            "end": 938.08,
+            "text": " Youtube.com."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 938.08,
+            "end": 940.08,
+            "text": " Let's see that this website"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 940.08,
+            "end": 942.08,
+            "text": " has come or not."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 942.08,
+            "end": 944.08,
+            "text": " You have seen one thing here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 944.08,
+            "end": 946.08,
+            "text": " It is coming in the same line. Okay."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 946.08,
+            "end": 948.08,
+            "text": " If you want it not to come in one line,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 948.08,
+            "end": 950.08,
+            "text": " then what will you do?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 950.08,
+            "end": 952.08,
+            "text": " You will put them in your paragraphs."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 952.08,
+            "end": 954.08,
+            "text": " This is a very dirty way."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 954.08,
+            "end": 956.08,
+            "text": " I will tell you why I am calling it a dirty way."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 956.08,
+            "end": 958.08,
+            "text": " But you enclose it in a paragraph."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 958.08,
+            "end": 960.08,
+            "text": " If you want and I will press shift"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 960.08,
+            "end": 962.08,
+            "text": " and press the right arrow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 962.08,
+            "end": 964.08,
+            "text": " I will do control x. Then after that"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 964.08,
+            "end": 966.08,
+            "text": " I will press the end key. All the cursors will go to the end."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 966.08,
+            "end": 968.08,
+            "text": " Because if you press the end key on a cursor,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 968.08,
+            "end": 970.08,
+            "text": " then they go to the end. And after that I will do control v."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 970.08,
+            "end": 972.08,
+            "text": " Now I have used this shortcut a lot."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 972.08,
+            "end": 974.08,
+            "text": " And many of you will be like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 974.08,
+            "end": 976.08,
+            "text": " What did you do? If you are a beginner."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 976.08,
+            "end": 978.08,
+            "text": " But what I simply did is"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 978.08,
+            "end": 980.08,
+            "text": " I used the functionality of VS Code."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 980.08,
+            "end": 982.08,
+            "text": " Multiple cursor functionality. I pressed alt"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 982.08,
+            "end": 984.08,
+            "text": " and brought multiple cursors. And after that I used it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 984.08,
+            "end": 986.08,
+            "text": " This is ideally not a good way."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 986.08,
+            "end": 988.08,
+            "text": " We never make a list by using paragraphs."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 988.08,
+            "end": 990.08,
+            "text": " We make it by using lists."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 990.08,
+            "end": 992.08,
+            "text": " But because we have not read the list, we are using paragraphs."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 992.08,
+            "end": 994.08,
+            "text": " But this will do our job."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 994.08,
+            "end": 996.08,
+            "text": " It will look something like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 996.08,
+            "end": 998.08,
+            "text": " We have not visited the page. See it is blue."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 998.08,
+            "end": 1000.08,
+            "text": " We visited Facebook. Its color also became purple."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1000.08,
+            "end": 1002.08,
+            "text": " We visited Quora. Its color also became purple."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1002.08,
+            "end": 1004.08,
+            "text": " So now these are your primary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1004.08,
+            "end": 1006.08,
+            "text": " What will be your secondary bookmarks?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1006.08,
+            "end": 1008.08,
+            "text": " We put two secondary bookmarks."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1008.08,
+            "end": 1010.08,
+            "text": " Suppose your secondary bookmarks are those that you visit sometimes."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1010.08,
+            "end": 1012.08,
+            "text": " Follow Wikipedia.com. Wikipedia.com"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1012.08,
+            "end": 1014.08,
+            "text": " has come here. And suppose"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1014.08,
+            "end": 1016.08,
+            "text": " Stackoverflow.com. We will write the spelling"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1016.08,
+            "end": 1018.08,
+            "text": " correctly. Stackoverflow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1018.08,
+            "end": 1020.08,
+            "text": " Let's capitalize Stackoverflow."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1020.08,
+            "end": 1022.08,
+            "text": " And now you see here"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1022.08,
+            "end": 1024.08,
+            "text": " in secondary bookmarks, your Wikipedia and Stackoverflow"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1024.08,
+            "end": 1026.08,
+            "text": " have come. So this has become your bookmark manager."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1026.08,
+            "end": 1028.08,
+            "text": " And you can make this bookmark manager even better."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1028.08,
+            "end": 1030.08,
+            "text": " We will learn styling from CSS."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1030.08,
+            "end": 1032.08,
+            "text": " So if you find this ugly, then don't"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1032.08,
+            "end": 1034.08,
+            "text": " worry. Don't say that this is very ugly."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1034.08,
+            "end": 1036.08,
+            "text": " Don't worry about that at all."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1036.08,
+            "end": 1038.08,
+            "text": " Because in the coming time, we will do styling,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1038.08,
+            "end": 1040.08,
+            "text": " we will do designing, we will talk about all those things."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1040.08,
+            "end": 1042.08,
+            "text": " For now, your bookmark looks something like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1042.08,
+            "end": 1044.08,
+            "text": " Bookmark manager code with Harry is your title."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1044.08,
+            "end": 1046.08,
+            "text": " And I also write it in H1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1046.08,
+            "end": 1048.08,
+            "text": " So both will be the same. Our title and H1."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1048.08,
+            "end": 1050.08,
+            "text": " That is, our title will also be the same."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1050.08,
+            "end": 1052.08,
+            "text": " My bookmarks code with Harry will also be written here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1052.08,
+            "end": 1054.08,
+            "text": " So this way you can make a bookmark manager."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1054.08,
+            "end": 1056.08,
+            "text": " You can actually use it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1056.08,
+            "end": 1058.08,
+            "text": " Now if you save it like this,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1058.08,
+            "end": 1060.08,
+            "text": " like my bookmark manager.html,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1060.08,
+            "end": 1062.08,
+            "text": " you can copy it and put it on your desktop if you want."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1062.08,
+            "end": 1064.08,
+            "text": " Then whenever you want to open a website,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1064.08,
+            "end": 1066.08,
+            "text": " you just double click it, it will open."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1066.08,
+            "end": 1068.08,
+            "text": " If you double click it and open it with VS code,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1068.08,
+            "end": 1070.08,
+            "text": " then what you have to do is right click,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1070.08,
+            "end": 1072.08,
+            "text": " open with, choose another app,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1072.08,
+            "end": 1074.08,
+            "text": " and then after that,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1074.08,
+            "end": 1076.08,
+            "text": " you have to choose Google Chrome and always do it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1076.08,
+            "end": 1078.08,
+            "text": " So I will choose Google Chrome and"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1078.08,
+            "end": 1080.08,
+            "text": " I will always do it here."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1080.08,
+            "end": 1082.08,
+            "text": " So whenever I double click,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1082.08,
+            "end": 1084.08,
+            "text": " it will open with Google Chrome."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1084.08,
+            "end": 1086.08,
+            "text": " So this was our bookmark manager."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1086.08,
+            "end": 1088.08,
+            "text": " I hope you liked it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1088.08,
+            "end": 1090.08,
+            "text": " I have a request from you that today our 4 videos have been completed."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1090.08,
+            "end": 1092.08,
+            "text": " So if you liked this course,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1092.08,
+            "end": 1094.08,
+            "text": " I want you to share it with your friends in groups."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1094.08,
+            "end": 1096.08,
+            "text": " I know very few people will share it."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1096.08,
+            "end": 1098.08,
+            "text": " But if you do, it will encourage me a lot."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1098.08,
+            "end": 1100.08,
+            "text": " And I will try to bring more courses like this."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1100.08,
+            "end": 1102.08,
+            "text": " Many people are shocked and saying"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1102.08,
+            "end": 1104.08,
+            "text": " that how is this course free?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1104.08,
+            "end": 1106.08,
+            "text": " What is the benefit of the app?"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1106.08,
+            "end": 1108.08,
+            "text": " I will find some other ways to make more money."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1108.08,
+            "end": 1110.08,
+            "text": " The thing is that I am going to mark this course"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1110.08,
+            "end": 1112.08,
+            "text": " as the best course of web development"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1112.08,
+            "end": 1114.08,
+            "text": " with everything."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1114.08,
+            "end": 1116.08,
+            "text": " I mean I will put everything in it and"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1116.08,
+            "end": 1118.08,
+            "text": " I will take as little time as possible and teach you as much as possible."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1118.08,
+            "end": 1120.08,
+            "text": " Many edtechs got angry with me."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1120.08,
+            "end": 1122.08,
+            "text": " Many companies told me that they launch it as a paid course."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1122.08,
+            "end": 1124.08,
+            "text": " Do it on our platform. I will not take the name,"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1124.08,
+            "end": 1126.08,
+            "text": " but many companies are angry with me and"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1126.08,
+            "end": 1128.08,
+            "text": " they told me that they launch it as a paid course."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1128.08,
+            "end": 1130.08,
+            "text": " Why are you doing this? You will regret your decision."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1130.08,
+            "end": 1132.08,
+            "text": " But hopefully I will not regret my decision"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1132.08,
+            "end": 1134.08,
+            "text": " to make this course free."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1134.08,
+            "end": 1136.08,
+            "text": " I will earn money in other ways and"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1136.08,
+            "end": 1138.08,
+            "text": " I will also teach you in this course"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1138.08,
+            "end": 1140.08,
+            "text": " that how you can earn more money"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1140.08,
+            "end": 1142.08,
+            "text": " through web development."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1142.08,
+            "end": 1144.08,
+            "text": " With that said, I will put the source code in the description."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1144.08,
+            "end": 1146.08,
+            "text": " Otherwise, you can take it from this repository."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1146.08,
+            "end": 1148.08,
+            "text": " That's all for now in this video."
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1148.08,
+            "end": 1150.08,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "Heading, Paragraphs and Links  Sigma Web Development Course ",
+            "title": " Tutorial #4 - CodeWithHarry (144p, h264)",
+            "start": 1150.08,
+            "end": 1152.08,
+            "text": " and I will see you next time."
+        }
+    ],
+    "text": " In today's video, I will tell you about heading and paragraphs. Along with that, I will also tell you about anchor text. If you have found this course awesome till now, then do like this video. Your likes will help me in getting such free courses. In this video, we will make a small project which will be a bookmark website. This bookmark website will help you in getting all your favorite websites in one place. And you will be able to use it in actual. So let's start quickly. Write down in the comment quickly, Sigma Batch OP. Let's roll the intro. So guys, as you can see, I have come inside my computer screen. And if you have not accessed the playlist yet, then you can access it. One more thing I want to tell you is that if you go to GitHub.com slash code with Ari, you will get the GitHub repo of the Sigma Web Dev course. Now I have made folders for all the videos in it. And the commit is also made according to different folders. So you will get it. You must access it so that you get the source code. I will also put the source code of the video in the description. So there is nothing to worry about. Now we will make a very basic website today. But it will be very important for us because it will be our first useful website. So without taking much time, I will make a new folder in this folder of Sigma Web Dev. And I will name it video 4 because it is our fourth video. So I will make it with the name video 4. By right-clicking, I will click on Open with Code so that this folder opens in our VS Code. After doing this, I will do what we have always done. index.html, main.css, style.css and script.js We usually make these three files. If I write CSS, I will put it here. If I write script, I will put it here. But for now, I will write exclamation mark here and write it in the document. My bookmarks. Okay, so we are going to make a bookmark website. And I will write code with Ari here. So you must have seen such titles. Now I will write h1 here. Now what happens with h1? You can put a heading in your web page with h1. We talked about the basic structure. We said that it tells that this is an HTML page. HTML lang is equal to en. Lang is an attribute and its value is en. That means the content of this page is in English. It tells the search engines. Or if anyone is sitting with the link of this web page, then he will know that this web page is in English. Accordingly, he can parse this web page. The browser will also know that your web page is in English. Now here is the head in which the metadata, which title of the page, which CSS is linked. All these things are information. The main content is inside the body. Now there is a tag inside the body to put a heading. Its name is h1. And I am going to write my bookmarks on it. So if I write my bookmarks here, then we will write it with h1 tag. And if I want to do it live here, I will click here and then I will open it in the browser. So see how my bookmarks are visible. Now why should we always use h1? Why didn't I write my bookmark directly? Because I am telling the browser that this is my heading. And this is my first level heading. Now let's say I want to put two types of bookmarks in my bookmarks. One main bookmark and one secondary bookmark. So I will use h2, that is, the second level heading. So I will write here. If you have used Microsoft Word, then you will know what h1 and h2 are. But if you don't know, then I will tell you. h1 is your main level heading. And after that, the second level heading is from h2. Let's say I say main bookmarks and secondary bookmarks. Let's say I do something like this. And here I will press the Alt, Shift and Down arrow. Let me do one thing. Why don't I turn on screencast mode? So what I did here is press the Alt, Shift and Down arrow. So this is replicated. This is a shortcut for VS Code. I would like to tell you another shortcut for VS Code. If you press Alt on your keyboard, and then wherever you click, there will be a cursor. Let's say I click here, then only one cursor will come. But by pressing Alt, if I click somewhere else, then the cursor will keep coming there. Let's say I want to do bookmarks code with Harry. So my bookmarks dash code with Harry. I can write something like this. How did I do this? I clicked here, then I pressed Alt. And wherever I click by pressing Alt, I will get multiple cursors there. Then whatever I type will come in multiple cursors. Wherever there are cursors, whatever I type there, it will be visible. Isn't it fun? Like it on this. So I will remove it here in this way. And you guys see, it will be updated. So this is my main heading. This is my h2. Similarly, we have heading from h1 to h2 to h6. Like suppose you gave a main heading. After the main heading, you gave a secondary heading. Then after that, you had to give some heading inside it too. And so on. You had to give a lot of subheadings. Then you can give heading up to h6. h6 is more than enough. In HTML, headings have been put up to h6. You will never need h7. If we talk about practical life. And if you have to, you can use h6 repeatedly. Because it gets so small after h1, that h6 will become very small. So you don't want it to be so small. Now what I will do here. I will replicate it with Alt Shift Down Arrow. And I will click here. I will press Alt. I am telling you all these shortcuts. So that your productivity increases. Now I have put two cursors here and here. I will press backspace and make it h3. Then I will click here. I will press Alt. I will click here. I will make it h4. Okay. And I will click here. I will click here. I will make it h5. Okay. After that, I will click here. I will click here. I will make it h6 here. So it is up to h6. Now what I will do. I will write here using h1. So that you can understand. And I will write using here at least. I will press space. I will write using. I will write h. And now my work is left. I will click here and write 2, 3, 4, 5 and 6. And you can see that it is looking like this. So you know that h1 is like this. h2 is like this. h3 is so small. h4 is so small. h5 is so small. h6 is so small. And what will happen if h6 is smaller than h1. It will end at some point. So h6 is more than enough. So I will show you a practical demonstration of this. For example, this is my html tutorial. So here I have given the main heading. html introduction. After this I have given here what is html. Then I have given features of html. I gave this from h1. I gave this from h2. I gave this from h3. I gave something from h2. Like here the term was hypertext and markup language. This is heading 2. What is the main heading page? html introduction. After this, this is subheading. I had to give a quick exercise in this too. So I used h3 in it too. Then it came back to h2. Because it was inside this. So in building the hierarchy, h1, h2, h3, h4, h5, h6 are used. Okay. I hope you guys understood. Many people are commenting that you are starting too slow. That's what we know. So I am making this course as a beginner course. When I tell you html, then you will say that it is very easy. Then I will tell you a little csl. You will say that yes, this also comes. Then I will say javascript. You will say yes, it comes a little. Then I will say bootstrap. Then you will say yes, this too. It will happen, there is a little problem. Then I will say react. You will say what is happening. Then assume note js. Okay. Then after that, I take things to mongodb mysql. Then after that, the level will go so high. I said that we will raise the bar like anything. This is what I meant. So when we will do react, when I will make projects there, when we will do dangerous things, then I will ask for their comment below. You tell me what is the level. Okay. So don't talk about the level. The level is going to rise very well. So these are our headings. 6 headings that I would like to keep like this. Now if we want to write a paragraph, then you can use p tag. If you hit p, this paragraph will come. Now I will tell you a shortcut trick. If you want to bring a dummy paragraph in VS Code through Emmet, then what will you do? You will write lorem here. Assume I wrote lorem 23. And see here, the emmet abbreviation has come. It is of lorem 23. It will give me 23 words. Something like this. You can click on view and wrap the word. Then you will not get a horizontal scroll bar. So wrap this view word. Now see here, lorem, ipsum, dollar, set. Here, a dummy text has come. Why do we want dummy text sometimes? Because we are making a template. And we have to fill that template with something. Assume you are making a website which looks like OYO rooms. Now here, OYO, become a member, OYO for business, Assume I don't have to write all this here. I have written lorem here. Now I have to write something here. Assume I have to write lorem here. I will write lorem 7 and hit enter. Then I will give it to OYO people. They will do whatever they want to write. You use it to fill this folder. My plan is that we will make popular website clones so that you will know how things work. This is also a very popular website. If you have used their services, then do tell us in the comment section below. Now we will see more things like here is paragraph, how to style it. All these things are done through CSS. Now see here in paragraph, when I wrote lorem 23, so much text came. Now I will hit p enter here. If I write lorem 10 here, only 10 words will come. If I want to write lorem 100, my page will be filled a lot. So this lorem trick is very good. You will enjoy it. Whenever we make a popular website clone, Assume I make a clone of Amazon.in. Assume I make a clone of Amazon.in. Assume I have to write something here. Now I can't see so much text here. Assume I have to write 3 words here. I will write lorem 3. I will not think about makeup products. I will write lorem 2. I will make a template and get ready. Then whatever is there, it will come in my database. I can bring my text in a different way. Many people asked if this course will be job ready. The answer is yes, this course is going to be job ready. Absolutely, I will make you so that you can do industry level jobs through the learning of this course. Now let's talk about the attributes in HTML. We have not used any attribute in the body. We have not used any attribute in H1. We have not used any attribute in P. But I can use a style attribute in P. Which is also called inline CSS. If I make the background color red here, like this, then its background color will be red. This is also called inline CSS. Through style attribute, if you put style is equal to CSS, first we learned to put CSS here. But if you put style is equal to, then you will get this background red here. Let me show you, you got this background red. Okay, I will make this teal. Or I will do this, this color is looking good. So I can also put style inline. But when you make industry level websites, we use inline styles very little. Because the maintainability decreases, the reusability decreases. So we want to ship a small bundle on the browser. And our website is more and more optimized. So we avoid all these things. But inline CSS has a style tag. But here style is an attribute. P is a tag. P tag has an attribute style through which we can style this element. We will also learn about many other attributes. Attributes basically give an element enhanced functionality. Like we gave a style to this paragraph. Which was background color thistle. To give this background color, we used style attribute. In the same way, to give properties to any tag, to any element, we use this kind of attributes. Like if we talk, we talked about link, link colon CSS. Link has a relic attribute, href attribute. So what we can do with this attribute, we can put this CSS style sheet. Like let's say background, background color, I say body first. What do we need in the body? And you don't have to worry about it. Don't worry about how this is happening. Because all this will be told in CSS. But I am just telling you that I do hot pink. Listen to another functionality of VS Code. This ninja technique will be very useful. Here hover the mouse. And here you can choose any color you want. Like I leave it and do this. So you see here the background color of my body has become this. How did you like the ninja technique? Write in the comment. Now here we have come back to index.html. I can remove it if I want. If I comment it out, then this style sheet will not be there. This background color was coming from this style sheet. It was coming from inline CSS. So it didn't move. Which is very natural. Here I did this style is equal to background color. Because of which its background color was visible. Now we are going to make a bookmark. We are going to make a bookmark manager. bookmarkmanager.html And I am making it a separate file because I have told you different types of headings here. I am going to make a useful bookmark manager. So I will write here bookmark manager Now you will say that in Chrome there is bookmark manager. Why are you making it? This is made by us. This will be our child. We have made it. So you will have a different love for it. Because you have made it yourself. Someone made a software. You bought it from somewhere. You made a software yourself. So the software you made yourself is different. Now here you can see bookmark manager code is written here. I will write h1 and write my bookmarks. I wrote my bookmarks. Now I will write h2 I will write primary bookmarks. And after this I will write secondary bookmarks. In fact, if I do Alt Shift and write secondary bookmarks. So what will happen? I can put secondary bookmarks here. Now what I will do is I will write google in a paragraph. I will write it like this. We will write it from the list. But in the coming videos, I will tell you how to use the list. Let's say I write google here. And I will use anchor tag. So as soon as I enter in A, A has a mandatory attribute href. href means by clicking which link it should go to. So I will write href is equal to https://www.google.com It will be entered at this address whenever someone clicks on open google. And I will cut open google and put it here. That is, the content of the stack will be like this. And here you can see href is equal to this. Open google has come. This is called anchor tag which helps us to make links. You must have seen many such links. Now you see here that as soon as I go to bookmark manager .html, you can see here that you are getting all the bookmarks like this. Open google. Now if I click on it, google will open. You can see. Now you noticed one thing. When I did not click on it, then its color was blue. Now I visited it so its color has changed. So its color changes when you visit it. It has been converted into a visited link. So I know that I have visited it. Now I tell you one more thing. Here if we want it to open in the new tab, like I am clicking on it, then it is opening in the same tab. If you want to open it in the new tab, then you have two ways. Either you can click on the wheel of your mouse , this mouse wheel, you can click on it like this. Now I tell you another way that if you want someone to click and open in the new tab, then you can use an attribute. You can write here that target is equal to underscore blank. And VS code gives you suggestions. So I wrote it by hitting two enters. If you write in notepad or in any other cheap editor, then what happens to you? Means according to quality, cheap. Free is also VS code, but according to quality, if you use a cheap editor, then target is equal to underscore blank. You will have to type it all. It is a little painful. But if you write it in any way and what will happen now? Now I will click on it. I am clicking. I am not clicking the mouse wheel. I am clicking. I will click. It came to the new tab. Okay. Now I have written a very simple open google. If you want, then your favorite website, whichever website is your favorite, you can put it here. Okay. Good website. Friends, okay. Now I will write here open facebook and here you see www.facebook.com and let's say I write here quora.com and code with harry.com and after that we put it here. Let's say which website should I put? Youtube.com. Let's see that this website has come or not. You have seen one thing here. It is coming in the same line. Okay. If you want it not to come in one line, then what will you do? You will put them in your paragraphs. This is a very dirty way. I will tell you why I am calling it a dirty way. But you enclose it in a paragraph. If you want and I will press shift and press the right arrow. I will do control x. Then after that I will press the end key. All the cursors will go to the end. Because if you press the end key on a cursor, then they go to the end. And after that I will do control v. Now I have used this shortcut a lot. And many of you will be like this. What did you do? If you are a beginner. But what I simply did is I used the functionality of VS Code. Multiple cursor functionality. I pressed alt and brought multiple cursors. And after that I used it. This is ideally not a good way. We never make a list by using paragraphs. We make it by using lists. But because we have not read the list, we are using paragraphs. But this will do our job. It will look something like this. We have not visited the page. See it is blue. We visited Facebook. Its color also became purple. We visited Quora. Its color also became purple. So now these are your primary bookmarks. What will be your secondary bookmarks? We put two secondary bookmarks. Suppose your secondary bookmarks are those that you visit sometimes. Follow Wikipedia.com. Wikipedia.com has come here. And suppose Stackoverflow.com. We will write the spelling correctly. Stackoverflow. Let's capitalize Stackoverflow. And now you see here in secondary bookmarks, your Wikipedia and Stackoverflow have come. So this has become your bookmark manager. And you can make this bookmark manager even better. We will learn styling from CSS. So if you find this ugly, then don't worry. Don't say that this is very ugly. Don't worry about that at all. Because in the coming time, we will do styling, we will do designing, we will talk about all those things. For now, your bookmark looks something like this. Bookmark manager code with Harry is your title. And I also write it in H1. So both will be the same. Our title and H1. That is, our title will also be the same. My bookmarks code with Harry will also be written here. So this way you can make a bookmark manager. You can actually use it. Now if you save it like this, like my bookmark manager.html, you can copy it and put it on your desktop if you want. Then whenever you want to open a website, you just double click it, it will open. If you double click it and open it with VS code, then what you have to do is right click, open with, choose another app, and then after that, you have to choose Google Chrome and always do it. So I will choose Google Chrome and I will always do it here. So whenever I double click, it will open with Google Chrome. So this was our bookmark manager. I hope you liked it. I have a request from you that today our 4 videos have been completed. So if you liked this course, I want you to share it with your friends in groups. I know very few people will share it. But if you do, it will encourage me a lot. And I will try to bring more courses like this. Many people are shocked and saying that how is this course free? What is the benefit of the app? I will find some other ways to make more money. The thing is that I am going to mark this course as the best course of web development with everything. I mean I will put everything in it and I will take as little time as possible and teach you as much as possible. Many edtechs got angry with me. Many companies told me that they launch it as a paid course. Do it on our platform. I will not take the name, but many companies are angry with me and they told me that they launch it as a paid course. Why are you doing this? You will regret your decision. But hopefully I will not regret my decision to make this course free. I will earn money in other ways and I will also teach you in this course that how you can earn more money through web development. With that said, I will put the source code in the description. Otherwise, you can take it from this repository. That's all for now in this video. Thank you so much guys for watching this video and I will see you next time."
+}
