@@ -1,9 +1,8 @@
 import os
 import json
-import requests
 import joblib
-import numpy as np
 import pandas as pd
+from sentence_transformers import SentenceTransformer
 
 
 # ============================================================
@@ -11,464 +10,234 @@ import pandas as pd
 # ============================================================
 
 JSON_FOLDER = "jsons"
-
 OUTPUT_FILE = "embeddings.joblib"
 
-OLLAMA_URL = "http://localhost:11434/api/embed"
-
-EMBEDDING_MODEL = "nomic-embed-text"
-
-# IMPORTANT:
-# Do not send 1368 chunks in one request.
-# Process them in smaller batches.
-BATCH_SIZE = 32
+MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
 
 
 # ============================================================
-# CREATE EMBEDDINGS
+# LOAD EMBEDDING MODEL
 # ============================================================
 
-def create_embedding(text_list):
+print("Loading embedding model...")
 
-    if not text_list:
-        return []
+model = SentenceTransformer(MODEL_NAME)
 
-    try:
-
-        response = requests.post(
-
-            OLLAMA_URL,
-
-            json={
-                "model": EMBEDDING_MODEL,
-                "input": text_list
-            },
-
-            timeout=600
-        )
-
-    except requests.exceptions.ConnectionError:
-
-        print("\nERROR: Ollama is not running.")
-
-        print(
-            "Start Ollama and try again."
-        )
-
-        raise
-
-
-    # ========================================================
-    # ERROR HANDLING
-    # ========================================================
-
-    if response.status_code != 200:
-
-        print("\nOLLAMA ERROR")
-
-        print(
-            "STATUS:",
-            response.status_code
-        )
-
-        print(
-            "BODY:",
-            response.text
-        )
-
-        response.raise_for_status()
-
-
-    data = response.json()
-
-
-    if "embeddings" not in data:
-
-        raise RuntimeError(
-            "Ollama did not return embeddings."
-        )
-
-
-    return data["embeddings"]
+print("Embedding model loaded!")
 
 
 # ============================================================
-# MAIN
+# READ JSON FILES
 # ============================================================
 
-def main():
+all_chunks = []
 
-    print("=" * 70)
+json_files = [
+    file
+    for file in os.listdir(JSON_FOLDER)
+    if file.endswith(".json")
+]
 
-    print(
-        "SIGMA WEB DEVELOPMENT"
+print("Total JSON files:", len(json_files))
+
+chunk_id = 0
+
+
+# ============================================================
+# PROCESS ALL JSON FILES
+# ============================================================
+
+for json_file in json_files:
+
+    file_path = os.path.join(
+        JSON_FOLDER,
+        json_file
     )
 
-    print(
-        "CREATING COURSE EMBEDDINGS"
-    )
+    print("\n========================================")
+    print("Processing:", json_file)
+    print("========================================")
 
-    print("=" * 70)
+    with open(
+        file_path,
+        "r",
+        encoding="utf-8"
+    ) as f:
 
+        data = json.load(f)
 
-    # --------------------------------------------------------
-    # Check JSON folder
-    # --------------------------------------------------------
+    chunks = data.get("chunks", [])
 
-    if not os.path.exists(JSON_FOLDER):
+    print("Total chunks:", len(chunks))
 
-        print(
-            f"\nERROR: Folder '{JSON_FOLDER}' does not exist."
-        )
-
-        return
-
-
-    json_files = sorted([
-
-        file
-
-        for file in os.listdir(JSON_FOLDER)
-
-        if file.lower().endswith(".json")
-
-    ])
-
-
-    if not json_files:
-
-        print(
-            "\nNo JSON files found."
-        )
-
-        return
-
-
-    print(
-        "\nJSON files found:",
-        len(json_files)
-    )
-
+    texts = []
+    valid_chunks = []
 
     # --------------------------------------------------------
-    # Store everything here
+    # GET VALID CHUNKS
     # --------------------------------------------------------
 
-    all_chunks = []
+    for chunk in chunks:
 
-    chunk_id = 0
+        text = chunk.get("text", "").strip()
 
-
-    # ========================================================
-    # READ ALL JSON FILES
-    # ========================================================
-
-    for json_file in json_files:
-
-        file_path = os.path.join(
-            JSON_FOLDER,
-            json_file
-        )
-
-
-        print("\n" + "-" * 70)
-
-        print(
-            "Processing:",
-            json_file
-        )
-
-
-        try:
-
-            with open(
-                file_path,
-                "r",
-                encoding="utf-8"
-            ) as f:
-
-                content = json.load(f)
-
-        except Exception as e:
-
-            print(
-                "Could not read:",
-                e
-            )
-
+        if not text:
             continue
 
+        texts.append(text)
+        valid_chunks.append(chunk)
 
-        # ----------------------------------------------------
-        # Get chunks
-        # ----------------------------------------------------
+    if not texts:
+        print("No valid text found.")
+        continue
 
-        chunks = content.get(
-            "chunks",
-            []
-        )
+    print(
+        "Creating embeddings for:",
+        len(texts),
+        "chunks"
+    )
 
+    # --------------------------------------------------------
+    # CREATE EMBEDDINGS
+    # --------------------------------------------------------
 
-        if not isinstance(chunks, list):
+    embeddings = model.encode(
+        texts,
+        normalize_embeddings=True,
+        show_progress_bar=True
+    )
+   
+    # --------------------------------------------------------
+    # STORE CHUNKS
+    # --------------------------------------------------------
 
-            print(
-                "Skipping file because "
-                "'chunks' is not a list."
-            )
-
-            continue
-
-
-        print(
-            "Number of chunks:",
-            len(chunks)
-        )
-
-
-        # ----------------------------------------------------
-        # Get metadata
-        # ----------------------------------------------------
-
-        file_title = content.get(
-            "title",
-            json_file
-        )
-
-        file_number = content.get(
-            "number",
-            ""
-        )
-
+    for i, chunk in enumerate(valid_chunks):
 
         # ====================================================
-        # PROCESS EACH CHUNK
+        # GET TIMESTAMP
         # ====================================================
 
-        for chunk in chunks:
-
-            if not isinstance(
-                chunk,
-                dict
-            ):
-
-                continue
-
-
-            text = chunk.get(
-                "text",
-                ""
+        start_time = chunk.get(
+            "start",
+            chunk.get(
+                "start_time",
+                0
             )
+        )
 
-
-            if not isinstance(
-                text,
-                str
-            ):
-
-                continue
-
-
-            text = text.strip()
-
-
-            if not text:
-
-                continue
-
-
-            # ------------------------------------------------
-            # Create clean record
-            # ------------------------------------------------
-
-            new_chunk = {
-
-                "chunk_id": chunk_id,
-
-                "title": chunk.get(
-                    "title",
-                    file_title
-                ),
-
-                "number": chunk.get(
-                    "number",
-                    file_number
-                ),
-
-                "start": chunk.get(
-                    "start",
-                    chunk.get(
-                        "start_time",
-                        0
-                    )
-                ),
-
-                "end": chunk.get(
-                    "end",
-                    chunk.get(
-                        "end_time",
-                        0
-                    )
-                ),
-
-                "text": text,
-
-                "source_file": json_file
-
-            }
-
-
-            all_chunks.append(
-                new_chunk
+        end_time = chunk.get(
+            "end",
+            chunk.get(
+                "end_time",
+                0
             )
-
-
-            chunk_id += 1
-
-
-    # ========================================================
-    # CHECK
-    # ========================================================
-
-    print("\n" + "=" * 70)
-
-    print(
-        "TOTAL CHUNKS:",
-        len(all_chunks)
-    )
-
-    print("=" * 70)
-
-
-    if not all_chunks:
-
-        print(
-            "\nNo valid chunks found."
         )
 
-        return
+        # ====================================================
+        # CREATE RECORD
+        # ====================================================
+
+        record = {
+
+            "chunk_id": chunk_id,
+
+            # Video title
+            "title": chunk.get(
+                "title",
+                "Unknown"
+            ),
+
+            # Video number
+            "number": chunk.get(
+                "number",
+                "Unknown"
+            ),
+
+            # Timestamp
+            "start": start_time,
+
+            "end": end_time,
+
+            # Subtitle text
+            "text": text,
+
+            # Embedding
+            "embedding": embeddings[i].tolist()
+        }
+
+        all_chunks.append(record)
+
+        chunk_id += 1
 
 
-    # ========================================================
-    # CREATE EMBEDDINGS IN BATCHES
-    # ========================================================
+# ============================================================
+# CREATE DATAFRAME
+# ============================================================
+
+df = pd.DataFrame(all_chunks)
+
+
+# ============================================================
+# DISPLAY INFORMATION
+# ============================================================
+
+print("\n========================================")
+print("EMBEDDING CREATION COMPLETED")
+print("========================================")
+
+print(
+    "Total chunks:",
+    len(df)
+)
+
+print(
+    "\nColumns:"
+)
+
+print(
+    df.columns.tolist()
+)
+
+
+# ============================================================
+# CHECK TIMESTAMPS
+# ============================================================
+
+print(
+    "\nSample timestamp data:"
+)
+
+if len(df) > 0:
 
     print(
-        "\nCreating embeddings..."
-    )
-
-    total = len(all_chunks)
-
-
-    for start in range(
-        0,
-        total,
-        BATCH_SIZE
-    ):
-
-        end = min(
-            start + BATCH_SIZE,
-            total
+        df[
+            [
+                "chunk_id",
+                "title",
+                "number",
+                "start",
+                "end",
+                "text"
+            ]
+        ].head(10).to_string(
+            index=False
         )
-
-
-        batch = all_chunks[
-            start:end
-        ]
-
-
-        texts = [
-
-            item["text"]
-
-            for item in batch
-
-        ]
-
-
-        print(
-            f"Embedding "
-            f"{start + 1}-{end} "
-            f"of {total}"
-        )
-
-
-        embeddings = create_embedding(
-            texts
-        )
-
-
-        if len(embeddings) != len(
-            batch
-        ):
-
-            raise RuntimeError(
-                "Embedding count does not "
-                "match chunk count."
-            )
-
-
-        for i in range(
-            len(batch)
-        ):
-
-            batch[i][
-                "embedding"
-            ] = embeddings[i]
-
-
-    # ========================================================
-    # DATAFRAME
-    # ========================================================
-
-    df = pd.DataFrame(
-        all_chunks
-    )
-
-
-    # ========================================================
-    # CREATE NUMPY MATRIX
-    # ========================================================
-
-    embedding_matrix = np.vstack(
-        df["embedding"].values
-    )
-
-
-    print(
-        "\nEmbedding matrix shape:",
-        embedding_matrix.shape
-    )
-
-
-    # ========================================================
-    # SAVE
-    # ========================================================
-
-    joblib.dump(
-        df,
-        OUTPUT_FILE
-    )
-
-
-    print(
-        "\nEmbeddings successfully saved!"
-    )
-
-    print(
-        "File:",
-        OUTPUT_FILE
-    )
-
-    print(
-        "Total chunks:",
-        len(df)
     )
 
 
 # ============================================================
-# RUN
+# SAVE EMBEDDINGS
 # ============================================================
 
-if __name__ == "__main__":
+joblib.dump(
+    df,
+    OUTPUT_FILE
+)
 
-    main()
+print(
+    f"\nSaved embeddings to: {OUTPUT_FILE}"
+)
+
+print(
+    "\nDONE!"
+)
