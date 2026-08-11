@@ -17,6 +17,17 @@ response.txt
 
 process_of_project
 
+audios/
+videos/
+whisper/
+mp3_to_json.py
+mp4_to_mp3.py
+process_incoming.py
+read_chunks.py
+create_embedding.py
+response.txt
+tempCodeRunnerFile.py
+
 .venv/
 venv/
 
