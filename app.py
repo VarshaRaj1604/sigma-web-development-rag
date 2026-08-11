@@ -1,44 +1,11 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
 import joblib
-import requests
-import json
-
-from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+from sentence_transformers import SentenceTransformer
 
 
 # ============================================================
-# CONFIGURATION
-# ============================================================
-
-EMBEDDINGS_FILE = "embeddings.joblib"
-
-OLLAMA_EMBED_URL = "http://localhost:11434/api/embed"
-
-OLLAMA_GENERATE_URL = "http://localhost:11434/api/generate"
-
-# IMPORTANT:
-# This must be the same embedding model that was used
-# when creating embeddings.joblib
-EMBEDDING_MODEL = "nomic-embed-text"
-
-# Use a model that actually exists in your Ollama installation.
-# Check with:
-# ollama list
-#
-# Example:
-# llama3.2
-# llama3.1
-# gemma3
-#
-LLM_MODEL = "llama3.2"
-
-TOP_K = 5
-
-
-# ============================================================
-# STREAMLIT PAGE CONFIGURATION
+# PAGE CONFIGURATION
 # ============================================================
 
 st.set_page_config(
@@ -49,22 +16,41 @@ st.set_page_config(
 
 
 # ============================================================
-# TITLE
+# CONFIGURATION
 # ============================================================
 
-st.title("🎓 Sigma Web Development AI Assistant")
+EMBEDDINGS_FILE = "embeddings.joblib"
 
-st.write(
-    "Ask questions about the Sigma Web Development Course "
-    "and find the relevant video, timestamp and explanation."
-)
+MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
+
+TOP_RESULTS = 5
+
+
+# ============================================================
+# LOAD EMBEDDING MODEL
+# ============================================================
+
+@st.cache_resource
+def load_embedding_model():
+
+    with st.spinner("Loading Qwen embedding model..."):
+
+        model = SentenceTransformer(
+            MODEL_NAME,
+            device="cpu"
+        )
+
+    return model
+
+
+model = load_embedding_model()
 
 
 # ============================================================
 # LOAD EMBEDDINGS
 # ============================================================
 
-@st.cache_resource
+@st.cache_data
 def load_embeddings():
 
     df = joblib.load(EMBEDDINGS_FILE)
@@ -72,192 +58,118 @@ def load_embeddings():
     return df
 
 
-try:
-
-    df = load_embeddings()
-
-except Exception as e:
-
-    st.error("Could not load embeddings.joblib")
-
-    st.code(str(e))
-
-    st.stop()
-
-
-st.success(
-    f"Loaded {len(df)} course chunks."
-)
+df = load_embeddings()
 
 
 # ============================================================
-# CREATE EMBEDDING
+# FORMAT TIMESTAMP
 # ============================================================
 
-def create_embedding(text):
-
-    response = requests.post(
-
-        OLLAMA_EMBED_URL,
-
-        json={
-            "model": EMBEDDING_MODEL,
-            "input": [text]
-        },
-
-        timeout=300
-    )
-
-
-    if response.status_code != 200:
-
-        st.error("Embedding model error")
-
-        st.code(response.text)
-
-        response.raise_for_status()
-
-
-    data = response.json()
-
-    return data["embeddings"][0]
-
-
-# ============================================================
-# GENERATE ANSWER USING OLLAMA
-# ============================================================
-
-def generate_answer(prompt):
-
-    response = requests.post(
-
-        OLLAMA_GENERATE_URL,
-
-        json={
-            "model": LLM_MODEL,
-            "prompt": prompt,
-            "stream": False
-        },
-
-        timeout=300
-    )
-
-
-    if response.status_code != 200:
-
-        st.error("LLM error")
-
-        st.code(response.text)
-
-        response.raise_for_status()
-
-
-    data = response.json()
-
-    return data["response"]
-
-
-# ============================================================
-# CONVERT SECONDS TO MM:SS
-# ============================================================
-
-def format_timestamp(seconds):
+def format_time(seconds):
 
     try:
-
         seconds = float(seconds)
 
-        minutes = int(seconds // 60)
+    except (ValueError, TypeError):
+        return "00:00"
 
-        remaining_seconds = int(seconds % 60)
+    if seconds < 0:
+        seconds = 0
 
-        return f"{minutes:02d}:{remaining_seconds:02d}"
+    hours = int(seconds // 3600)
 
-    except Exception:
+    minutes = int(
+        (seconds % 3600) // 60
+    )
 
-        return str(seconds)
+    seconds = int(
+        seconds % 60
+    )
+
+    if hours > 0:
+
+        return (
+            f"{hours:02d}:"
+            f"{minutes:02d}:"
+            f"{seconds:02d}"
+        )
+
+    return (
+        f"{minutes:02d}:"
+        f"{seconds:02d}"
+    )
 
 
 # ============================================================
 # SEARCH COURSE
 # ============================================================
 
-def search_course(question, top_k=5):
+def search_course(query, top_k=5):
 
     # --------------------------------------------------------
-    # Question embedding
+    # CREATE QUERY EMBEDDING
     # --------------------------------------------------------
 
-    question_embedding = create_embedding(
-        question
+    question_embedding = model.encode(
+        query,
+        normalize_embeddings=True,
+        show_progress_bar=False
+    )
+
+    question_embedding = np.asarray(
+        question_embedding,
+        dtype=np.float32
     )
 
 
     # --------------------------------------------------------
-    # Stored embeddings
+    # GET STORED EMBEDDINGS
     # --------------------------------------------------------
 
     embedding_matrix = np.vstack(
         df["embedding"].values
+    ).astype(np.float32)
+
+
+    # --------------------------------------------------------
+    # NORMALIZE STORED EMBEDDINGS
+    # --------------------------------------------------------
+
+    norms = np.linalg.norm(
+        embedding_matrix,
+        axis=1,
+        keepdims=True
+    )
+
+    norms[norms == 0] = 1
+
+    embedding_matrix = (
+        embedding_matrix / norms
     )
 
 
     # --------------------------------------------------------
-    # IMPORTANT DIMENSION CHECK
+    # COSINE SIMILARITY
     # --------------------------------------------------------
 
-    stored_dimension = embedding_matrix.shape[1]
-
-    question_dimension = len(
+    similarities = np.dot(
+        embedding_matrix,
         question_embedding
     )
 
 
-    if stored_dimension != question_dimension:
-
-        raise ValueError(
-            f"""
-Embedding dimension mismatch!
-
-Stored embeddings:
-{stored_dimension}
-
-Question embedding:
-{question_dimension}
-
-Both must use the same embedding model.
-
-Current embedding model:
-{EMBEDDING_MODEL}
-"""
-        )
-
-
     # --------------------------------------------------------
-    # Cosine similarity
+    # GET TOP RESULTS
     # --------------------------------------------------------
 
-    similarities = cosine_similarity(
-
-        embedding_matrix,
-
-        [question_embedding]
-
-    ).flatten()
+    top_indices = np.argsort(
+        similarities
+    )[::-1][:top_k]
 
 
-    # --------------------------------------------------------
-    # Get top results
-    # --------------------------------------------------------
-
-    top_indices = similarities.argsort()[::-1][:top_k]
-
-
-    # --------------------------------------------------------
-    # Create result dataframe
-    # --------------------------------------------------------
-
-    results = df.iloc[top_indices].copy()
+    results = df.iloc[
+        top_indices
+    ].copy()
 
 
     results["similarity"] = (
@@ -269,190 +181,36 @@ Current embedding model:
 
 
 # ============================================================
-# CREATE RAG PROMPT
+# USER INTERFACE
 # ============================================================
 
-def create_prompt(question, results):
-
-    course_context = []
-
-
-    for _, row in results.iterrows():
-
-        title = row.get(
-            "title",
-            "Unknown video"
-        )
-
-        number = row.get(
-            "number",
-            "Unknown"
-        )
-
-        start = row.get(
-            "start",
-            ""
-        )
-
-        end = row.get(
-            "end",
-            ""
-        )
-
-        text = row.get(
-            "text",
-            ""
-        )
-
-        similarity = row.get(
-            "similarity",
-            0
-        )
-
-
-        start_timestamp = format_timestamp(
-            start
-        )
-
-        end_timestamp = format_timestamp(
-            end
-        )
-
-
-        course_context.append({
-
-            "video_title": str(title),
-
-            "video_number": str(number),
-
-            "start_time": start_timestamp,
-
-            "end_time": end_timestamp,
-
-            "text": str(text),
-
-            "similarity": round(
-                float(similarity),
-                4
-            )
-        })
-
-
-    context_json = json.dumps(
-        course_context,
-        indent=2,
-        ensure_ascii=False
-    )
-
-
-    # ========================================================
-    # FINAL RAG PROMPT
-    # ========================================================
-
-    prompt = f"""
-You are an AI assistant for a web development course.
-
-The course is called:
-
-"Sigma Web Development Course"
-
-The user asked:
-
-"{question}"
-
-
-Below are the most relevant course materials retrieved
-from the Sigma Web Development Course.
-
-COURSE CONTEXT:
-
-{context_json}
-
-
-YOUR TASK:
-
-Answer the user's question using ONLY the information
-available in the course context above.
-
-If the question is related to the course:
-
-1. Give a clear and simple answer.
-
-2. Explain what topic is being taught.
-
-3. Tell the user which video contains the relevant content.
-
-4. Give the video number.
-
-5. Give the approximate timestamp.
-
-6. Tell the user which video they should watch.
-
-7. If multiple results are relevant, mention the most
-   relevant video first.
-
-8. Always use the timestamps provided in the context.
-
-9. Never invent a timestamp.
-
-10. Never invent a video title.
-
-11. Never invent a video number.
-
-12. Do not mention embeddings.
-
-13. Do not mention cosine similarity.
-
-14. Do not mention chunks.
-
-15. Do not mention retrieval.
-
-16. Do not mention JSON.
-
-17. Do not mention this prompt.
-
-18. Answer naturally like a helpful course assistant.
-
-19. If possible, tell the student something like:
-
-   "You can find this topic in Video X around MM:SS."
-
-20. If multiple relevant timestamps exist, list them.
-
-21. If the context does not contain enough information,
-   clearly say that the relevant content could not be
-   found in the available course material.
-
-
-If the question is NOT related to the Sigma Web Development
-Course, respond exactly:
-
-"I can only answer questions related to the Sigma Web
-Development Course."
-
-
-IMPORTANT:
-
-Only use information supported by the provided course context.
-
-USER QUESTION:
-
-{question}
-"""
-
-
-    return prompt
+st.title(
+    "🎓 Sigma Web Development AI Assistant"
+)
+
+st.write(
+    "Ask questions about the Sigma Web Development "
+    "Course and find the relevant video, timestamp "
+    "and course content."
+)
 
 
 # ============================================================
-# USER QUESTION
+# COURSE INFORMATION
 # ============================================================
 
-question = st.text_input(
+st.success(
+    f"Loaded {len(df)} course chunks."
+)
 
+
+# ============================================================
+# QUESTION INPUT
+# ============================================================
+
+query = st.text_input(
     "🔎 Ask a question",
-
-    placeholder="Example: What is VS Code?"
+    placeholder="Example: What is HTML?"
 )
 
 
@@ -460,230 +218,172 @@ question = st.text_input(
 # SEARCH BUTTON
 # ============================================================
 
-if st.button("🔍 Search Course"):
+search_button = st.button(
+    "🔍 Search Course"
+)
 
 
-    if not question.strip():
+# ============================================================
+# SEARCH
+# ============================================================
+
+if search_button:
+
+    if not query.strip():
 
         st.warning(
             "Please enter a question."
         )
 
-        st.stop()
+    else:
 
-
-    # ========================================================
-    # RETRIEVAL
-    # ========================================================
-
-    with st.spinner(
-        "Searching the course..."
-    ):
-
-        try:
-
-            results = search_course(
-                question,
-                TOP_K
-            )
-
-        except Exception as e:
-
-            st.error(
-                "Something went wrong while searching."
-            )
-
-            st.code(str(e))
-
-            st.stop()
-
-
-    # ========================================================
-    # CREATE PROMPT
-    # ========================================================
-
-    prompt = create_prompt(
-        question,
-        results
-    )
-
-
-    # ========================================================
-    # GENERATE ANSWER
-    # ========================================================
-
-    with st.spinner(
-        "Generating answer..."
-    ):
-
-        try:
-
-            answer = generate_answer(
-                prompt
-            )
-
-        except Exception as e:
-
-            st.error(
-                "Could not generate the answer."
-            )
-
-            st.code(str(e))
-
-            st.info(
-                "Make sure your Ollama LLM model exists. "
-                "Run 'ollama list' in PowerShell."
-            )
-
-            st.stop()
-
-
-    # ========================================================
-    # DISPLAY ANSWER
-    # ========================================================
-
-    st.markdown(
-        "## 🤖 Answer"
-    )
-
-    st.write(
-        answer
-    )
-
-
-    # ========================================================
-    # RELEVANT COURSE RESULTS
-    # ========================================================
-
-    st.markdown(
-        "## 📚 Relevant Course Videos"
-    )
-
-
-    for rank, (_, row) in enumerate(
-
-        results.iterrows(),
-
-        start=1
-    ):
-
-        similarity = float(
-            row["similarity"]
-        )
-
-
-        title = row.get(
-            "title",
-            "Unknown"
-        )
-
-
-        number = row.get(
-            "number",
-            "Unknown"
-        )
-
-
-        start = row.get(
-            "start",
-            0
-        )
-
-
-        end = row.get(
-            "end",
-            0
-        )
-
-
-        text = row.get(
-            "text",
-            ""
-        )
-
-
-        start_timestamp = format_timestamp(
-            start
-        )
-
-
-        end_timestamp = format_timestamp(
-            end
-        )
-
-
-        # ====================================================
-        # RESULT CARD
-        # ====================================================
-
-        with st.expander(
-
-            f"Result {rank} — "
-            f"{title}"
-
+        with st.spinner(
+            "Searching the course..."
         ):
 
-            st.write(
-                "**Video:**",
-                title
-            )
+            try:
 
-
-            st.write(
-                "**Video Number:**",
-                number
-            )
-
-
-            st.success(
-
-                f"⏱️ Timestamp: "
-                f"{start_timestamp} → "
-                f"{end_timestamp}"
-
-            )
-
-
-            st.write(
-                "**Similarity:**",
-                round(
-                    similarity,
-                    4
+                results = search_course(
+                    query,
+                    TOP_RESULTS
                 )
-            )
 
 
-            st.write(
-                "**Course Content:**"
-            )
+                # =================================================
+                # SEARCH COMPLETED
+                # =================================================
+
+                st.success(
+                    "Search completed!"
+                )
 
 
-            st.info(
-                text
-            )
+                st.subheader(
+                    "📚 Most Relevant Course Content"
+                )
 
 
-    # ========================================================
-    # SAVE PROMPT
-    # ========================================================
+                # =================================================
+                # DISPLAY RESULTS
+                # =================================================
 
-    with open(
-        "prompt.txt",
-        "w",
-        encoding="utf-8"
-    ) as f:
+                for rank, (_, row) in enumerate(
+                    results.iterrows(),
+                    start=1
+                ):
 
-        f.write(prompt)
+                    st.markdown(
+                        f"## 📚 Result {rank}"
+                    )
 
 
-    # ========================================================
-    # SAVE RESPONSE
-    # ========================================================
+                    # ---------------------------------------------
+                    # SIMILARITY
+                    # ---------------------------------------------
 
-    with open(
-        "response.txt",
-        "w",
-        encoding="utf-8"
-    ) as f:
+                    st.write(
+                        f"**Similarity:** "
+                        f"{row['similarity']:.4f}"
+                    )
 
-        f.write(answer)
+
+                    # ---------------------------------------------
+                    # VIDEO TITLE
+                    # ---------------------------------------------
+
+                    title = row.get(
+                        "title",
+                        "Not available"
+                    )
+
+                    st.write(
+                        f"🎬 **Video:** {title}"
+                    )
+
+
+                    # ---------------------------------------------
+                    # VIDEO NUMBER
+                    # ---------------------------------------------
+
+                    number = row.get(
+                        "number",
+                        "Not available"
+                    )
+
+                    st.write(
+                        f"🔢 **Video Number:** {number}"
+                    )
+
+
+                    # ---------------------------------------------
+                    # TIMESTAMP
+                    # ---------------------------------------------
+
+                    start_time = row.get(
+                        "start",
+                        row.get("start_time", 0)
+                    )
+
+                    end_time = row.get(
+                        "end",
+                        row.get("end_time", 0)
+                    )
+
+
+                    start_formatted = format_time(
+                        start_time
+                    )
+
+                    end_formatted = format_time(
+                        end_time
+                    )
+
+
+                    st.success(
+                        f"⏱️ **Timestamp: "
+                        f"{start_formatted} → "
+                        f"{end_formatted}**"
+                    )
+
+
+                    # ---------------------------------------------
+                    # COURSE CONTENT
+                    # ---------------------------------------------
+
+                    st.write(
+                        "🎥 **Course Content:**"
+                    )
+
+                    text = row.get(
+                        "text",
+                        "No text available"
+                    )
+
+                    st.write(text)
+
+
+                    # ---------------------------------------------
+                    # VIDEO POSITION
+                    # ---------------------------------------------
+
+                    st.info(
+                        f"▶️ Go to approximately "
+                        f"**{start_formatted}** "
+                        f"in this video."
+                    )
+
+
+                    # ---------------------------------------------
+                    # SEPARATOR
+                    # ---------------------------------------------
+
+                    st.divider()
+
+
+            except Exception as e:
+
+                st.error(
+                    "Something went wrong while searching."
+                )
+
+                st.exception(e)
