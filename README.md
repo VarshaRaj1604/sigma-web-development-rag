@@ -4,7 +4,12 @@ An AI-powered RAG system for the Sigma Web Development Course.
 
 ## 🚀 Live Website
 
-👉 [Open Sigma Web Development AI Assistant](https://sigma-web-development-rag-8q5jwpm3ntmyihcq8pqdwh.streamlit.app/)
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > cb64124 (Update README)
+> > > > > > > 👉 [Open Sigma Web Development AI Assistant](https://sigma-web-development-rag-8q5jwpm3ntmyihcq8pqdwh.streamlit.app/)
 
 ## 💻 GitHub Repository
 
